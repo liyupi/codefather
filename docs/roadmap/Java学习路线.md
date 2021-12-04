@@ -1358,7 +1358,7 @@ Nginx 的基本使用非常简单，甚至不需要看任何的视频，跟着�
 
     - ⭐ 尚硅谷 Dubbo 教程：https://www.bilibili.com/video/BV1ns411c7jV
 
-    - ⭐ 尚硅谷 SpringCloud（H版&alibaba）框架开发教程（微服务分布式架构）：https://www.bilibili.com/video/BV18E411x7eT（把国外的 Spring Cloud 和国内的 Spring Cloud Alibaba 结合在一起对比着去讲，主流技术栈、知识点都讲到了，真心不错！）
+    - ⭐ 尚硅谷 SpringCloud（H版&alibaba）框架开发教程（微服务分布式架构）：https://www.bilibili.com/video/BV18E411x7eT （把国外的 Spring Cloud 和国内的 Spring Cloud Alibaba 结合在一起对比着去讲，主流技术栈、知识点都讲到了，真心不错！）
 
 - 文档
 
