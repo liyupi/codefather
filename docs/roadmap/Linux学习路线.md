@@ -45,11 +45,11 @@
 - 发展历史
 - ⭐ 特点和优势
 - 应用场景
-- ⭐ 常见 Linux 系统版本（推荐 CentOS 7+）
-  - ⭐ CentOS
+- ⭐ 常见 Linux 系统版本（推荐 openSUSE leap 15.5+）
+  - CentOS
   - ⭐ Ubuntu
   - Debian
-  - Fedora
+  - ⭐ Fedora
 - 何为开源？
 
 
@@ -57,17 +57,18 @@
 ### Linux 环境
 
 - 搭建方式
-  - ⭐ 虚拟机
+  - 虚拟机
   - ⭐ 云服务器
   - 在线工具
-  - WSL
+  - ⭐ WSL
   - Docker 容器
 
 - 远程连接
   - ⭐ SSH
   - 连接工具
-    - ⭐ XShell
+    - XShell
     - ⭐ MobaXterm
+    - ⭐ WindTerm
     - SecureCRT
     - Putty
 
@@ -75,7 +76,7 @@
 
 ### Linux 常用命令
 
-> 此处只列举命令名称，命令的具体用法可直接在手册中（https://www.linuxcool.com/）查询
+> 此处只列举命令名称，命令的具体用法可直接在[手册中](https://www.linuxcool.com/)查询
 
 
 
@@ -157,8 +158,9 @@
 - jobs 查看系统任务
 - ps 查看进程
 - kill 杀死进程
-- rpm / yum / apt / apt-get / dpkg 软件包管理
+- rpm / yum / dnf / apt / apt-get / dpkg / zypper / pacman / apk 软件包管理
 - service / systemctl 服务管理
+- journalctl 系统日志查询
 
 
 
@@ -166,7 +168,7 @@
 
 - ifconfig 查看网络属性
 - netstat 查看网络状态
-- iptables 查看 iptables 规则
+- iptables 查看 / 管理 iptables 规则
 
 
 
@@ -218,7 +220,9 @@
 
 
 ### VIM 编辑器
+[💐R.I.P💐Bram Moolenaar：🎂1961 –🕯️3 August 2023](https://en.wikipedia.org/wiki/Bram_Moolenaar)
 
+- 退出vim
 - 基本操作
 - 模式
 
