@@ -79,10 +79,6 @@ export default [
         ]
     },
     {
-        text: "编程词典",
-        link: "/编程词典/"
-    },
-    {
         text: "项目实战",
         link: '/项目实战/',
         items: [
@@ -120,6 +116,10 @@ export default [
     {
         text: "产品服务",
         link: '/产品服务/'
+    },
+    {
+        text: "编程词典",
+        link: "/编程词典/"
     },
     {
         text: "作者",
