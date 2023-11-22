@@ -30,7 +30,14 @@ export default [
       "基于 Session 实现短信登录.md",
       "Synchronized 关键字详解.md",
       "Redission 解锁异常解决方案.md",
-        "实现主题换肤( CSS 变量 + 类名切换).md"
+      "实现主题换肤( CSS 变量 + 类名切换).md",
+      "SpringBoot 整合 Minio全流程（从安装 Minio 到应用）.md",
+      "【Redis应用】UV统计.md",
+      "《贯穿设计模式》第三方登录实践[附前后端完整过程及测试].md",
+      "Websocket.+ Spring-SseEmitter3 实现讯飞星火Java客户端.md",
+      "用布隆过滤器实现检查用户名是否存在(用户注册).md",
+      "SpringSecurity 整合 Oauth2.md",
+      "前端初始化 Ant Design Pro 笔记.md"
     ],
   },
 ];

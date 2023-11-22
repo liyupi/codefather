@@ -7,11 +7,13 @@ import productSideBar from "./sidebars/productSideBar";
 import selfStudySideBar from "./sidebars/selfStudySideBar";
 import programmingShareSideBar from "./sidebars/programmingShareSideBar";
 import programmingDictionarySideBar from "./sidebars/programmingDictionarySideBar";
+import AlgorithmClearanceSideBar from "./sidebars/AlgorithmClearanceSideBar";
 // @ts-ignore
 export default {
     "/学习路线/": roadmapSideBar,
     "/项目实战/": projectSideBar,
     "/编程导航/": codeNavSideBar,
+    "/算法通关/": AlgorithmClearanceSideBar,
     "/产品服务/": productSideBar,
     "/知识碎片/": knowledgeSideBar,
     "/自学之路/": selfStudySideBar,
