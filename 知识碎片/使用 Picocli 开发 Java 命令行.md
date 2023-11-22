@@ -77,7 +77,7 @@ public class ASCIIArt implements Runnable {
 
 看不懂这段代码没关系，官方文档已经给了非常详细的解释：
 
-![img](https://pic.yupi.icu/1/1700040641153-0c05e74a-db72-43b1-8ef5-3567860838ff.png)
+![](https://pic.yupi.icu/1/1700040641153-0c05e74a-db72-43b1-8ef5-3567860838ff.png)
 
 
 
@@ -96,7 +96,7 @@ public class ASCIIArt implements Runnable {
 
 3）让我们更改主程序的执行参数（args）来测试程序，能够成功看到输出结果，如下图：
 
-![img](https://pic.yupi.icu/1/1700041815338-c2c1fef4-5c05-4009-ac92-b2e70ff45fbf.png)
+![](https://pic.yupi.icu/1/1700041815338-c2c1fef4-5c05-4009-ac92-b2e70ff45fbf.png)
 
 
 
@@ -127,7 +127,7 @@ public class ASCIIArt implements Runnable {
 
 然后将主程序的输入参数设置为 `--help` 就能打印出命令的帮助手册信息了，如下图：
 
-![img](https://pic.yupi.icu/1/1700048669030-53dff5eb-e85e-4100-80d9-c1a115e3f4fb.png)
+![](https://pic.yupi.icu/1/1700048669030-53dff5eb-e85e-4100-80d9-c1a115e3f4fb.png)
 
 
 
@@ -148,7 +148,7 @@ Picocli 使用注解的方式实现命令解析，不需要自己编写代码，
 
 
 
-![img](https://pic.yupi.icu/1/1697706939532-3585f0ad-6263-4025-a53e-8942f8d479ae.png)
+![](https://pic.yupi.icu/1/1697706939532-3585f0ad-6263-4025-a53e-8942f8d479ae.png)
 
 
 
@@ -212,7 +212,7 @@ int[] values;
 
 如下图：
 
-![img](https://pic.yupi.icu/1/1700037720683-a1e41e6a-c1a2-4269-b7ff-ba8d2c3d5639.png)
+![](https://pic.yupi.icu/1/1700037720683-a1e41e6a-c1a2-4269-b7ff-ba8d2c3d5639.png)
 
 
 
@@ -300,7 +300,7 @@ new CommandLine(new Login()).execute("-u", "user123", "-p");
 
 执行上述代码，看到程序提示我们输入密码：
 
-![img](https://pic.yupi.icu/1/1700050709553-2cfad7c4-c37f-46c5-a593-d6631eff55e4.png)
+![](https://pic.yupi.icu/1/1700050709553-2cfad7c4-c37f-46c5-a593-d6631eff55e4.png)
 
 
 
@@ -341,7 +341,7 @@ public class Login implements Callable<Integer> {
 
 但运行上述代码我们会发现，怎么只提示我输入了密码，没提示我输入确认密码呢？
 
-![img](https://pic.yupi.icu/1/1700051752143-92b6f02f-aa14-424b-9c54-8b2d5e04cf1c.png)
+![](https://pic.yupi.icu/1/1700051752143-92b6f02f-aa14-424b-9c54-8b2d5e04cf1c.png)
 
 
 
@@ -359,7 +359,7 @@ public static void main(String[] args) {
 
 再次执行，这下程序会依次提醒我们输入两个选项啦：
 
-![img](https://pic.yupi.icu/1/1700052002163-af63e9de-fcc8-402a-9f69-2e2aca5ffaba.png)
+![](https://pic.yupi.icu/1/1700052002163-af63e9de-fcc8-402a-9f69-2e2aca5ffaba.png)
 
 
 
@@ -392,7 +392,7 @@ new CommandLine(new Login()).execute("-u", "user123", "-p", "xxx", "-cp");
 
 执行效果如下图，出现了参数不匹配的报错：
 
-![img](https://pic.yupi.icu/1/1697709783383-69cdcaf7-a0d1-4066-b2c3-76f2e3a444ae.png)
+![](https://pic.yupi.icu/1/1697709783383-69cdcaf7-a0d1-4066-b2c3-76f2e3a444ae.png)
 
 
 
@@ -421,7 +421,7 @@ new CommandLine(new Login()).execute("-u", "user123", "-p", "123", "-cp");
 
 执行结果如图，不再提示让用户输入 password 选项，而是直接读取了命令中的值：
 
-![img](https://pic.yupi.icu/1/1697709910415-fd5682b0-437d-457d-aafa-755e5d5b0b79.png)
+![](https://pic.yupi.icu/1/1697709910415-fd5682b0-437d-457d-aafa-755e5d5b0b79.png)
 
 
 
@@ -472,7 +472,7 @@ new CommandLine(new Login()).execute("-u", "user123");
 
 执行就会发现，程序不会提示用户输入 `-p` 选项的参数，而是直接输出结果，值为 null：
 
-![img](https://pic.yupi.icu/1/1697708702566-bb73d012-c9af-424a-8f10-76ae211b2e05.png)
+![](https://pic.yupi.icu/1/1697708702566-bb73d012-c9af-424a-8f10-76ae211b2e05.png)
 
 
 
@@ -638,7 +638,7 @@ public class SubCommandExample implements Runnable {
 
 测试运行，发现当输入 `--help` 参数时，打印出了主命令和所有的子命令信息，证明子命令绑定成功：
 
-![img](https://pic.yupi.icu/1/1700117369350-280c6da3-1fdc-40bf-81c2-0697958c617e.png)
+![](https://pic.yupi.icu/1/1700117369350-280c6da3-1fdc-40bf-81c2-0697958c617e.png)
 
 
 
