@@ -1,3 +1,0 @@
-# Hadoop
-
-Hadoop是一种开源的分布式计算框架，可用于存储和处理大型数据集。它最初是由Apache基金会的Doug Cutting所创建的。Hadoop由两个核心部分组成：Hadoop分布式文件系统（HDFS）和MapReduce计算系统。HDFS是一个高度可靠的文件系统，可以将大量数据存储在廉价的计算机集群中，并使用MapReduce处理数据。当然，MapReduce和HDFS并非Hadoop唯一的组件，它还涉及其他组件，例如Zookeeper，HBase和Hive等等。因为Hadoop被设计成可以在规模上水平扩展，因此可以轻松扩展以处理几何级数的数据，并且在当前的大数据应用程序中被广泛使用。
