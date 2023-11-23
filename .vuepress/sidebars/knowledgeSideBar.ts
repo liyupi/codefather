@@ -37,7 +37,9 @@ export default [
       "Websocket.+ Spring-SseEmitter3 实现讯飞星火Java客户端.md",
       "用布隆过滤器实现检查用户名是否存在(用户注册).md",
       "SpringSecurity 整合 Oauth2.md",
-      "前端初始化 Ant Design Pro 笔记.md"
+      "前端初始化 Ant Design Pro 笔记.md",
+      "LiteFlow 编排式编程简单介绍.md",
+      "基于 Redis 实现短信登录.md"
     ],
   },
 ];
