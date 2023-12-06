@@ -14,7 +14,7 @@ export default [
     title: "星球",
     icon: "/icon/xingqiu.png",
     popoverTitle:
-      '<span style="font-size:0.8rem;font-weight:bold;"><span style="font-size:8px;color:red;">保姆级实战项目教程</span>、编程学习指南、学习资源、求职指南、技术分享、编程交流</span>',
+      '<span style="font-size:0.8rem;font-weight:bold;"><span style="color:red;">保姆级实战项目教程</span>、编程学习指南、学习资源、求职指南、技术分享、编程交流</span>',
     popoverUrl:
       "/qrcode-codenav.png",
     popoverDesc: "知识星球：编程导航",
@@ -23,7 +23,7 @@ export default [
     title: "交流群",
     icon: "/icon/weixin.png",
     popoverTitle:
-      '<span style="font-size:0.8rem;font-weight:bold;">扫码添加 <span style="font-size:8px;color:red;">编程导航小助手微信</span>，拉你进专属编程学习交流群</span>',
+      '<span style="font-size:0.8rem;font-weight:bold;">扫码添加 <span style="color:red;">编程导航小助手微信</span>，拉你进专属编程学习交流群</span>',
     popoverUrl:
       "/qrcode-codenavhelper.png",
   },
