@@ -63,7 +63,7 @@ export default {
   display flex
   justify-content space-around
   margin 0 auto
-    li, a , p, span
+  li, a , p, span
     word-wrap break-word
 .theme-default-content
   margin 0 !important
