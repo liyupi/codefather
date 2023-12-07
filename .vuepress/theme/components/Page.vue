@@ -2,7 +2,7 @@
   <main class="page">
     <slot name="top" />
       <div class="content">
-          <div>
+          <div style="width:100%">
               <Content class="theme-default-content custom-content"  />
               <PageEdit />
               <!--      <div class="option-box-toc-fixed">-->
@@ -63,6 +63,8 @@ export default {
   display flex
   justify-content space-around
   margin 0 auto
+  li, a , p, span
+    word-wrap break-word
 .theme-default-content
   margin 0 !important
 
