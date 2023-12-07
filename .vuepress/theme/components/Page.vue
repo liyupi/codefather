@@ -4,7 +4,7 @@
       <div class="content">
           <div style="width:100%">
               <Content class="theme-default-content custom-content"  />
-              <PageEdit />
+              <PageEdit style="margin: 0"/>
               <!--      <div class="option-box-toc-fixed">-->
               <!--         -->
               <!--      </div>-->
