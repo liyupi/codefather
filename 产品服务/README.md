@@ -38,8 +38,6 @@
 
 编程导航网站：[https://www.code-nav.cn](https://www.code-nav.cn)（编程交流、面试题、简历修改平台）
 
-[算法学习 - 编程导航算法通关村](https://yuyuanweb.feishu.cn/wiki/J9qLwpv75iropZkXpmIcYrZ8nNM) 
-
 [后端突击 - 狂飙后端训练营](https://yuyuanweb.feishu.cn/wiki/EShmwklfJifDv4k4fCEcdp0Qnrd) 
 
 [前端突击 - 前端面试训练营](https://yuyuanweb.feishu.cn/wiki/UIoAwQAZLiDecgkVw65cQFoenKf)

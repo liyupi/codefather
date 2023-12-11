@@ -114,10 +114,6 @@ export default [
         link: '/编程导航/'
     },
     {
-        text: "算法通关",
-        link: '/算法通关/'
-    },
-    {
         text: "产品服务",
         link: '/产品服务/'
     },

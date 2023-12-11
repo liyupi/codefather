@@ -202,7 +202,6 @@ Java 8 是如今企业开发中最主流的 Java 稳定版本，在这个版本�
    - 《计算机科学速成课》：[https://www.bilibili.com/video/BV1EW411u7th](https://www.bilibili.com/video/BV1EW411u7th) （从底层到上层的计算机知识科普，强烈推荐）
 - 书籍 
    - 《半小时漫画计算机》：[https://book.douban.com/subject/35619441/](https://book.douban.com/subject/35619441/)
-- 闯关学算法：[编程导航算法通关村](https://yuyuanweb.feishu.cn/wiki/J9qLwpv75iropZkXpmIcYrZ8nNM)
 
 ### 🌖 操作系统
 详情请参考学习路线：[操作系统学习路线](https://bcdh.yuque.com/books/share/2dd2567c-a826-4d9d-9303-bd288269e874/udgg85)
