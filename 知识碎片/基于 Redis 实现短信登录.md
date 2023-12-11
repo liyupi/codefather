@@ -185,7 +185,7 @@ Set<Object> cacheKey = stringRedisTemplate.
              .keys(LOGIN_USER_KEY + phone);
          //基于token获取redis中的用户
          String tokenkey=LOGIN_USER_KEY + phone;
-         if (cacheKey ==null||!cacheKey.equals(tokenkey)) {
+         if (cacheKey ==null||!cacheKey.contains(tokenkey)) {
              //校验验证码
              //Object cachecode = session.getAttribute("code");
              String cachecode = stringRedisTemplate.opsForValue().get(LOGIN_CODE_KEY + phone);
