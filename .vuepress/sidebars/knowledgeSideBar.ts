@@ -56,7 +56,9 @@ export default [
       "MyBatis 整合多数据源.md",
       "1秒将本地SpringBoot项目jar包部署到Linux环境.md",
       "DDD 是什么？.md",
-      "Oracle到MySQL函数替换方案汇总.md"
+      "Oracle到MySQL函数替换方案汇总.md",
+      "Springboot 引入 Nacos ( Windows 版).md",
+      "利用局域网搭建虚拟机实现访问项目.md"
     ],
   },
 ];
