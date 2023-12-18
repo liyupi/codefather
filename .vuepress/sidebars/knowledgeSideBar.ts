@@ -58,7 +58,12 @@ export default [
       "DDD 是什么？.md",
       "Oracle到MySQL函数替换方案汇总.md",
       "Springboot 引入 Nacos ( Windows 版).md",
-      "利用局域网搭建虚拟机实现访问项目.md"
+      "利用局域网搭建虚拟机实现访问项目.md",
+      "浅谈 cookie 和 session.md",
+      "用 QQ 邮箱实现验证码功能.md",
+      "Redis 实现文章点赞功能(附带前后端代码、数据库).md",
+      "阿里云短信服务实现手机验证码.md",
+      "【Ajax】异步通信.md"
     ],
   },
 ];
