@@ -9,7 +9,7 @@
 
 ## 什么是编程导航？
 
-> 看视频快速了解：https://www.bilibili.com/video/BV1BN4y1h7UG
+> 看视频快速了解：[https://www.bilibili.com/video/BV1BN4y1h7UG](https://www.bilibili.com/video/BV1BN4y1h7UG)
 
 编程导航是国内顶尖的编程学习交流圈，提供了 `学编程 => 做项目 => 找工作 => 职场交流` 的一条龙服务。
 
