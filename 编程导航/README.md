@@ -1,6 +1,6 @@
 # 编程导航知识星球
 
-编程导航知识星球是由 [程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah) 创建的，帮助你更快学好编程、少走弯路的圈子，已运营 700 多天，有 **2.5 万** 多名小伙伴加入。
+编程导航知识星球是由 [程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah) 创建的，帮助你更快学好编程、少走弯路的圈子，已运营 700 多天，有 **2.6 万** 多名小伙伴加入。
 
 > 已经帮助多名小伙伴拿到大厂 offer，建议看完本文，帮助你节省学习时间
 
