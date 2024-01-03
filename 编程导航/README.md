@@ -29,16 +29,6 @@
 
 ![编程导航 PC 端界面](https://pic.yupi.icu/1/(null)-20230916163907247.png)
 
-### 🧧 元旦限时优惠！
-
-元旦期间，限时发放大额优惠 🧧，**名额有限，1 月 2 日截止！**
-
-欢迎小伙伴们扫码领券加入学习，快速提升编程和项目实战能力 👏🏻 
-
-> 新项目正在热播中： [定制化代码生成项目（热播中 🔥）](https://yuyuanweb.feishu.cn/wiki/O3akwwSFviWzd3k4XOncRghonvd) ，欢迎加入学习！
-
-![](https://pic.yupi.icu/5563/202312291125084.png)
-
 ## 加入星球
 
 🧧 加入 3 天内不满意可以全额退款，建议大家自己加入体验：[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，有没有用自己试了才知道！

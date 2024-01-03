@@ -73,7 +73,8 @@ export default [
       "理解 IO 多路复用.md",
       "ElasticSearch 基础概念与入门使用.md",
       "理解进程，线程，协程.md",
-      "理解原码、反码、补码.md"
+      "理解原码、反码、补码.md",
+      "定义API并生成代码（ Go 微服务框架 Kratos ）.md"
     ],
   },
 ];
