@@ -74,7 +74,16 @@ export default [
       "ElasticSearch 基础概念与入门使用.md",
       "理解进程，线程，协程.md",
       "理解原码、反码、补码.md",
-      "定义API并生成代码（ Go 微服务框架 Kratos ）.md"
+      "定义API并生成代码（ Go 微服务框架 Kratos ）.md",
+      "使用对象存储实现文件上传下载.md",
+      "MarkDown 文本解析成 HTML 并生成大纲.md",
+      "10 分钟快速搞懂 Lambda 表达式.md",
+      "SpringBoot 项目中快速引入 Rabbit MQ 通用做法.md",
+      "OJ 竞赛排行榜统计逻辑设计与代码实现.md",
+      "多语言代码沙箱的设计与实现(OJ 在线判题系统).md",
+      "Java 8 新特性：Stream 流快速入门.md",
+      "使用 NVM 快捷管理 Node 版本（Win版）.md",
+      "Vue3 快速实现文件上传 OSS.md"
     ],
   },
 ];

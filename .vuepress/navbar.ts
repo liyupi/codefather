@@ -103,6 +103,9 @@ export default [
             {
                 text: "Java 后端万用项目模板", link: "/项目实战/Java 后端万用项目模板.md",
             },
+            {
+                text: "代码生成器共享平台",link: "/项目实战/代码生成器共享平台.md"
+            }
         ]
     },
     {
