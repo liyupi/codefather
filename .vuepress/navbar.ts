@@ -83,6 +83,9 @@ export default [
         link: '/项目实战/',
         items: [
             {
+                text: "代码生成器共享平台",link: "/项目实战/代码生成器共享平台.md"
+            },
+            {
                 text: "OJ 判题系统", link: "/项目实战/OJ 判题系统.md",
             },
             {
@@ -103,9 +106,6 @@ export default [
             {
                 text: "Java 后端万用项目模板", link: "/项目实战/Java 后端万用项目模板.md",
             },
-            {
-                text: "代码生成器共享平台",link: "/项目实战/代码生成器共享平台.md"
-            }
         ]
     },
     {
