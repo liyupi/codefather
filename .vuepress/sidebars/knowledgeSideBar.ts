@@ -83,7 +83,8 @@ export default [
       "多语言代码沙箱的设计与实现(OJ 在线判题系统).md",
       "Java 8 新特性：Stream 流快速入门.md",
       "使用 NVM 快捷管理 Node 版本（Win版）.md",
-      "Vue3 快速实现文件上传 OSS.md"
+      "Vue3 快速实现文件上传 OSS.md",
+      "常用的性能优化方法.md"
     ],
   },
 ];
