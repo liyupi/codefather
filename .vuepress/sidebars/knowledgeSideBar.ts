@@ -84,10 +84,15 @@ export default [
       "Java 8 新特性：Stream 流快速入门.md",
       "使用 NVM 快捷管理 Node 版本（Win版）.md",
       "Vue3 快速实现文件上传 OSS.md",
+<<<<<<< HEAD
       "如何解决缓存击穿？.md",
       "RabbitMQ一死信队列介绍和应用.md",
       "详解 SpringBoot 自定义 Starter.md",
       "从聚合搜索项目视角入门 ElasticSearch.md"
+=======
+      "常用的性能优化方法.md",
+      "常用的存储优化方法.md",
+>>>>>>> 08eb844d30e4d57f12774be3e44d757abf9a154d
     ],
   },
 ];
