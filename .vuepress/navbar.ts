@@ -74,8 +74,6 @@ export default [
             },
 
 
-
-
         ]
     },
     {
@@ -83,7 +81,10 @@ export default [
         link: '/项目实战/',
         items: [
             {
-                text: "代码生成器共享平台",link: "/项目实战/代码生成器共享平台.md"
+                text: "手写 RPC 框架", link: "/项目实战/手写 RPC 框架.md",
+            },
+            {
+                text: "代码生成器共享平台", link: "/项目实战/代码生成器共享平台.md"
             },
             {
                 text: "OJ 判题系统", link: "/项目实战/OJ 判题系统.md",
