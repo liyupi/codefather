@@ -14,7 +14,7 @@ export default {
     "/编程导航/": codeNavSideBar,
     "/产品服务/": productSideBar,
     "/知识碎片/": knowledgeSideBar,
-    "/Bug Fix/":bugFixManual,
+    "/Bug 修复手册/":bugFixManual,
     "/自学之路/": selfStudySideBar,
     "/编程分享/": programmingShareSideBar,
     "/关于我们/": ["", "个人经历"],
