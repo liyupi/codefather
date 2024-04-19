@@ -6,7 +6,7 @@ import projectSideBar from "./sidebars/projectSideBar";
 import productSideBar from "./sidebars/productSideBar";
 import selfStudySideBar from "./sidebars/selfStudySideBar";
 import programmingShareSideBar from "./sidebars/programmingShareSideBar";
-import AlgorithmClearanceSideBar from "./sidebars/AlgorithmClearanceSideBar";
+import bugFixManual from "./sidebars/bugFixManual"
 // @ts-ignore
 export default {
     "/学习路线/": roadmapSideBar,
@@ -14,6 +14,7 @@ export default {
     "/编程导航/": codeNavSideBar,
     "/产品服务/": productSideBar,
     "/知识碎片/": knowledgeSideBar,
+    "/Bug Fix/":bugFixManual,
     "/自学之路/": selfStudySideBar,
     "/编程分享/": programmingShareSideBar,
     "/关于我们/": ["", "个人经历"],

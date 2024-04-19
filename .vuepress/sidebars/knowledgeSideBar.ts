@@ -101,7 +101,13 @@ export default [
       "什么是接口的幂等性，如何保证接口的幂等性？.md",
       "DTO转VO工具.md",
       "提示工程进阶技巧（大模型）.md",
-      "MinIO+Docker 从零搭建一个文件存储服务.md"
+      "MinIO+Docker 从零搭建一个文件存储服务.md",
+       "MySQL8 绿色版安装.md",
+      "IDEA+Docker远程部署SpringBoot项目.md",
+      "函数式接口的使用.md",
+      "面试超高频考点：HashMap 源码逐行解析.md",
+      "MySQL基础知识：DDL、DML、DQL、DCL及TPL的使用.md",
+      "SpringBoot通过自定义注解实现多数据源.md"
     ],
   },
 ];
