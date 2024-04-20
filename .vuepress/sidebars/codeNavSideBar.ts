@@ -15,7 +15,7 @@ export default [
     title: "星球项目",
     collapsable: true,
     children: [
-        "/项目实战/代码生成器共享平台",
+      "/项目实战/代码生成器共享平台",
       "/项目实战/手写 RPC 框架",
       "/项目实战/OJ 判题系统",
       "/项目实战/智能 BI 平台",
