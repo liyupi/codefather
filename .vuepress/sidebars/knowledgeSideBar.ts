@@ -107,7 +107,10 @@ export default [
       "函数式接口的使用.md",
       "面试超高频考点：HashMap 源码逐行解析.md",
       "MySQL基础知识：DDL、DML、DQL、DCL及TPL的使用.md",
-      "SpringBoot通过自定义注解实现多数据源.md"
+      "SpringBoot通过自定义注解实现多数据源.md",
+      "IDEA 同时关联 GitHub 和 Gitee 远程仓库.md",
+      "缓存穿透、缓存击穿、缓存雪崩的场景以及解决方法.md",
+      "状态机概念以及使用.md"
     ],
   },
 ];
