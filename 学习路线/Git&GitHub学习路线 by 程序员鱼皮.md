@@ -74,7 +74,7 @@ B：“TNND，你改了也不跟我说一声。”
 😐 - 了解即可
 
 ### 大纲
-![Git & GitHub 学习路线 by 程序员鱼皮.png](https://cdn.nlark.com/yuque/0/2022/png/398476/1655990159102-a826251e-fbb3-461b-9318-d560cd32a13d.png#clientId=ua3c55a2b-7415-4&from=paste&height=3197&id=ub68f9a98&originHeight=7033&originWidth=1728&originalType=binary&ratio=1&rotation=0&showTitle=false&size=1000924&status=done&style=shadow&taskId=u64a6f249-5014-41bc-82a2-ac71f7a368c&title=&width=785.454528430277)
+![](https://pic.yupi.icu/5563/202404281956566.png)
 
 ### 零、无痛上手
 
