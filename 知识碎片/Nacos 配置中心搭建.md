@@ -1,6 +1,6 @@
 # Nacos 配置中心搭建
 
-> 作者：[心比天高，](https://blog.csdn.net/weixin_52258854)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 452
+> 作者：[心比天高，](https://blog.csdn.net/weixin_52258854)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 452
 
 > 官方文档：[https://nacos.io/zh-cn/docs/v2/quickstart/quick-start.html](https://nacos.io/zh-cn/docs/v2/quickstart/quick-start.html)
 

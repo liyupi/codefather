@@ -1,10 +1,10 @@
 # 玩转异步编程利器 CompletableFuture
 
-> 作者：[LYX](https://wx.zsxq.com/dweb2/index/footprint/88244812285412)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 26376
+> 作者：[LYX](https://wx.zsxq.com/dweb2/index/footprint/88244812285412)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 26376
 
 > Java异步编程工具
 
-在星球中做的许多项目我发现会经常用到了CompletableFuture，所以对这个异步编程工具做了一个总结。
+在编程导航中做的许多项目我发现会经常用到了CompletableFuture，所以对这个异步编程工具做了一个总结。
 
 # 一、CompletableFuture简介
 

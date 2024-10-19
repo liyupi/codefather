@@ -1,6 +1,6 @@
 # 【Ajax】异步通信
 
-> 作者：[观止.](https://blog.csdn.net/m0_66570338)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 6872
+> 作者：[观止.](https://blog.csdn.net/m0_66570338)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 6872
 
 【Ajax】异步通信
 

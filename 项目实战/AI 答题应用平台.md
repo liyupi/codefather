@@ -15,7 +15,7 @@
 
 用户可以基于 AI 快速制作并发布多种答题应用，支持检索和分享应用、在线答题并基于评分算法或 AI 得到回答总结；管理员可以审核应用、集中管理整站内容，并进行统计分析。
 
-> 视频介绍：https://www.bilibili.com/video/BV1m142197hg
+> 视频介绍：[https://www.bilibili.com/video/BV1m142197hg](https://www.bilibili.com/video/BV1m142197hg)
 
 
 
@@ -77,7 +77,7 @@
 
 ### 免费试看
 
-感兴趣的同学可以 **免费试看** 第一期项目回放：https://www.bilibili.com/video/BV1m142197hg
+感兴趣的同学可以 **免费试看** 第一期项目回放：[https://www.bilibili.com/video/BV1m142197hg](https://www.bilibili.com/video/BV1m142197hg)
 
 
 
@@ -151,7 +151,7 @@
 
 编程导航已有 **10 多套项目教程！** 每个项目的学习重点不同，几乎全都是前端 + 后端的 **全栈** 项目 。
 
-详细请见：https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd
+详细请见：[https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 
 
@@ -304,11 +304,9 @@
 - 项目答疑、项目交流群、学员笔记
 - 简历写法、面试题解、扩展思路
 
-以上资料均可在编程导航网站获取：https://www.code-nav.cn/course/1790274408835506178
+以上资料均可在编程导航网站获取：[https://www.codefather.cn/course/1790274408835506178](https://www.codefather.cn/course/1790274408835506178)
 
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后，可以按照帖子 https://t.zsxq.com/eJxjY 的引导认证并解锁项目资料的权限。如图：
-
-![](https://pic.yupi.icu/1/20240604145232643.png)
+点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 
 
 
 

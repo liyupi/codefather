@@ -145,100 +145,75 @@
 
 ### 学习计划
 
-项目学习计划：[https://bcdh.yuque.com/staff-wpxfif/resource/ma2fsuvmiozzfghl](https://bcdh.yuque.com/staff-wpxfif/resource/ma2fsuvmiozzfghl)
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目学习计划：[https://www.codefather.cn/course/1790979723916521474/section/1790982917618970626](https://www.codefather.cn/course/1790979723916521474/section/1790982917618970626)
 
 ### 视频教程
 
-项目完整视频教程：[https://bcdh.yuque.com/staff-wpxfif/resource/dnolv8ypvnsn2bpu](https://bcdh.yuque.com/staff-wpxfif/resource/dnolv8ypvnsn2bpu)
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目完整视频教程：[https://www.codefather.cn/course/1790979723916521474/section/1790982917618970626?contentType=video&tabKey=info](https://www.codefather.cn/course/1790979723916521474/section/1790982917618970626?contentType=video&tabKey=info)
 
 ### 项目笔记
 
-鱼皮直播笔记：[https://bcdh.yuque.com/staff-wpxfif/resource/sntu12](https://bcdh.yuque.com/staff-wpxfif/resource/sntu12)
+鱼皮直播项目笔记详细版：[https://www.codefather.cn/course/1790979723916521474/section/1790986819915526145](https://www.codefather.cn/course/1790979723916521474/section/1790986819915526145)
 
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+其他编程导航学员的笔记：
 
-项目笔记详细版：[https://bcdh.yuque.com/staff-wpxfif/resource/ypeuo3f8tx4bee3x](https://bcdh.yuque.com/staff-wpxfif/resource/ypeuo3f8tx4bee3x)
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
-
-其他星球学员的笔记：
-
-- [https://t.zsxq.com/11YlRR7Fl](https://t.zsxq.com/11YlRR7Fl)             By 哒（全集及扩展）
-- [https://t.zsxq.com/09kxtPrFS](https://t.zsxq.com/09kxtPrFS)         By 墨枫（全集）
-- [https://t.zsxq.com/0cUsrUT6j](https://t.zsxq.com/0cUsrUT6j)             By 落魄的校花（全集）
-- [https://t.zsxq.com/0cIA5buiN](https://t.zsxq.com/0cIA5buiN)      By 游戏人生（全集）
-- [https://t.zsxq.com/11CTkOxm7](https://t.zsxq.com/11CTkOxm7)    By reflux（全集）
-- [https://t.zsxq.com/11aU84q8F](https://t.zsxq.com/11aU84q8F)     By 宁西（全集）
-- [https://t.zsxq.com/11XNd4EYr](https://t.zsxq.com/11XNd4EYr)     By Vector<>（测试覆盖率报告）
-- [https://t.zsxq.com/11p3uBo9h](https://t.zsxq.com/11p3uBo9h)     By Vector<>（部署上线）
-- [https://t.zsxq.com/117Y0GkbY](https://t.zsxq.com/117Y0GkbY)    By Vector<>（涉及的安全知识总结）
-- [https://t.zsxq.com/11NF46q06](https://t.zsxq.com/11NF46q06)    By Tarnished（部署上线）
-- [https://t.zsxq.com/11n0Cv5bb](https://t.zsxq.com/11n0Cv5bb)     By 玄德（无限循环问题）
-- [https://t.zsxq.com/11qcjnyVv](https://t.zsxq.com/11qcjnyVv)       By gongwx（中文乱码）
-- [https://t.zsxq.com/11m4tHIzo](https://t.zsxq.com/11m4tHIzo)        By 爱蒲蒲（部署上线）
-- [https://t.zsxq.com/11RQ20nXP](https://t.zsxq.com/11RQ20nXP)        By YukeSeko（点两次登录问题）
+- [https://www.codefather.cn/course/1790979723916521474/section/1824388423613751298](https://www.codefather.cn/course/1790979723916521474/section/1824388423613751298)  By reflux（全集） 
+- [https://www.codefather.cn/course/1790979723916521474/section/1824372652083560449](https://www.codefather.cn/course/1790979723916521474/section/1824372652083560449) By 哒（部署上线）
+- [https://www.codefather.cn/course/1790979723916521474/section/1824372436974485505](https://www.codefather.cn/course/1790979723916521474/section/1824372436974485505) By 哒（项目扩展）
+- [https://www.codefather.cn/course/1790979723916521474/section/1824379199454257153](https://www.codefather.cn/course/1790979723916521474/section/1824379199454257153)        By 爱蒲蒲（部署上线）
+- [https://www.codefather.cn/course/1790979723916521474/section/1825828046450126849](https://www.codefather.cn/course/1790979723916521474/section/1825828046450126849)   By 小何（线上踩坑）
+- [https://www.codefather.cn/course/1790979723916521474/section/1824384542922055681](https://www.codefather.cn/course/1790979723916521474/section/1824384542922055681)             By 小火龙（项目扩展）
+- [https://www.codefather.cn/course/1790979723916521474/section/1824384958871183362](https://www.codefather.cn/course/1790979723916521474/section/1824384958871183362)      By adora（项目扩展）
 
 ### 直播大纲
 
-直播大纲：[https://bcdh.yuque.com/staff-wpxfif/resource/sf3p8kuwhfi90pqq](https://bcdh.yuque.com/staff-wpxfif/resource/sf3p8kuwhfi90pqq)
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+直播大纲：[https://www.codefather.cn/course/1790979723916521474/section/1790982841140031490?type=](https://www.codefather.cn/course/1790979723916521474/section/1790982841140031490?type=)
 
 ### 项目源码
 
-项目完整源码：[https://bcdh.yuque.com/staff-wpxfif/resource/engcisrcqsd1nf6t](https://bcdh.yuque.com/staff-wpxfif/resource/engcisrcqsd1nf6t)
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目完整源码：[https://www.codefather.cn/course/1790979723916521474/section/1790982803160608769?type=](https://www.codefather.cn/course/1790979723916521474/section/1790982803160608769?type=)
 
 ### 项目答疑
 
-项目问答专区（请在 PC 端访问星球链接）：[https://wx.zsxq.com/dweb2/index/tags/API%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0/48884884822418](https://wx.zsxq.com/dweb2/index/tags/API开放平台/48884884822418)
+项目问答专区（请在 PC 端访问编程导航链接）：[https://www.codefather.cn/tag/API%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0?current=2&pageSize=10&reviewStatus=1&sortField=createTime&sortOrder=descend&type=all](https://www.codefather.cn/tag/API%E5%BC%80%E6%94%BE%E5%B9%B3%E5%8F%B0?current=2&pageSize=10&reviewStatus=1&sortField=createTime&sortOrder=descend&type=all)
 
-可以在星球中更好地解决项目中遇到的问题：[编程导航 1 对 1 免费答疑服务](https://yuyuanweb.feishu.cn/wiki/FY7DwfanEikgzuk3yJlcXRWLnZc)
+可以在编程导航中更好地解决项目中遇到的问题：[编程导航 1 对 1 免费答疑服务](https://yuyuanweb.feishu.cn/wiki/FY7DwfanEikgzuk3yJlcXRWLnZc)
 
-项目问题答疑汇总：[https://bcdh.yuque.com/staff-wpxfif/resource/eslhtang9btwqhvx](https://bcdh.yuque.com/staff-wpxfif/resource/eslhtang9btwqhvx)
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目问题答疑汇总：[https://www.codefather.cn/course/1790979723916521474/section/1790982476348829698?contentType=text&tabKey=info](https://www.codefather.cn/course/1790979723916521474/section/1790982476348829698?contentType=text&tabKey=info)
 
 ### 项目交流群
 
-加群方式请见星球帖子：[https://t.zsxq.com/11dtAMfs8](https://t.zsxq.com/11dtAMfs8)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+加群方式请见编程导航帖子：[https://www.codefather.cn/course/1826803928691945473?contentType=text&current=1&tabKey=qunCode](https://www.codefather.cn/course/1826803928691945473?contentType=text&current=1&tabKey=qunCode)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 简历写法
 
-项目简历写法：[https://bcdh.yuque.com/staff-wpxfif/resource/qms81hql75v7zh8s](https://bcdh.yuque.com/staff-wpxfif/resource/qms81hql75v7zh8s)
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目简历写法：[https://www.codefather.cn/course/1790979723916521474/section/1790982587703406593?contentType=text&tabKey=info&type=](https://www.codefather.cn/course/1790979723916521474/section/1790982587703406593?contentType=text&tabKey=info&type=)
 
 ### 项目面试题
 
-项目面试题：[https://bcdh.yuque.com/staff-wpxfif/resource/qvvfumg8v8n6nuzm](https://bcdh.yuque.com/staff-wpxfif/resource/qvvfumg8v8n6nuzm)
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目面试题：[https://www.codefather.cn/course/1790979723916521474/section/1790982534800650242?type=](https://www.codefather.cn/course/1790979723916521474/section/1790982534800650242?type=)
 
 ### 项目面经
 
-- [https://t.zsxq.com/0cngfX6Ll](https://t.zsxq.com/0cngfX6Ll)     By 404ERROR（API项目面经）
-- [https://t.zsxq.com/1109N1Hiw](https://t.zsxq.com/1109N1Hiw)    By fenglinglingling（API项目面经）
-- [https://t.zsxq.com/11CCXbnZP](https://t.zsxq.com/11CCXbnZP)   By 只争朝夕（API项目面经）
-- [https://t.zsxq.com/11CPYhPUG](https://t.zsxq.com/11CPYhPUG)   By NO（API项目面经+智能BI平台面经）
-- [https://t.zsxq.com/13Le0lqxb](https://t.zsxq.com/13Le0lqxb)      By 蓝莓（API项目面经+智能BI平台面经）
-- [https://t.zsxq.com/11CJJui0A](https://t.zsxq.com/11CJJui0A)      By 哒（API项目面经）
+- [https://www.codefather.cn/post/1845772611939831809](https://www.codefather.cn/post/1845772611939831809) By 林寻（API项目面经）
+- [https://www.codefather.cn/post/1806573301215178754](https://www.codefather.cn/post/1806573301215178754) By fengling（API项目面经）
+- [https://www.codefather.cn/essay/1810026323143524353](https://www.codefather.cn/essay/1810026323143524353) By 哒（API 项目面经）
+- [https://www.codefather.cn/essay/1812563937081876481](https://www.codefather.cn/essay/1812563937081876481) By sherry（API 项目面经）
+- [https://www.codefather.cn/post/1834202117028450305](https://www.codefather.cn/post/1834202117028450305) By 林寻（API 项目面经）
+- [https://www.codefather.cn/post/1834535201036832770](https://www.codefather.cn/post/1834535201036832770)  By 林寻（API 项目面经）
+- [https://www.codefather.cn/post/1834856495951200258](https://www.codefather.cn/post/1834856495951200258) By 不是真的冷漠（API 项目面经）
+- [https://www.codefather.cn/course/1790979723916521474/section/1824398010521821185](https://www.codefather.cn/course/1790979723916521474/section/1824398010521821185) By refulx （API 项目面经）
+- [https://www.codefather.cn/essay/1810389023056318465](https://www.codefather.cn/essay/1810389023056318465) By 荔枝爱蓝莓（API项目面经）
 
 ## 学员反馈
 
-> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
+> 展示部分学员的真实反馈，也欢迎编程导航鱼友私信编程导航管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
 
 ### 项目总结
-
-1. [https://t.zsxq.com/11l8VW4Me](https://t.zsxq.com/11l8VW4Me) By reflux
-2. [https://t.zsxq.com/11WQRTkML](https://t.zsxq.com/11WQRTkML) By k
-3. [https://t.zsxq.com/1158to3tM](https://t.zsxq.com/1158to3tM)   By 问琴
-4. [https://t.zsxq.com/11C9sWc65](https://t.zsxq.com/11C9sWc65)  By 欧文
+1. [https://www.codefather.cn/course/1790979723916521474/section/1824388423613751298](https://www.codefather.cn/course/1790979723916521474/section/1824388423613751298)   By reflux
+2. [https://www.codefather.cn/course/1790979723916521474/section/1825828046450126849](https://www.codefather.cn/course/1790979723916521474/section/1825828046450126849)   By 小何
+3. [https://www.codefather.cn/course/1790979723916521474/section/1824384542922055681](https://www.codefather.cn/course/1790979723916521474/section/1824384542922055681)   By 小火龙
+4. [https://www.codefather.cn/course/1790979723916521474/section/1824384958871183362](https://www.codefather.cn/course/1790979723916521474/section/1824384958871183362)   By adora
 
 ### 上岸报喜
 
@@ -264,45 +239,34 @@
 
 ### 学员评价
 
-文章链接：[https://t.zsxq.com/11ngfX6Ll](https://t.zsxq.com/11ngfX6Ll)
-
 ![](https://pic.yupi.icu/1/(null)-20231026152054865.(null))
 
-文章链接：[https://t.zsxq.com/11CPYhPUG](https://t.zsxq.com/11CPYhPUG)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152055180.(null))
 
-文章链接：[https://t.zsxq.com/1118iktIC](https://t.zsxq.com/1118iktIC)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152055424.(null))
 
-文章链接：[https://t.zsxq.com/1107K48qw](https://t.zsxq.com/1107K48qw)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152055676.(null))
 
 ### 成品展示
 
-文章链接：[https://t.zsxq.com/12SKBFutp](https://t.zsxq.com/12SKBFutp)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152055923.(null))
 
-文章链接：[https://t.zsxq.com/11V8hfdaa](https://t.zsxq.com/11V8hfdaa)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152056327.(null))
 
-文章链接：[https://t.zsxq.com/11CTkOxm7](https://t.zsxq.com/11CTkOxm7)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152056709.(null))
 
-文章链接：[https://t.zsxq.com/11E2FVGoQ](https://t.zsxq.com/11E2FVGoQ)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152056994.(null))
 
-文章链接：[https://t.zsxq.com/11aU84q8F](https://t.zsxq.com/11aU84q8F)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152057349.(null))
 
-文章链接：[https://t.zsxq.com/11PcX53Se](https://t.zsxq.com/11PcX53Se)
 
 ![](https://pic.yupi.icu/1/(null)-20231026152057758.(null))
 

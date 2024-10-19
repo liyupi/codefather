@@ -1,6 +1,6 @@
 # MySQL8 绿色版安装
 
-> 作者：[Leo](https://wx.zsxq.com/dweb2/index/footprint/581115115488824)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 12644
+> 作者：[Leo](https://wx.zsxq.com/dweb2/index/footprint/581115115488824)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 12644
 
 ## 1.前言☕
 

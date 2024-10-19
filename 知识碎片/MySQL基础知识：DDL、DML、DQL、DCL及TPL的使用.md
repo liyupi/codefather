@@ -1,6 +1,6 @@
 # MySQL基础知识：DDL、DML、DQL、DCL及TPL的使用
 
-> 作者：[卍不忘☆初心](https://wx.zsxq.com/dweb2/index/group/51122858222824)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 18875
+> 作者：[卍不忘☆初心](https://wx.zsxq.com/dweb2/index/group/51122858222824)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 18875
 
 ## SQL分类
 

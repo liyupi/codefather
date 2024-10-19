@@ -1,6 +1,6 @@
 # 整合Spring JDBC操作数据库
 
-> 作者：[无题.](https://blog.csdn.net/m0_60496161?type=blog)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 4838
+> 作者：[无题.](https://blog.csdn.net/m0_60496161?type=blog)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 4838
 
 ## 整合Spring JDBC操作数据库
 

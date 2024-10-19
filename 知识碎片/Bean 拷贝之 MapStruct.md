@@ -1,6 +1,6 @@
 # Bean 拷贝之 MapStruct
 
-> 作者：[顾恙ツ](https://juejin.cn/user/128017175944557)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824)  编号 2784
+> 作者：[顾恙ツ](https://juejin.cn/user/128017175944557)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824)  编号 2784
 
 > 大家好，今天我给大家带来一个 Bean 拷贝的高效工具，MapSrtuct 。有人会问 MapSturct 是什么？简单来说，MapStruct 就是一个 Java Bean 的映射器，我们只需要在一个 XXXStructMapper 的接口中定义好方法，MapStruct 就会在编译的时候生成相应的实现类，这个实现类中包含了具体的映射代码，极大地提高了我们编码的效率，省去了大量的模板代码。
 

@@ -1,6 +1,6 @@
 # 从聚合搜索项目视角入门 ElasticSearch
 
-> 作者：[南侠](https://gitee.com/crzzx)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
+> 作者：[南侠](https://gitee.com/crzzx)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
 
 通过对比MongoDB、分析聚合搜索项目核心流程、分析搜索引擎基本原理、Elastic Stack等思考进一步了解和入门Elasticsearch
 

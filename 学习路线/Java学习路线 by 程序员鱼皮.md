@@ -344,7 +344,7 @@ Java 8 是如今企业开发中最主流的 Java 稳定版本，在这个版本�
    - SQL - 菜鸟教程：[https://www.runoob.com/sql/sql-tutorial.html](https://www.runoob.com/sql/sql-tutorial.html)
    - MySQL - 菜鸟教程：[https://www.runoob.com/mysql/mysql-tutorial.html](https://www.runoob.com/mysql/mysql-tutorial.html)
 - 网站 
-   - [数据库大全](https://www.code-nav.cn/rd/?rid=b00064a76012546b016e274a3724c5f0)：果创云收录的各种数据库表设计
+   - [数据库大全](https://www.codefather.cn/rd/?rid=b00064a76012546b016e274a3724c5f0)：果创云收录的各种数据库表设计
 
 ### 🌕 开发框架（60 天）
 
@@ -1185,7 +1185,7 @@ Nginx 的基本使用非常简单，甚至不需要看任何的视频，跟着�
 下面推荐一些优质的、较新的项目实战视频教程 + 50 套项目源码。
 
 ### 视频教程
-[编程导航知识星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 内部分享：
+[编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 内部分享：
 
 1. ⭐️ 鱼皮全程直播带做的保姆级全栈项目，带现成的简历写法和面试题：[项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)。
 2. [项目训练营（寻爱网项目）](https://t.zsxq.com/06EIMNr3R)：学习从立项到上线的完整做项目流程 + 优化思路

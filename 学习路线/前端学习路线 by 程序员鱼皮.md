@@ -261,7 +261,7 @@
 -  💬 描述：学习前端、计算机、软件开发相关基础知识，并复习巩固上阶段学到的前端三件套。 
 -  📚 资源 
    - 《JavaScript 高级程序设计》：[https://t.zsxq.com/0eKWGbTgL](https://t.zsxq.com/0eKWGbTgL)
-   - 《JavaScript 忍者秘籍》：[https://www.code-nav.cn/rd/?rid=28ee4e3e606b16c00e3c5b18609e3dc2](https://www.code-nav.cn/rd/?rid=28ee4e3e606b16c00e3c5b18609e3dc2)
+   - 《JavaScript 忍者秘籍》：[https://www.codefather.cn/rd/?rid=28ee4e3e606b16c00e3c5b18609e3dc2](https://www.codefather.cn/rd/?rid=28ee4e3e606b16c00e3c5b18609e3dc2)
 -  🎯 目标：熟悉前端三件套语法，尤其是 JavaScript，并了解互联网、域名、浏览器、服务器等，扎实前端程序员的基本功，为下面进入实战开发做准备。 
 
 ### 前端基础知识
@@ -953,7 +953,7 @@
 
 ### 学习资源
 
-- 编程导航（包含以下所有资源，强烈推荐 👍）：[https://www.code-nav.cn](https://www.code-nav.cn)
+- 编程导航（包含以下所有资源，强烈推荐 👍）：[https://www.codefather.cn](https://www.codefather.cn)
 - freeCodecamp 在线编程：[https://learn.freecodecamp.one/](https://learn.freecodecamp.one/)
 - 阿里云前端实战学习：[https://edu.aliyun.com/roadmap/frontend](https://edu.aliyun.com/roadmap/frontend)
 - W3Cschool 编程入门实战：[https://www.w3cschool.cn/codecamp/](https://www.w3cschool.cn/codecamp/)

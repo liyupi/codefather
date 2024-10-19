@@ -1,6 +1,6 @@
 # MySQL 一棵 B + 树可以存多少条数据？
 
-> 作者：[顾恙ツ](https://juejin.cn/user/128017175944557)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 2784
+> 作者：[顾恙ツ](https://juejin.cn/user/128017175944557)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 2784
 
 八股文，MySQL 一棵B+树可以存多少数据？
 

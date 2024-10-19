@@ -220,6 +220,6 @@ Yeoman 是一个生成项目模板的工具，通常用于前端项目的初始�
 
 ## 实践
 
-编程导航星球的用户中心项目使用了 IDEA 来创建 Spring Boot 项目，其他项目使用了鱼皮自己封装的 [Spring Boot 后端万用项目模板](https://yuyuanweb.feishu.cn/wiki/Nnu3wSBrri3umyk1StnctK0LnAd)，OJ 判题项目使用了微服务模板生成器。
+编程导航编程导航的用户中心项目使用了 IDEA 来创建 Spring Boot 项目，其他项目使用了鱼皮自己封装的 [Spring Boot 后端万用项目模板](https://yuyuanweb.feishu.cn/wiki/Nnu3wSBrri3umyk1StnctK0LnAd)，OJ 判题项目使用了微服务模板生成器。
 
 👉🏻 编程导航原创项目教程系列：https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd

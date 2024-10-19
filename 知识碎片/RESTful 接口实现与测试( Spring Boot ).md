@@ -1,6 +1,6 @@
 # RESTful 接口实现与测试( Spring Boot )
 
-> 作者：[无题.](https://wx.zsxq.com/dweb2/index/footprint/418844844821828)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 4838
+> 作者：[无题.](https://wx.zsxq.com/dweb2/index/footprint/418844844821828)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 4838
 
 本文将教你彻底理解如何使用spring boot开发一个RESTful接口与如何进行接口测试
 

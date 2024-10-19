@@ -1,6 +1,6 @@
 # 详解 SpringBoot 自定义 Starter
 
-> 作者：[观止.](https://www.code-nav.cn/user/1619305100524748802)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 6872
+> 作者：[观止.](https://www.codefather.cn/user/1619305100524748802)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 6872
 
 ## 一.概述
 

@@ -1,6 +1,6 @@
 # 浅谈 cookie 和 session
 
-> 作者：[Louis brilliant](https://www.code-nav.cn/user/1620599227736473602/info)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 11413
+> 作者：[Louis brilliant](https://www.codefather.cn/user/1620599227736473602/info)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 11413
 
 关于用户信息存储相关的问题
 

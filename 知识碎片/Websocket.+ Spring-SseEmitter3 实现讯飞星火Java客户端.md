@@ -1,6 +1,6 @@
 # Websocket.+ Spring-SseEmitter3 实现讯飞星火Java客户端
 
-> 作者：[摸鱼摆烂小能手](http://blog.dhx.icu)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 1083
+> 作者：[摸鱼摆烂小能手](http://blog.dhx.icu)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 1083
 
 通过websocket+SseEmitter实现讯飞星火Java客户端 , 一键CV即可接入springboot项目使用
 

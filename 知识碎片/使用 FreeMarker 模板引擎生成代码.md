@@ -1,6 +1,6 @@
 # 使用 FreeMarker 模板引擎生成代码
 
-> 作者：[程序员鱼皮](https://space.bilibili.com/12890453/)，[编程导航星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 1
+> 作者：[程序员鱼皮](https://space.bilibili.com/12890453/)，[编程导航编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 1
 
 
 
@@ -524,6 +524,6 @@ ${myList?size}
 
 ## 实践
 
-编程导航星球的定制化代码生成项目会演示如何使用 FreeMarker 模板引擎来生成代码。
+编程导航编程导航的定制化代码生成项目会演示如何使用 FreeMarker 模板引擎来生成代码。
 
 👉🏻 编程导航原创项目教程系列：https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd

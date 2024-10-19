@@ -1,6 +1,6 @@
 # 10 分钟快速搞懂 Lambda 表达式
 
-> 作者：[骑猪少年](https://wx.zsxq.com/dweb2/index/footprint/212555242214811)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 23765
+> 作者：[骑猪少年](https://wx.zsxq.com/dweb2/index/footprint/212555242214811)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 23765
 
 ## Lambda简介
 

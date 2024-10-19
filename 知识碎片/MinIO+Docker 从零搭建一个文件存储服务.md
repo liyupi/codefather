@@ -1,6 +1,6 @@
 # MinIO+Docker从零搭建一个文件存储服务
 
-> 作者：[Study.](https://blog.csdn.net/m0_66570338)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 6872
+> 作者：[Study.](https://blog.csdn.net/m0_66570338)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 6872
 
 本文，将带你使用 MinIO + Docker 来从零搭建一个文件存储服务，并在 SpringBoot 项目中上传图片到 MinIO 中。
 

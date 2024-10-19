@@ -1,6 +1,6 @@
 # ElasticSearch 基础概念与入门使用
 
-> 作者：[为](https://blog.csdn.net/Go_ahead_forever)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 14255
+> 作者：[为](https://blog.csdn.net/Go_ahead_forever)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 14255
 
 elasticsearch 是一款非常强大的开源搜索引擎，具备非常多强大的功能，可以帮助我们从海量的数据中快速找到需要的内容。在电商网站搜索商品在 Google 搜索答案……elasticsearch结合kibana、Logstash、Beats，也就是elastic stack（ELK）。被广泛应用在日志数据分析、实时监控等领域。
 

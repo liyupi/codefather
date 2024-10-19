@@ -50,18 +50,18 @@
 
 ### 书籍
 
-- ⭐《Python编程：从入门到实践》：https://www.code-nav.cn/rd/?rid=cbddf0af6064484f002658102cdbba17
-- 《python学习手册》：https://www.code-nav.cn/rd/?rid=79550af260643c8e0ce47ab84633e200
-- 《笨办法学Python3》：https://www.code-nav.cn/rd/?rid=b00064a760643bb90cbba72836995fd5
+- ⭐《Python编程：从入门到实践》：https://www.codefather.cn/rd/?rid=cbddf0af6064484f002658102cdbba17
+- 《python学习手册》：https://www.codefather.cn/rd/?rid=79550af260643c8e0ce47ab84633e200
+- 《笨办法学Python3》：https://www.codefather.cn/rd/?rid=b00064a760643bb90cbba72836995fd5
 - 《Python编程快速上手》（第2版）：https://book.douban.com/subject/35387685/
 - 《Python Cookbook 中文版》（第3版）：https://book.douban.com/subject/26381341/
-- 《父与子的编程之旅》：https://www.code-nav.cn/rd/?rid=8937eaa9615519680ed81c0e3165ee65
-- ⭐《Python 深度学习》https://www.code-nav.cn/rd/?rid=2d44d6c261624dd31224ed1b5841920c
-- 《Python网络爬虫实战》第2版：https://www.code-nav.cn/rd/?rid=b00064a7606440d40cbc2fca19192e4f
+- 《父与子的编程之旅》：https://www.codefather.cn/rd/?rid=8937eaa9615519680ed81c0e3165ee65
+- ⭐《Python 深度学习》https://www.codefather.cn/rd/?rid=2d44d6c261624dd31224ed1b5841920c
+- 《Python网络爬虫实战》第2版：https://www.codefather.cn/rd/?rid=b00064a7606440d40cbc2fca19192e4f
 - 《Python数据科学手册》：https://book.douban.com/subject/27667378/
 - 《利用Python进行数据分析》：https://book.douban.com/subject/25779298/
-- 《轻量级Django》：https://www.code-nav.cn/rd/?rid=28ee4e3e60641fd60d91fd2441418491
-- ⭐ **编程导航 - 超多 Python 书籍直接免费下载** ：https://www.code-nav.cn/topic/Python（选择书籍标签）
+- 《轻量级Django》：https://www.codefather.cn/rd/?rid=28ee4e3e60641fd60d91fd2441418491
+- ⭐ **编程导航 - 超多 Python 书籍直接免费下载** ：https://www.codefather.cn/topic/Python（选择书籍标签）
 - Python Guide（英文）：https://docs.python-guide.org/
 
 ### 文档

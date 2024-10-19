@@ -1,10 +1,10 @@
 # 后端 Spring Boot 万用模板使用
 
-> 作者：[小白条](https://gitee.com/falle22222n-leaves)，[编程导航星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 5563
+> 作者：[小白条](https://gitee.com/falle22222n-leaves)，[编程导航编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 5563
 
 
 
-今天来给大家介绍一下星球的后端 Spring Boot 万用模板的使用。
+今天来给大家介绍一下编程导航的后端 Spring Boot 万用模板的使用。
 
 ## 1、每个模块的简要概写
 

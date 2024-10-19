@@ -1,6 +1,6 @@
 # OJ 竞赛排行榜统计逻辑设计与代码实现
 
-> 作者：[南侠](https://gitee.com/crzzx)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
+> 作者：[南侠](https://gitee.com/crzzx)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
 
 介绍实现竞赛排行榜功能的设计思路和代码实现，包括数据库表设计和代码逻辑设计（Java）
 

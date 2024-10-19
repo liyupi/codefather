@@ -1,6 +1,6 @@
 # 模板引擎 - Thymeleaf 与 Freemarker
 
-> 作者：[卍不忘☆初心](https://www.code-nav.cn/post/1760679073350279169#heading-0)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/88855181881152) 编号 18875
+> 作者：[卍不忘☆初心](https://www.codefather.cn/post/1760679073350279169#heading-0)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/88855181881152) 编号 18875
 
 关于模板引擎Thymeleaf与Freemarker的笔记
 

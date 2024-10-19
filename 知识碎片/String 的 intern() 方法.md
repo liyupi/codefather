@@ -1,6 +1,6 @@
 # String 的 intern() 方法
 
-> 作者：[小何同学](https://wx.zsxq.com/dweb2/index/footprint/185541482828452)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 18055
+> 作者：[小何同学](https://wx.zsxq.com/dweb2/index/footprint/185541482828452)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 18055
 
 > 来源：在使用对秒杀券**一人一单**实现过程中用**悲观锁**用到`synchronized (id.toString().intern()){}`，实现根据用户id加锁
 

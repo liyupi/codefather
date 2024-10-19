@@ -1,6 +1,6 @@
 # 1秒将本地SpringBoot项目jar包部署到Linux环境
 
-> 作者：[are you ok?](https://blog.csdn.net/weixin_43811294?type=blog)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 589
+> 作者：[are you ok?](https://blog.csdn.net/weixin_43811294?type=blog)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 589
 
 在IDEA编辑器中`一键`将本地已经打包好的`SpringBoot`项目部署到`linux`环境，实现`秒级`部署
 

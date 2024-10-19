@@ -12,9 +12,7 @@
 
 ## 模板源码
 
-模板完整源码：[https://bcdh.yuque.com/staff-wpxfif/resource/gz47w7](https://bcdh.yuque.com/staff-wpxfif/resource/gz47w7)（附有快速使用教程）
-
-密码见星球语雀知识库：[https://t.zsxq.com/12nb1snxh](https://t.zsxq.com/12nb1snxh)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+模板完整源码：[https://www.codefather.cn/course/1789200994552225793/section/1789201346202673154?type=](https://www.codefather.cn/course/1789200994552225793/section/1789201346202673154?type=)（附有快速使用教程）
 
 ## 模板能力
 

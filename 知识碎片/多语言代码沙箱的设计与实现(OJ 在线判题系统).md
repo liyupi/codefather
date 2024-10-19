@@ -1,6 +1,6 @@
 # 多语言代码沙箱的设计与实现(OJ 在线判题系统)
 
-> 作者：[南侠](https://gitee.com/crzzx)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
+> 作者：[南侠](https://gitee.com/crzzx)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
 
 代码沙箱是OJ系统中不可或缺的一个模块。本文将为多语言代码沙箱的设计与实现提供一套独特的方案。
 

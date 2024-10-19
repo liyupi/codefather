@@ -41,6 +41,23 @@
 > 按照 [鱼皮项目学习建议](https://yuyuanweb.feishu.cn/wiki/Q4AdwjLDWiLZy0kAjHqcQinon8N)，认真完成并理解 4 个及以上的项目，做项目能力可达中厂水平。
 
 ## 🔥 鱼皮原创项目系列
+### 面试刷题平台（24 年最新）
+
+真实企业级项目，学习实战 React + Next.js 服务端渲染网站开发，后端 Redis 多级缓存、Elasticsearch 搜索、Redisson 高级数据结构、Druid 并发、HotKey 探测、Sa-Token 权限控制、Nacos 动态配置、Sentinel 流控、反爬虫设计等，提升技术运用能力。
+
+> 开始学习或了解详情：[面试鸭刷题平台](https://www.codefather.cn/course/1826803928691945473)
+>
+> 开源地址：[https://github.com/liyupi/mianshiya-next](https://github.com/liyupi/mianshiya-next)
+> 
+> 教程试看一集：[https://www.bilibili.com/video/BV1WoWUeaEbn](https://www.bilibili.com/video/BV1WoWUeaEbn)
+
+### AI 答题应用平台（24 年最新）
+
+深入业务场景，学习实战 React 跨端小程序开发、Vue3 AI 应用网站开发，后端分库分表、分布式锁、缓存、幂等设计、设计模式、RxJava 响应式编程、SSE 实时推送、线程池隔离等，大幅提升开发经验和架构设计能力，助你成为项目负责人。
+
+> 开始学习或了解详情：[AI 答题应用平台](https://www.codefather.cn/post/1797906199350734850)
+> 
+> 教程试看一集：[https://www.bilibili.com/video/BV1m142197hg](https://www.bilibili.com/video/BV1m142197hg)
 
 ### 手写 RPC 框架（24 年最新）
 
@@ -53,7 +70,7 @@
 
 > 开始学习或了解详情：[手写 RPC 框架（24 年最新）](https://yuyuanweb.feishu.cn/wiki/EweIwSYsXiEvCDkzS8BcTiAonyc)
 >
-> 开源地址：https://github.com/liyupi/yu-rpc
+> 开源地址：[https://github.com/liyupi/yu-rpc](https://github.com/liyupi/yu-rpc)
 
 ### 代码生成器共享平台（24 年最新）
 
@@ -63,9 +80,9 @@
 >
 > 在线体验：[http://yuzi.code-nav.cn](http://yuzi.code-nav.cn/)
 >
-> 视频演示：https://www.bilibili.com/video/BV1EA4m1L7tm/
+> 视频演示：[https://www.bilibili.com/video/BV1EA4m1L7tm/](https://www.bilibili.com/video/BV1EA4m1L7tm/)
 >
-> 教程试看一集：https://www.bilibili.com/video/BV1ie411Q7AV
+> 教程试看一集：[https://www.bilibili.com/video/BV1ie411Q7AV](https://www.bilibili.com/video/BV1ie411Q7AV)
 
 ### OJ 判题系统
 
@@ -73,7 +90,7 @@
 
 > 开始学习或了解详情：[OJ 判题系统（最新完结）](https://yuyuanweb.feishu.cn/wiki/LhjxwgFjwiovTVk9w2vcJoj4nid) 
 >
-> 试看一集：https://www.bilibili.com/video/BV1k841127EK
+> 试看一集：[https://www.bilibili.com/video/BV1k841127EK](https://www.bilibili.com/video/BV1k841127EK)
 
 ### 智能 BI 项目
 
@@ -81,7 +98,7 @@
 
 > 开始学习或了解详情：[智能 BI 平台](https://yuyuanweb.feishu.cn/wiki/GOyNwwip0iwGBck7NtxcpxPlnRf) 
 >
-> 试看一集：https://www.bilibili.com/video/BV1Cg4y1G7oy
+> 试看一集：[https://www.bilibili.com/video/BV1Cg4y1G7oy](https://www.bilibili.com/video/BV1Cg4y1G7oy)
 
 ### API 开放平台
 
@@ -89,7 +106,7 @@
 
 > 开始学习或了解详情：[API 开放平台](https://yuyuanweb.feishu.cn/wiki/T4XgwM2Ynib71TkeGS5cXA0pn4e) 
 >
-> 试看一集：https://www.bilibili.com/video/BV1Nd4y157Dm
+> 试看一集：[https://www.bilibili.com/video/BV1Nd4y157Dm](https://www.bilibili.com/video/BV1Nd4y157Dm)
 
 ### 聚合搜索平台
 
@@ -97,7 +114,7 @@
 
 > 开始学习或了解详情：[聚合搜索平台](https://yuyuanweb.feishu.cn/wiki/RigVw1gAdiXIfLkj6ktclEDQn7e) 
 >
-> 试看一集：https://www.bilibili.com/video/BV1ks4y1V7jC/
+> 试看一集：[https://www.bilibili.com/video/BV1ks4y1V7jC/](https://www.bilibili.com/video/BV1ks4y1V7jC/)
 
 ### 用户中心系统
 
@@ -105,7 +122,7 @@
 
 > 开始学习或了解详情：[用户中心项目](https://yuyuanweb.feishu.cn/wiki/DclswHMhkiRXckkWve1ckXTonDh) 
 >
-> 试看一集：https://www.bilibili.com/video/BV1ze4y1471b
+> 试看一集：[https://www.bilibili.com/video/BV1ze4y1471b](https://www.bilibili.com/video/BV1ze4y1471b)
 
 ### 伙伴匹配系统
 
@@ -113,7 +130,7 @@
 
 > 开始学习或了解详情：[伙伴匹配系统](https://yuyuanweb.feishu.cn/wiki/UHbLwJ5l7i6GJkkKI4Oc26Y6n1g) 
 >
-> 试看一集：https://www.bilibili.com/video/BV1hP411P7Eg
+> 试看一集：[https://www.bilibili.com/video/BV1hP411P7Eg](https://www.bilibili.com/video/BV1hP411P7Eg)
 
 ## 🔧 万用项目模板
 
@@ -137,7 +154,7 @@
 
 ## ⛺️ 项目训练营
 
-[项目训练营（寻爱网项目）](https://t.zsxq.com/06EIMNr3R)：学习从立项到上线的完整做项目流程 + 优化思路
+[项目训练营（寻爱网项目）](https://www.codefather.cn/course/1806250609774997505)：学习从立项到上线的完整做项目流程 + 优化思路
 
 > 免费试看：[点击在线观看](https://www.aliyundrive.com/s/rcFczasMKVK)，提取码: cu89
 
@@ -149,15 +166,15 @@
 
 基于 Spring Boot + React + Ant Design 组件库 + MySQL + Redis 的 **企业级周边系统**，直观清晰地展示公司周边奖品、并且提高公司内部的周边申请和管理效率。
 
-> 开始学习或了解详情：https://github.com/yuyuanweb/peripheral-backend
+> 开始学习或了解详情：[https://github.com/yuyuanweb/peripheral-backend](https://github.com/liyupi)
 >
-> 在线体验：https://prize.yuyuanweb.com/
+> 在线体验：[https://prize.yuyuanweb.com/](https://github.com/liyupi)
 
 ### 动态公告系统
 
 基于 Spring Boot + MySQL + React + Ant Design 组件库 + SweetAlert 的动态公告系统，包括后台公告管理和前端 SDK 开发，只需一行代码即可给项目增加灵活的公告弹窗展示能力，高效通知触达用户。
 
-> 开始学习或了解详情：https://bcdh.yuque.com/staff-wpxfif/resource/xivzr4ighnyh3k2g
+> 开始学习或了解详情：[https://www.codefather.cn/course/1789199181551738882](https://github.com/liyupi)
 
 ### 埋点 SDK 项目实战（C++）
 
@@ -165,17 +182,17 @@
 
 项目包含了很多大型项目涉及到的技术点，比如线程池、定时器、Windows 注册表、数据库、文件系统、日志系统、网络通信协议设计、加解密、C++ 新特性等。对于学习进阶 C++、提升项目经验会很有帮助。
 
-> 开始学习或了解详情：https://t.zsxq.com/18gzHcJzM（可在编程导航星球专栏内阅读）
+> 开始学习或了解详情：[https://www.codefather.cn/course/1793909668081098753](https://github.com/liyupi) （可在编程导航编程导航专栏内阅读）
 
-![](https://pic.yupi.icu/5563/202404191442317.png)
+![](../image/sdk_project.png)
 
 ## ⚔ 真实业务场景教程
 
 > 主打小而精的企业真实业务实战教程，快速给简历增加亮点
 
-1. [简历中英文翻译实战教程](https://bcdh.yuque.com/staff-wpxfif/resource/rmnvggxxrzi7y2e7)
-2. [单设备登录限制实战教程](https://bcdh.yuque.com/staff-wpxfif/resource/et7wdvbi8gnqg966)
-3. [短信群发实战教程](https://bcdh.yuque.com/staff-wpxfif/resource/by2arxs4kiatdhqi)
+1. [简历中英文翻译实战教程](https://www.codefather.cn/course/1789200352035184641/section/1789200491340603393?type=)
+2. [单设备登录限制实战教程](https://www.codefather.cn/course/1789200352035184641/section/1789200584584175618?type=)
+3. [短信群发实战教程](https://www.codefather.cn/course/1789200352035184641/section/1789200454422339586?type=)
 
 持续更新中。。。
 
@@ -185,59 +202,59 @@
 
 ### 鱼皮原创开源项目经验分享
 
-1. [Web 终端项目经验分享](https://t.zsxq.com/04bqFI66M)：前后端技术选型 + 系统设计 + 源码解读 + 简历亮点全面分享
-2. [面试刷题网站项目经验分享](https://t.zsxq.com/03auZnAM3)：从 0 到 1 分享数万用户网站的创作过程和经验分享
-3. [编程导航兑奖系统开发](https://t.zsxq.com/0aJywwhj6)：编程导航网站真实开发过程大揭秘
-4. [SQL 代码数据生成项目分享](https://t.zsxq.com/07fBxVsyC)：系统设计 + 源码解读 + 简历亮点全面分享
-5. [SQL 闯关式自学网站项目](https://t.zsxq.com/10npBujFl)：纯前端 Vue3 + 代码编辑器项目，适合参与开源贡献
-6. [分布式邮件调度平台](https://t.zsxq.com/12WIEE7D5)：Vue + Spring Boot + Redis + InfluxDB 的分布式项目，含设计说明书、竞赛展示 PPT
+1. [Web 终端项目经验分享](https://www.codefather.cn/course/1789200994552225793/section/1789202150334636034?type=)：前后端技术选型 + 系统设计 + 源码解读 + 简历亮点全面分享
+2. [面试刷题网站项目经验分享](https://www.code-nav.cn/live/1808332430976552962)：从 0 到 1 分享数万用户网站的创作过程和经验分享
+3. [编程导航兑奖系统开发](https://www.codefather.cn/live/1808037918957965313)：编程导航网站真实开发过程大揭秘
+4. [SQL 代码数据生成项目分享](https://www.codefather.cn/course/1789200994552225793/section/1789202105212313601?type=)：系统设计 + 源码解读 + 简历亮点全面分享
+5. [SQL 闯关式自学网站项目](https://www.codefather.cn/course/1789200994552225793/section/1789201878677954561)：纯前端 Vue3 + 代码编辑器项目，适合参与开源贡献
+6. [分布式邮件调度平台](https://www.codefather.cn/course/1789200994552225793/section/1789202193154285569?type=#)：Vue + Spring Boot + Redis + InfluxDB 的分布式项目，含设计说明书、竞赛展示 PPT
 
 ### 项目导学
 
-1. [苍穹外卖 - 外卖点餐小程序](https://t.zsxq.com/105X9LhNG)：Java Spring Boot 入门级项目，业务流程完整、功能丰富、技术多样、适合刚学完框架的同学（相比于下面的瑞吉外卖，知识更多）
-2. [瑞吉外卖 - 外卖点餐系统](https://t.zsxq.com/07Yr7i6ai)：Java Spring Boot 入门级项目，适合刚学完框架的同学
-3. [尚医通 - 在线预约挂号平台](https://t.zsxq.com/07EEiyfq7)：业务功能完整的 Java Spring Cloud 微服务项目，适合刚学完微服务的同学
-4. [硅谷课堂 - 在线学习平台](https://t.zsxq.com/07e2FIMzb)：业务功能完整的 Java Spring Cloud 微服务项目，适合想学习第三方服务对接的同学
-5. [黑马点评 - 类似大众点评的移动 APP](https://t.zsxq.com/07JMnQvne)：专门为学习 Redis 定制的单体项目，适合刚学完 Spring Boot、想系统学习 Redis 的同学
+1. [苍穹外卖 - 外卖点餐小程序](https://www.codefather.cn/course/1789200994552225793/section/1789202943246835714?type=)：Java Spring Boot 入门级项目，业务流程完整、功能丰富、技术多样、适合刚学完框架的同学（相比于下面的瑞吉外卖，知识更多）
+2. [瑞吉外卖 - 外卖点餐系统](https://www.codefather.cn/course/1789200994552225793/section/1789203156070014977?type=)：Java Spring Boot 入门级项目，适合刚学完框架的同学
+3. [尚医通 - 在线预约挂号平台](https://www.codefather.cn/course/1789200994552225793/section/1789203362291359746?type=)：业务功能完整的 Java Spring Cloud 微服务项目，适合刚学完微服务的同学
+4. [硅谷课堂 - 在线学习平台](https://www.codefather.cn/course/1789200994552225793/section/1789203428884324354?type=)：业务功能完整的 Java Spring Cloud 微服务项目，适合想学习第三方服务对接的同学
+5. [黑马点评 - 类似大众点评的移动 APP](https://www.codefather.cn/course/1789200994552225793/section/1789203495292739586?type=)：专门为学习 Redis 定制的单体项目，适合刚学完 Spring Boot、想系统学习 Redis 的同学
 
 ## 鱼皮免费开源项目
 
-鱼皮 GitHub：https://github.com/liyupi （国内：https://gitee.com/liyupi）
+鱼皮 GitHub：[https://github.com/liyupi](https://github.com/liyupi) （国内：[[https://gitee.com/liyupi](https://gitee.com/liyupi)]）
 
-SQL 闯关式自学网（纯前端项目）：https://github.com/liyupi/sql-mother
+SQL 闯关式自学网（纯前端项目）：[https://github.com/liyupi/sql-mother](https://github.com/liyupi/sql-mother)
 
-极客范儿浏览器主页（重前端项目）：https://github.com/liyupi/yuindex
+极客范儿浏览器主页（重前端项目）：[https://github.com/liyupi/yuindex](https://github.com/liyupi/yuindex)
 
-SQL 数据生成器（React + Java）：https://github.com/liyupi/sql-father-frontend-public
+SQL 数据生成器（React + Java）：[https://github.com/liyupi/sql-father-frontend-public](https://github.com/liyupi/sql-father-frontend-public)
 
-免费网络安全自学网（纯前端项目）：https://github.com/liyupi/ceshiya
+免费网络安全自学网（纯前端项目）：[https://github.com/liyupi/ceshiya](https://github.com/liyupi/ceshiya)
 
-结构化 SQL 语句生成器：https://github.com/liyupi/sql-generator
+结构化 SQL 语句生成器：[https://github.com/liyupi/sql-generator](https://github.com/liyupi/sql-generator)
 
-面试刷题网（React + Node）：https://github.com/liyupi/mianshiya-public
+面试刷题网（React + Node）：[https://github.com/liyupi/mianshiya-public](https://github.com/liyupi/mianshiya-public)
 
-编程资源网（React + 云开发）：https://github.com/liyupi/code-nav
+编程资源网（React + 云开发）：[https://github.com/liyupi/code-nav](https://github.com/liyupi/code-nav)
 
-AI 自动回复工具（Java 项目）：https://github.com/liyupi/yu-auto-reply
+AI 自动回复工具（Java 项目）：[https://github.com/liyupi/yu-auto-reply](https://github.com/liyupi/yu-auto-reply)
 
-鱼了个鱼（纯前端项目）：https://github.com/liyupi/yulegeyu
+鱼了个鱼（纯前端项目）：[https://github.com/liyupi/yulegeyu](https://github.com/liyupi/yulegeyu)
 
-表情包网站（Vue + Java）：https://github.com/liyupi/father
+表情包网站（Vue + Java）：[https://github.com/liyupi/father](https://github.com/liyupi/father)
 
-静态文档网站：https://github.com/liyupi/code-xingqiu
+静态文档网站：[https://github.com/liyupi/code-xingqiu](https://github.com/liyupi/code-xingqiu)
 
-Ikun 测试器（Vue）：https://github.com/liyupi/ikun-test
+Ikun 测试器（Vue）：[https://github.com/liyupi/ikun-test](https://github.com/liyupi/ikun-test)
 
-名称生成器（Vue）：https://github.com/liyupi/good-name
+名称生成器（Vue）：[https://github.com/liyupi/good-name](https://github.com/liyupi/good-name)
 
 ## 更多项目推荐
 
-更多项目推荐可以在 [原创编程学习路线](https://t.zsxq.com/03VFiaIQb) 和 [星球原创编程学习知识库](https://t.zsxq.com/13nb1snxh) 中查看。
+更多项目推荐可以在 [原创编程学习路线](https://www.codefather.cn/course/1789189862986850306) 和 [编程导航原创编程学习知识库](https://www.codefather.cn/course/1782335162700775426) 中查看。
 
 ## 加入学习
 
 微信扫码加入编程导航，开启您的编程项目学习之旅~
 
-> 更多关于编程导航的信息，请阅读：[💎 编程学习 - 编程导航知识星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 
+> 更多关于编程导航的信息，请阅读：[💎 编程学习 - 编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 
 
-![](https://pic.yupi.icu/5563/202404191442451.jpeg)
+![](../image/join_us.png)

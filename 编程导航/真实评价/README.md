@@ -1,8 +1,8 @@
 # 大家的真实评价
 
-星球已经运营一周年了，鱼友与星球在过去的一年里共同成长，以下是一些已加入星球的鱼友真实的反馈，便于参考：
+编程导航已经运营一周年了，鱼友与编程导航在过去的一年里共同成长，以下是一些已加入编程导航的鱼友真实的反馈，便于参考：
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 #### 目录
 
@@ -12,7 +12,7 @@
 
 ### 积极的学习氛围
 
-星球里积极向上的学习氛围，感染着每位同学，帮你告别迷茫、拒绝不想学、充满持续学习的动力。
+编程导航里积极向上的学习氛围，感染着每位同学，帮你告别迷茫、拒绝不想学、充满持续学习的动力。
 
 ![](https://www.codefather.cn/img285/25.png)
 
@@ -30,11 +30,11 @@
 
 ![](https://www.codefather.cn/img285/23.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
-### 星球直播和项目评价
+### 编程导航直播和项目评价
 
 鱼皮全程直播项目开发，从 0 到 1 带你实现一个项目的全流程：
 
@@ -48,13 +48,13 @@
 
 ![](https://www.codefather.cn/img285/29.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
 ### 大家的认可
 
-感谢朋友们的认可，希望大家都能够在星球上收获成果：
+感谢朋友们的认可，希望大家都能够在编程导航上收获成果：
 
 ![](https://www.codefather.cn/img285/54.png)
 
@@ -112,13 +112,13 @@
 
 ![](https://www.codefather.cn/img285/34.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
 ### 鱼友年度总结分享
 
-年底，星球开展了年度总结活动，带领鱼友一同回顾 2022 在星球上的成长，同时展望 2023 :
+年底，编程导航开展了年度总结活动，带领鱼友一同回顾 2022 在编程导航上的成长，同时展望 2023 :
 
 ![](https://www.codefather.cn/img285/17.png)
 
@@ -146,7 +146,7 @@
 
 ![](https://www.codefather.cn/img285/4.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
@@ -160,7 +160,7 @@
 
 ![](https://www.codefather.cn/img285/image-20230219184334733-20230219185044924.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
@@ -168,7 +168,7 @@
 
 ### 积极的学习氛围
 
-星球里积极向上的学习氛围，感染着每位同学，帮你告别迷茫、拒绝不想学、充满持续学习的动力。
+编程导航里积极向上的学习氛围，感染着每位同学，帮你告别迷茫、拒绝不想学、充满持续学习的动力。
 
 一个好的积极的学习圈子，远胜于孤军奋斗：
 
@@ -192,11 +192,11 @@
 
 ![](https://www.codefather.cn/img285/KW3OvQ9NLOa9mfcHEzWODg.png)
 
-学习累了、不想学了，就来星球转转，又充满了斗志：
+学习累了、不想学了，就来编程导航转转，又充满了斗志：
 
 ![](https://www.codefather.cn/img285/mKK-D5NmXHITrv2ZAHVCNw.png)
 
-星球上积极的学习氛围，感染着每一个加入的鱼友：
+编程导航上积极的学习氛围，感染着每一个加入的鱼友：
 
 ![](https://www.codefather.cn/img285/DdRrBcxEljAAJF_fFCnI0A.png)
 
@@ -204,7 +204,7 @@
 
 ![](https://www.codefather.cn/img285/80JnrZTschAq2bTE2pK9Gg.png)
 
-星球的同学都很努力，激发自身学习的动力：
+编程导航的同学都很努力，激发自身学习的动力：
 
 ![](https://www.codefather.cn/img285/wk5ObfYdHu6GQO073O8-7w.png)
 
@@ -230,7 +230,7 @@
 
 ![](https://www.codefather.cn/img285/1NNaXT5yJgH8oAm01A4PDQ.png)
 
-星球上各类编程学习路线、资源汇总以及优质的问答内容，是鱼友前行的指南：
+编程导航上各类编程学习路线、资源汇总以及优质的问答内容，是鱼友前行的指南：
 
 ![](https://www.codefather.cn/img285/esQ2XySrx0zYFVUAgl0xnQ.png)
 
@@ -250,7 +250,7 @@
 
 ![](https://www.codefather.cn/img285/HB5N5ahGxG5a8bDTzkU04A.png)
 
-星球上努力的人很多，上至清华、北大、硕博鱼友，下到小学、初中：
+编程导航上努力的人很多，上至清华、北大、硕博鱼友，下到小学、初中：
 
 ![](https://www.codefather.cn/img285/E9W1TgeOBF0hNsmpp4uucQ.png)
 
@@ -278,7 +278,7 @@
 
 ![](https://www.codefather.cn/img285/-dtkyHEXcnmdcqJy5X6CwA.png)
 
-对大学感到迷茫的同学，强烈推荐看一下我给母校的分享讲座视频（星球直播回放里）：
+对大学感到迷茫的同学，强烈推荐看一下我给母校的分享讲座视频（编程导航直播回放里）：
 
 ![](https://www.codefather.cn/img285/U3tyPBBih8e4MGjp7Z4Slw.png)
 
@@ -290,7 +290,7 @@
 
 ![](https://www.codefather.cn/img285/lv6xdyQxIiGlDASJatrYjQ.png)
 
-每天的星球学习打卡，鞭笞着鱼友努力学习：
+每天的编程导航学习打卡，鞭笞着鱼友努力学习：
 
 ![](https://www.codefather.cn/img285/xOp42joDJBqam7yxGCOwLg.png)
 
@@ -298,11 +298,11 @@
 
 ![](https://www.codefather.cn/img285/EaIpQQMJsdntMvzJF-pGrg.png)
 
-星球学习一个月后的反思：
+编程导航学习一个月后的反思：
 
 ![](https://www.codefather.cn/img285/Qc-Nh_giYf-biG2Mh7rHOQ.png)
 
-向星球上优秀鱼友学习并靠齐：
+向编程导航上优秀鱼友学习并靠齐：
 
 ![](https://www.codefather.cn/img285/aWDT2nip_1ht7MRVHXgMpA.png)
 
@@ -318,7 +318,7 @@
 
 ![](https://www.codefather.cn/img285/image-20220630232401992.png)
 
-星球上大家都在努力学习着，前行路上不孤单：
+编程导航上大家都在努力学习着，前行路上不孤单：
 
 ![](https://www.codefather.cn/img285/image-20220707234715658.png)
 
@@ -334,11 +334,11 @@
 
 ![](https://www.codefather.cn/img285/1666518175215-4c6d9de6-c9f2-4a37-93d6-951143430cfc.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
-### 星球直播和项目评价
+### 编程导航直播和项目评价
 
 用户中心项目从 0 到 1带你实现一个项目的全流程：
 
@@ -346,7 +346,7 @@
 
 ![](https://www.codefather.cn/img285/O76VVCWXmhNgXQnbt9fKKQ.png)
 
-星球上的专属直播项目与各种学习路线及优质答疑，绝对值回票价（一节补习班的钱）：
+编程导航上的专属直播项目与各种学习路线及优质答疑，绝对值回票价（一节补习班的钱）：
 
 ![](https://www.codefather.cn/img285/XFAFz9fiOvqnBp7-xLOeqA.png)
 
@@ -358,7 +358,7 @@
 
 ![](https://www.codefather.cn/img285/p8507-Ui08qz4YCorGYq8g.png)
 
-带你做星球专属项目，持续分享项目开发思路和方法，帮你补充看网课时学习不到的细节：
+带你做编程导航专属项目，持续分享项目开发思路和方法，帮你补充看网课时学习不到的细节：
 
 ![](https://www.codefather.cn/img285/4qTCikH_2bkJHlozjLemmg.png)
 
@@ -390,13 +390,13 @@
 
 ![](https://www.codefather.cn/img285/TN9DzBRvqGKQAa_qIhig3A.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
 ### 大家的认可
 
-感谢朋友们的认可，希望大家都能够在星球上收获成果：
+感谢朋友们的认可，希望大家都能够在编程导航上收获成果：
 
 ![](https://www.codefather.cn/img285/_Kj2HFukreKCWA5raXk_Dg.png)
 
@@ -430,7 +430,7 @@
 
 ![](https://www.codefather.cn/img285/image-20220702113742337.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
@@ -462,7 +462,7 @@
 
 ![](https://www.codefather.cn/img285/b2nmMXzzkk_eL4wA53VQcg.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
@@ -478,7 +478,7 @@
 
 ![](https://www.codefather.cn/img285/image-20220818235121961.png)
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
 
 
 
@@ -494,6 +494,6 @@
 
 
 
-## 加入星球
+## 加入编程导航
 
-[👉🏻 点此加入星球](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)
+[👉🏻 点此加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb)

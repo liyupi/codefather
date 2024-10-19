@@ -1,6 +1,6 @@
 # 基于自定义注解的 Redisson 分布式锁实现
 
-> 作者：[are you ok?](https://blog.csdn.net/weixin_43811294)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 589
+> 作者：[are you ok?](https://blog.csdn.net/weixin_43811294)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 589
 
 ## 前言
 

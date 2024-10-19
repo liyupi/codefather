@@ -1,6 +1,6 @@
 # SpringSecurity 整合 Oauth2
 
-> 作者：[想飞天的猪头](https://www.sweetmore.cn/)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 9414
+> 作者：[想飞天的猪头](https://www.sweetmore.cn/)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 9414
 
 OAuth 是一个开放的非常重要的认证标准/协议，该标准允许用户让第三方应用访问该用户在某一网站上存储的私密资源，而SpringSecurity作为现在很重要的安全框架也支持了Oauth2协议
 

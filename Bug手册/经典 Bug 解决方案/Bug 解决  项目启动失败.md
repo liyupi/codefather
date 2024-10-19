@@ -115,6 +115,6 @@
 
 
 
-阅读官方文档真的是非常重要的！像鱼皮在 [编程导航知识星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 里带大家做了一个用户中心项目。刚做完框架版本就大更新了，结果一些同学就一脸懵逼了。其实只要仔细阅读一遍官方文档，很多问题就迎刃而解了，不用担心和视频的操作不一致，大胆探索。
+阅读官方文档真的是非常重要的！像鱼皮在 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 里带大家做了一个用户中心项目。刚做完框架版本就大更新了，结果一些同学就一脸懵逼了。其实只要仔细阅读一遍官方文档，很多问题就迎刃而解了，不用担心和视频的操作不一致，大胆探索。
 
 如果认真按照官网文档的要求进行了操作，却还是无法启动项目，就要收集尽可能多地报错信息，从中找到一些关键词去百度或询问 AI。对于开源项目，可以去框架的 Github Issues 区去搜一下，比如 [Ant Design Pro 框架](https://github.com/ant-design/ant-design-pro/issues)。

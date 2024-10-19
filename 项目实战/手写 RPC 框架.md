@@ -183,7 +183,7 @@
 
 项目学习计划：https://bcdh.yuque.com/staff-wpxfif/resource/bhczlyo21xlg4l4y
 
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+密码见编程导航语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 文字教程
 
@@ -191,49 +191,49 @@
 
 项目完整文字教程：https://bcdh.yuque.com/staff-wpxfif/resource/gowqna5casecypkr
 
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+密码见编程导航语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 项目笔记（持续更新中）
 
 鱼皮直播笔记：https://bcdh.yuque.com/staff-wpxfif/resource/gowqna5casecypkr（完整文字教程）
 
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+密码见编程导航语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 项目源码
 
 项目完整源码：https://bcdh.yuque.com/staff-wpxfif/resource/dk66sg0lpd3hkosp
 
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+密码见编程导航语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 项目答疑
 
-项目问答专区（请在 PC 端访问星球链接）：https://wx.zsxq.com/dweb2/index/tags/%E6%89%8B%E5%86%99RPC%E6%A1%86%E6%9E%B6/28881422128511
+项目问答专区（请在 PC 端访问编程导航链接）：https://wx.zsxq.com/dweb2/index/tags/%E6%89%8B%E5%86%99RPC%E6%A1%86%E6%9E%B6/28881422128511
 
-可以在星球中更好地解决项目中遇到的问题：[利用编程导航解决问题](https://yuyuanweb.feishu.cn/wiki/FY7DwfanEikgzuk3yJlcXRWLnZc)
+可以在编程导航中更好地解决项目中遇到的问题：[利用编程导航解决问题](https://yuyuanweb.feishu.cn/wiki/FY7DwfanEikgzuk3yJlcXRWLnZc)
 
 项目问题答疑汇总：https://bcdh.yuque.com/staff-wpxfif/resource/suc9olh5pxvcvhx9
 
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+密码见编程导航语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 项目交流群
 
-加群方式请见星球帖子：https://t.zsxq.com/11dtAMfs8（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+加群方式请见编程导航帖子：https://t.zsxq.com/11dtAMfs8（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 简历写法
 
 项目简历写法：https://bcdh.yuque.com/staff-wpxfif/resource/mnyr1qwvq56fexv9
 
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+密码见编程导航语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 项目面试题
 
 项目面试题：https://bcdh.yuque.com/staff-wpxfif/resource/sak10cd1xd6wr925
 
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+密码见编程导航语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ## 学员反馈
 
-> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
+> 展示部分学员的真实反馈，也欢迎编程导航鱼友私信编程导航管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
 
 ### 项目总结（持续更新中）
 

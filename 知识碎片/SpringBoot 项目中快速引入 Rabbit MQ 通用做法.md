@@ -1,6 +1,6 @@
 # SpringBoot 项目中快速引入 Rabbit MQ 通用做法
 
-> 作者：[小何同学](https://wx.zsxq.com/dweb2/index/footprint/185541482828452)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 18055
+> 作者：[小何同学](https://wx.zsxq.com/dweb2/index/footprint/185541482828452)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 18055
 
 ## ⭐由来
 

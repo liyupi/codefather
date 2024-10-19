@@ -1,6 +1,6 @@
 # 前端初始化 Ant Design Pro 笔记
 
-> 作者：[D](https://www.code-nav.cn/user/1725503305326653441/info)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29052
+> 作者：[D](https://www.codefather.cn/user/1725503305326653441/info)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29052
 
 1. npm i @ant-design/pro-cli -g
 2. npx pro create myapp
@@ -103,7 +103,7 @@ yarn config set registry [https://registry.yarnpkg.com](https://registry.yarnpkg
 - Node版本过高（最初Node版本是18.18.0），在运行Ant Design Pro的时候报错了，接着又弄了半天的nvm
 - 在弄nvm的时候问GPT需不需要卸载前面安装的Node版本，GPT回答不需要，然而结果是需要的，被GPT虚晃一枪了
 - 在弄小米饭插件的时候又弄了yarn,因为用的npm下的yarn然后没有配环境，又接着弄了半小时，唉，也许当初直接使用nvm就不会踩坑，浪费了好多时间
-- 接着装上小米饭插件又访问不到界面，挂了梯子也不行，emmm,问了星球里的小伙伴，还是没有找到问题所在处，也无关紧要了，反正后面用不到这个插件
+- 接着装上小米饭插件又访问不到界面，挂了梯子也不行，emmm,问了编程导航里的小伙伴，还是没有找到问题所在处，也无关紧要了，反正后面用不到这个插件
 
 ## 总结
 
