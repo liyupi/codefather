@@ -1,6 +1,6 @@
 # 【Redis应用】UV统计
 
-> 作者：[.](https://blog.csdn.net/m0_66570338)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 6872
+> 作者：[.](https://blog.csdn.net/m0_66570338)，[编程导航](https://www.codefather.cn) 编号 6872
 
 > Redis实现UV统计
 

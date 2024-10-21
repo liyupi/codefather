@@ -180,7 +180,7 @@ public class MyController {
 
 可能是前端的用户数据取值和后端返回数据结构不匹配，可以看下这篇文章：
 
-https://articles.zsxq.com/id_fzwstz1g2uzd.html
+[https://www.codefather.cn/post/1815827664607383554](https://www.codefather.cn/post/1815827664607383554)
 
 
 

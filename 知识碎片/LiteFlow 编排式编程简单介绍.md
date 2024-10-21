@@ -1,6 +1,6 @@
 # LiteFlow 编排式编程简单介绍
 
-> 作者：[想飞天的猪头](https://www.codefather.cn/user/1630821133601288193/info)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 9414
+> 作者：[想飞天的猪头](https://www.codefather.cn/user/1630821133601288193/info)，[编程导航](https://www.codefather.cn) 编号 9414
 
 一个好用的编排式编程框架，简单入门介绍
 

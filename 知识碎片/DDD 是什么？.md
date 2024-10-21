@@ -1,6 +1,6 @@
 # DDD 是什么？
 
-> 作者：[顾恙ツ](https://juejin.cn/user/128017175944557)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 2784
+> 作者：顾恙ツ，[编程导航](https://www.codefather.cn) 编号 2784
 
 DDD 是领域驱动设计（Domain-Driven Design）的缩写，这是一种主要软件开发方法，由 Eric Evans 在他的书《领域驱动设计：软件核心复杂性应对之道》（Domain-Driven Design: Tackling Complexity in the Heart of Software）中首次提出。
 

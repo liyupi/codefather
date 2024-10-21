@@ -1,6 +1,6 @@
 # 面试超高频考点：HashMap 源码逐行解析
 
-> 作者：[樵豆包子](https://wx.zsxq.com/dweb2/index/group/51122858222824)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 33181
+> 作者：[樵豆包子](https://www.codefather.cn)，[编程导航](https://www.codefather.cn) 编号 33181
 
 ## 总览
 

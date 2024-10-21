@@ -1,6 +1,6 @@
 # 后端 Spring Boot 万用模板使用
 
-> 作者：[小白条](https://gitee.com/falle22222n-leaves)，[编程导航编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 5563
+> 作者：[小白条](https://gitee.com/falle22222n-leaves)，[编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 5563
 
 
 

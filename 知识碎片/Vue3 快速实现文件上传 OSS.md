@@ -1,6 +1,6 @@
 # Vue3 快速实现文件上传 OSS
 
-> 作者：[吃她喵的花椒](https://efohuajiao.github.io/)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 1112
+> 作者：[吃她喵的花椒](https://efohuajiao.github.io/)，[编程导航](https://www.codefather.cn) 编号 1112
 
 使用Vue3快速实现文件上传OSS
 

@@ -1,6 +1,6 @@
 # 设计模式实践（OJ判题和聚合搜索)
 
-> 作者：[南侠](https://gitee.com/crzzx)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
+> 作者：[南侠](https://gitee.com/crzzx)，[编程导航](https://www.codefather.cn) 编号 29240
 
 介绍编程导航OJ和聚合搜索项目中使用的常用设计模式
 

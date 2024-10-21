@@ -32,11 +32,10 @@
 
 目前这位小伙也已经在我司工作一周了，不仅工作态度认真、上手工作快、文档写得好，甚至还能够超出预期完成任务，针对一个问题提出多种不同的解决方案等。等他放假来线下了，必须加餐！
 
-以下是这位小伙伴入职后在 [编程导航编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=292259508&lang=zh_CN&scene=21#wechat_redirect) 内的发的一个面经，得到了候选人的肯定，屑老板还是挺开心的哈哈（我可没绑架他）！
+以下是这位小伙伴入职后在 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=292259508&lang=zh_CN&scene=21#wechat_redirect) 内的发的一个面经，得到了候选人的肯定，屑老板还是挺开心的哈哈（我可没绑架他）！
 
 ![](https://pic.yupi.icu/5563/202311041302710.png)
 
-> 编程导航原帖：https://t.zsxq.com/0e1PImfyg
 
 还有很多小伙伴问我还招不招人？
 
@@ -49,4 +48,4 @@
 ------
 
 
-欢迎学编程的朋友们加入鱼皮的 [编程知识编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=292259508&lang=zh_CN&scene=21#wechat_redirect) ，和上万名学编程的同学共享知识、交流进步，学习原创项目并享有答疑指导服务。
+欢迎学编程的朋友们加入鱼皮的 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=292259508&lang=zh_CN&scene=21#wechat_redirect) ，和上万名学编程的同学共享知识、交流进步，学习原创项目并享有答疑指导服务。

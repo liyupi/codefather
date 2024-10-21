@@ -177,10 +177,10 @@ Java 8 是如今企业开发中最主流的 Java 稳定版本，在这个版本�
    - ⭐《Java 核心技术卷 1》：[https://www.aliyundrive.com/s/SNdB6gr1Xz4](https://www.aliyundrive.com/s/SNdB6gr1Xz4) 提取码: u74e
 
 ### 🌖 数据结构与算法
-请参考学习路线：[数据结构和算法学习路线](https://bcdh.yuque.com/books/share/2dd2567c-a826-4d9d-9303-bd288269e874/cyovgg)
+请参考学习路线：[数据结构和算法学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789191067892948993?type=)
 
 ### 🌘 计算机导论
-详情请参考：[计算机基础学习路线](https://bcdh.yuque.com/staff-wpxfif/resource/ro1v8px2ng0ifexw?view=doc_embed)
+详情请参考：[计算机基础学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789191099081793538?type=)
 
 #### 知识
 
@@ -204,7 +204,7 @@ Java 8 是如今企业开发中最主流的 Java 稳定版本，在这个版本�
    - 《半小时漫画计算机》：[https://book.douban.com/subject/35619441/](https://book.douban.com/subject/35619441/)
 
 ### 🌖 操作系统
-详情请参考学习路线：[操作系统学习路线](https://bcdh.yuque.com/books/share/2dd2567c-a826-4d9d-9303-bd288269e874/udgg85)
+详情请参考学习路线：[操作系统学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789190984099143681?type=)
 
 #### 知识
 
@@ -247,7 +247,7 @@ Java 8 是如今企业开发中最主流的 Java 稳定版本，在这个版本�
    - 浙大操作系统：[https://github.com/QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
 
 ### 🌖 计算机网络
-详情请参考学习路线：[计算机网络学习路线](https://bcdh.yuque.com/books/share/2dd2567c-a826-4d9d-9303-bd288269e874/phgtgu)
+详情请参考学习路线：[计算机网络学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789191030769164289?type=)
 
 #### 知识
 
@@ -299,7 +299,7 @@ Java 8 是如今企业开发中最主流的 Java 稳定版本，在这个版本�
 学完这个阶段后，你应该已经能独立开发出大多数常见的后台系统了，比如各种管理系统、商城系统等。
 
 ### 🌕 MySQL 数据库（7 天）
-详情请参考学习路线：[数据库学习路线](https://bcdh.yuque.com/staff-wpxfif/resource/dpikl6npld34ydll?view=doc_embed)
+详情请参考学习路线：[数据库学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789190581420793858?type=)
 
 企业中大部分业务数据都是用关系型数据库存储的，因此数据库是后台开发同学的必备技能，其中 MySQL 数据库是目前的主流，也是面试时的重点。
 
@@ -506,7 +506,7 @@ Maven / Gradle 当成工具用就好，面试基本不问，跟着框架教程�
    - Google Java Style Guide：[https://google.github.io/styleguide/javaguide.html](https://google.github.io/styleguide/javaguide.html) （谷歌 Java 代码规范）
 
 ### 🌕 Git（3 天）
-详情请参考学习路线：[Git & GitHub 学习路线](https://bcdh.yuque.com/books/share/2dd2567c-a826-4d9d-9303-bd288269e874/nvb6om)
+详情请参考学习路线：[Git & GitHub 学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789190804671012866?type=)
 
 此前大家可能听说过 GitHub，一流的代码开源托管平台。
 
@@ -552,7 +552,7 @@ Git 和它可不一样，是一个版本控制工具，可以更好地管理和�
    - Learning Git Branching：[https://learngitbranching.js.org/?locale=zh_CN](https://learngitbranching.js.org/?locale=zh_CN)
 
 ### 🌖 Linux（10 天）
-详情请参考学习路线：[Linux 学习路线](https://bcdh.yuque.com/books/share/2dd2567c-a826-4d9d-9303-bd288269e874/qofaxe)
+详情请参考学习路线：[Linux 学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789190769740849154?type=)
 
 企业中的很多前后台项目都是部署在 Linux 服务器上的，因此很有必要熟悉 Linux 的操作和脚本的编写。
 
@@ -664,7 +664,7 @@ Git 和它可不一样，是一个版本控制工具，可以更好地管理和�
 当然，这个阶段的内容有些过于丰富，不是所有的东西都要学，大家可以根据自己的实际情况（时间），有选择地学习。
 
 ### 🌘 软件工程
-详情请参考学习路线：[软件工程学习路线](https://bcdh.yuque.com/staff-wpxfif/resource/vff7p0rafgxhyryi?view=doc_embed)
+详情请参考学习路线：[软件工程学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789190653197918210?type=)
 
 软件开发和管理的一些概念、原则、技术、方法、工具和经验。
 
@@ -722,7 +722,7 @@ Git 和它可不一样，是一个版本控制工具，可以更好地管理和�
    - 浙大计算机软件工程：[https://github.com/QSCTech/zju-icicles](https://github.com/QSCTech/zju-icicles)
 
 ### 🌖 设计模式（21 天）
-详情请参考学习路线：[设计模式学习路线](https://bcdh.yuque.com/books/share/2dd2567c-a826-4d9d-9303-bd288269e874/gemmvk)
+详情请参考学习路线：[设计模式学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789190698894860290?type=)
 
 设计模式是软件开发中解决一类问题的通用方法。
 
@@ -784,7 +784,7 @@ Git 和它可不一样，是一个版本控制工具，可以更好地管理和�
    - 图说设计模式：[https://design-patterns.readthedocs.io/zh_CN/latest/](https://design-patterns.readthedocs.io/zh_CN/latest/)
 
 ### 🌕 Redis（14 天）
-详情请参考学习路线：[Redis 学习路线](https://bcdh.yuque.com/books/share/2dd2567c-a826-4d9d-9303-bd288269e874/qunv5d)
+详情请参考学习路线：[Redis 学习路线](https://www.codefather.cn/course/1789189862986850306/section/1789190541746872321?type=)
 
 缓存是高并发系统不可或缺的技术，可以提高系统的性能和并发，而 Redis 是实现缓存的最主流技术，因此它是后台开发必学的知识点，也是面试重点。
 
@@ -1188,15 +1188,15 @@ Nginx 的基本使用非常简单，甚至不需要看任何的视频，跟着�
 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 内部分享：
 
 1. ⭐️ 鱼皮全程直播带做的保姆级全栈项目，带现成的简历写法和面试题：[项目实战 - 鱼皮原创项目教程系列](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)。
-2. [项目训练营（寻爱网项目）](https://t.zsxq.com/06EIMNr3R)：学习从立项到上线的完整做项目流程 + 优化思路
-3. [从 0 到 1 开发用户中心](https://t.zsxq.com/03RjeeYZJ)：保姆级前后端完整项目教程，适合刚学完框架的新手
-4. [伙伴匹配系统](https://t.zsxq.com/03jmU7eAa)：移动端网站，设计分布式和并发编程知识，适合已经做过一个小项目的同学练习
-5. [Web 终端项目经验分享](https://t.zsxq.com/04bqFI66M)：前后端技术选型 + 系统设计 + 源码解读 + 简历亮点全面分享
-6. [面试刷题网站项目经验分享](https://t.zsxq.com/03auZnAM3)：从 0 到 1 分享数万用户网站的创作过程和经验分享
-7. [瑞吉外卖 - 外卖点餐系统](https://t.zsxq.com/07Yr7i6ai)：Java Spring Boot 入门级项目，适合刚学完框架的同学
-8. [尚医通 - 在线预约挂号平台](https://t.zsxq.com/07EEiyfq7)：业务功能完整的 Java Spring Cloud 微服务项目，适合刚学完微服务的同学
-9. [硅谷课堂 - 在线学习平台](https://t.zsxq.com/07e2FIMzb)：业务功能完整的 Java Spring Cloud 微服务项目，适合想学习第三方服务对接的同学
-10. [黑马点评 - 类似大众点评的移动 APP](https://t.zsxq.com/07JMnQvne)：专门为学习 Redis 定制的单体项目，适合刚学完 Spring Boot、想系统学习 Redis 的同学
+2. [项目训练营（寻爱网项目）]([https://www.codefather.cn/course/1806250609774997505](https://www.codefather.cn/course/1806250609774997505))：学习从立项到上线的完整做项目流程 + 优化思路
+3. [从 0 到 1 开发用户中心](https://www.codefather.cn/course/1790943469757837313)：保姆级前后端完整项目教程，适合刚学完框架的新手
+4. [伙伴匹配系统](https://www.codefather.cn/course/1790950013153095682)：移动端网站，设计分布式和并发编程知识，适合已经做过一个小项目的同学练习
+5. [Web 终端项目经验分享](https://www.codefather.cn/essay/1808581806845460481)：前后端技术选型 + 系统设计 + 源码解读 + 简历亮点全面分享
+6. [面试刷题网站项目经验分享](https://www.codefather.cn/essay/1808582645974695938)：从 0 到 1 分享数万用户网站的创作过程和经验分享
+7. [瑞吉外卖 - 外卖点餐系统](https://www.codefather.cn/post/1808581581993017346)：Java Spring Boot 入门级项目，适合刚学完框架的同学
+8. [尚医通 - 在线预约挂号平台](https://www.codefather.cn/post/1808581478360154114)：业务功能完整的 Java Spring Cloud 微服务项目，适合刚学完微服务的同学
+9. [硅谷课堂 - 在线学习平台](https://www.codefather.cn/post/1808581015011196930)：业务功能完整的 Java Spring Cloud 微服务项目，适合想学习第三方服务对接的同学
+10. [黑马点评 - 类似大众点评的移动 APP](https://www.codefather.cn/post/1808580989170089985)：专门为学习 Redis 定制的单体项目，适合刚学完 Spring Boot、想系统学习 Redis 的同学
 
 公开：
 
@@ -1213,47 +1213,47 @@ Nginx 的基本使用非常简单，甚至不需要看任何的视频，跟着�
 
 ##### 工具
 
-- Guava：谷歌开发的 Java 工具库（https://github.com/google/guava）
-- Apache Commons：各类工具库，比如 commons-lang、commons-io、commons-collections 等（https://github.com/apache/commons-lang）
-- Hutool：Java 工具集库（https://github.com/looly/hutool）
-- Lombok：Java 增强库（https://github.com/projectlombok/lombok）
-- Apache HttpComponents Client：HTTP 客户端库（https://github.com/apache/httpcomponents-client）
-- OkHttp：适用于 JVM、Android 等平台的 Http 客户端（https://github.com/square/okhttp）
-- Gson：谷歌的 JSON 处理库（https://github.com/google/gson）
-- Jcommander：Java 命令行参数解析框架（https://github.com/cbeust/jcommander）
-- Apache PDFBox：PDF 操作库（https://github.com/apache/pdfbox）
-- EasyExcel：阿里的 Excel 处理库（https://github.com/alibaba/easyexcel）
-- Apache POI：表格文件处理库（https://github.com/apache/poi）
+- Guava：谷歌开发的 Java 工具库（[https://github.com/google/guava](https://github.com/google/guava)）
+- Apache Commons：各类工具库，比如 commons-lang、commons-io、commons-collections 等（[https://github.com/apache/commons-lang](https://github.com/apache/commons-lang)）
+- Hutool：Java 工具集库（[https://github.com/looly/hutool](https://github.com/looly/hutool)）
+- Lombok：Java 增强库（[https://github.com/projectlombok/lombok](https://github.com/projectlombok/lombok)）
+- Apache HttpComponents Client：HTTP 客户端库（[https://github.com/apache/httpcomponents-client](https://github.com/apache/httpcomponents-client)）
+- OkHttp：适用于 JVM、Android 等平台的 Http 客户端（[https://github.com/square/okhttp](https://github.com/square/okhttp)）
+- Gson：谷歌的 JSON 处理库（[https://github.com/google/gson](https://github.com/google/gson)）
+- Jcommander：Java 命令行参数解析框架（[https://github.com/cbeust/jcommander](https://github.com/cbeust/jcommander)）
+- Apache PDFBox：PDF 操作库（[https://github.com/apache/pdfbox](https://github.com/apache/pdfbox)）
+- EasyExcel：阿里的 Excel 处理库（[https://github.com/alibaba/easyexcel](https://github.com/alibaba/easyexcel)）
+- Apache POI：表格文件处理库（[https://github.com/apache/poi](https://github.com/apache/poi)）
 
 ##### 测试
 
-- JUnit：Java 测试框架（https://github.com/junit-team/junit4）
-- Mockito：Java 单元测试 Mock 框架（https://github.com/mockito/mockito）
-- Selenium：浏览器自动化框架（https://github.com/SeleniumHQ/selenium）
-- htmlunit：Java 模拟浏览器（https://github.com/HtmlUnit/htmlunit）
-- TestNG：Java 测试框架（https://github.com/cbeust/testng）
-- Jacoco：Java 代码覆盖度库（https://github.com/jacoco/jacoco）
+- JUnit：Java 测试框架（[https://github.com/junit-team/junit4](https://github.com/junit-team/junit4)）
+- Mockito：Java 单元测试 Mock 框架（[https://github.com/mockito/mockito](https://github.com/mockito/mockito)）
+- Selenium：浏览器自动化框架（[https://github.com/SeleniumHQ/selenium](https://github.com/SeleniumHQ/selenium)）
+- htmlunit：Java 模拟浏览器（[https://github.com/HtmlUnit/htmlunit](https://github.com/HtmlUnit/htmlunit)）
+- TestNG：Java 测试框架（[https://github.com/cbeust/testng](https://github.com/cbeust/testng)）
+- Jacoco：Java 代码覆盖度库（[https://github.com/jacoco/jacoco](https://github.com/jacoco/jacoco)）
 
 ##### 其他
 
-- cglib：字节码生成库（https://github.com/cglib/cglib）
-- Arthas：Java 诊断工具（https://github.com/alibaba/arthas）
-- config：针对 JVM 的配置库（https://github.com/lightbend/config）
-- Quasar：Java 纤程库（https://github.com/puniverse/quasar）
-- drools：Java 规则引擎（https://github.com/kiegroup/drools）
-- Caffeine：Java 高性能缓存库（https://github.com/ben-manes/caffeine）
-- Disruptor：高性能线程间消息传递库（https://github.com/LMAX-Exchange/disruptor）
-- Knife4j：Swagger 文档增强（https://doc.xiaominfo.com/）
-- Thumbnailator：Java 缩略图生成库（https://github.com/coobird/thumbnailator）
-- Logback：Java 日志库（https://github.com/qos-ch/logback）
-- Apache Camel：消息传输集成框架（https://github.com/apache/camel）
-- Quartz：定时任务调度库（https://github.com/quartz-scheduler/quartz）
-- Apache Mahout：机器学习库（https://github.com/apache/mahout）
-- Apache OpenNLP：NLP 工具库（https://github.com/apache/opennlp）
-- RxJava：JVM 反应式编程框架（https://github.com/ReactiveX/RxJava）
-- JProfiler：性能分析库（https://www.ej-technologies.com/products/jprofiler/overview.html）
-- jsoup：HTML 文档解析库（https://jsoup.org/）
-- webmagic：Java 爬虫框架（https://github.com/code4craft/webmagic/）
+- cglib：字节码生成库（[https://github.com/cglib/cglib](https://github.com/cglib/cglib)）
+- Arthas：Java 诊断工具（[https://github.com/alibaba/arthas](https://github.com/alibaba/arthas)）
+- config：针对 JVM 的配置库（[https://github.com/lightbend/config](https://github.com/lightbend/config)）
+- Quasar：Java 纤程库（[https://github.com/puniverse/quasar](https://github.com/puniverse/quasar)）
+- drools：Java 规则引擎（[https://github.com/kiegroup/drools](https://github.com/kiegroup/drools)）
+- Caffeine：Java 高性能缓存库（[https://github.com/ben-manes/caffeine](https://github.com/ben-manes/caffeine)）
+- Disruptor：高性能线程间消息传递库（[https://github.com/LMAX-Exchange/disruptor](https://github.com/LMAX-Exchange/disruptor)）
+- Knife4j：Swagger 文档增强（[https://doc.xiaominfo.com/](https://doc.xiaominfo.com/)）
+- Thumbnailator：Java 缩略图生成库（[https://github.com/coobird/thumbnailator](https://github.com/coobird/thumbnailator)）
+- Logback：Java 日志库（[https://github.com/qos-ch/logback](https://github.com/qos-ch/logback)）
+- Apache Camel：消息传输集成框架（[https://github.com/apache/camel](https://github.com/apache/camel)）
+- Quartz：定时任务调度库（[https://github.com/quartz-scheduler/quartz](https://github.com/quartz-scheduler/quartz)）
+- Apache Mahout：机器学习库（[https://github.com/apache/mahout](https://github.com/apache/mahout)）
+- Apache OpenNLP：NLP 工具库（[https://github.com/apache/opennlp](https://github.com/apache/opennlp)）
+- RxJava：JVM 反应式编程框架（[https://github.com/ReactiveX/RxJava](https://github.com/ReactiveX/RxJava)）
+- JProfiler：性能分析库（[https://www.ej-technologies.com/products/jprofiler/overview.html](https://www.ej-technologies.com/products/jprofiler/overview.html)）
+- jsoup：HTML 文档解析库（[https://jsoup.org/](https://jsoup.org/)）
+- webmagic：Java 爬虫框架（[https://github.com/code4craft/webmagic/](https://github.com/code4craft/webmagic/)）
 
 ### IDEA 插件
 

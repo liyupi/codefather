@@ -1,6 +1,6 @@
 # Hexo+Github+Netlify博客搭建教程
 
-> 作者：[Leo](https://wx.zsxq.com/dweb2/index/footprint/581115115488824)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 12644
+> 作者：Leo，[编程导航](https://www.codefather.cn) 编号 12644
 
 
 

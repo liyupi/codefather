@@ -1,6 +1,6 @@
 # Java 实现 GitHub 第三方登录详解
 
-> 作者：[为](https://blog.csdn.net/Go_ahead_forever)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 14255
+> 作者：[为](https://blog.csdn.net/Go_ahead_forever)，[编程导航](https://www.codefather.cn) 编号 14255
 
 ## 创建一个 Github 应用
 

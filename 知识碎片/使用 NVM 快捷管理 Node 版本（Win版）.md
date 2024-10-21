@@ -1,6 +1,6 @@
 # 使用 NVM 快捷管理 Node 版本（Win版）
 
-> 作者：[Yovvis](https://blog.yovvis.top)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 22369
+> 作者：[Yovvis](https://blog.yovvis.top)，[编程导航](https://www.codefather.cn) 编号 22369
 
 在Windows环境中安装NVM对不同的Node版本进行管理，同时提供npm和yarn包管理器常用配置。
 

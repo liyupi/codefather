@@ -186,5 +186,5 @@
 
 关于 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN#rd) ，我已经运营很久了，就不过多地介绍了，感兴趣的同学可以自行扫下方二维码加入体验，三天内不满意可全额退款~
 
-![](https://pic.yupi.icu/1/%E7%BB%93%E6%9D%9F.jpg)
+![](../../../image/join_us.png)
 

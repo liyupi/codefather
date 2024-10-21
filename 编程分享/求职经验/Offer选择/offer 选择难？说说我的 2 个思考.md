@@ -4,7 +4,7 @@
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
-大家好，我是鱼皮。秋招仍在进行中，随着越来越多的公司开奖，最近 [编程导航编程导航](https://mp.weixin.qq.com/s/eNjauC-3361z-l7fy3VssA)  的小伙伴们也陆续发来了 offer 报喜：
+大家好，我是鱼皮。秋招仍在进行中，随着越来越多的公司开奖，最近 [编程导航](https://mp.weixin.qq.com/s/eNjauC-3361z-l7fy3VssA)  的小伙伴们也陆续发来了 offer 报喜：
 
 ![](https://pic.yupi.icu/1/image-20231028183709246.png)
 

@@ -1,6 +1,6 @@
 # SpringBoot 整合 ELK 实现日志采集与监控
 
-> 作者：[A达达](https://music.163.com/#/user/home?id=1711732324)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 19158
+> 作者：[A达达](https://music.163.com/#/user/home?id=1711732324)，[编程导航](https://www.codefather.cn) 编号 19158
 
 springboot项目通过logback框架将日志通过logstash管道传输到ElasticSearch,并通过kibbna进行可视化
 

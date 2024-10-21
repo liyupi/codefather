@@ -1,6 +1,6 @@
 # 基于 Session 实现短信登录
 
-> 作者：[寒月](https://wx.zsxq.com/dweb2/index/footprint/818288821184212)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 11102
+> 作者：寒月，[编程导航](https://www.codefather.cn) 编号 11102
 
 ## 短信验证
 

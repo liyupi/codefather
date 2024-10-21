@@ -1,6 +1,6 @@
 # SpringBoot + Quartz 简易定时任务
 
-> 作者：[A达达](https://music.163.com/#/user/home?id=1711732324)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 19158
+> 作者：[A达达](https://music.163.com/#/user/home?id=1711732324)，[编程导航](https://www.codefather.cn) 编号 19158
 
 springboot项目使用Quartz 实现简易定时任务 相比较@scheduled 注解 更具灵活性 后续可实现定时任务的增删改查等待 实现动态定时任务
 

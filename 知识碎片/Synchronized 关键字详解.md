@@ -1,6 +1,6 @@
 # Synchronized 关键字详解
 
-> 作者：[LYX](https://wx.zsxq.com/dweb2/index/footprint/88244812285412)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 26376 
+> 作者：LYX，[编程导航](https://www.codefather.cn) 编号 26376 
 
 ## **一、Synchronized关键字的使用位置有哪些？**
 

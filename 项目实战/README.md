@@ -182,7 +182,7 @@
 
 项目包含了很多大型项目涉及到的技术点，比如线程池、定时器、Windows 注册表、数据库、文件系统、日志系统、网络通信协议设计、加解密、C++ 新特性等。对于学习进阶 C++、提升项目经验会很有帮助。
 
-> 开始学习或了解详情：[https://www.codefather.cn/course/1793909668081098753](https://github.com/liyupi) （可在编程导航编程导航专栏内阅读）
+> 开始学习或了解详情：[https://www.codefather.cn/course/1793909668081098753](https://github.com/liyupi) （可在编程导航专栏内阅读）
 
 ![](../image/sdk_project.png)
 

@@ -1,6 +1,6 @@
 # 基于 GA 遗传算法的智能组题模块的设计与应用
 
-> 作者：[南侠](https://gitee.com/crzzx)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
+> 作者：[南侠](https://gitee.com/crzzx)，[编程导航](https://www.codefather.cn) 编号 29240
 
 基于 PyGad + Flask 的遗传算法实现的智能题单生成项目，根据题单题目难度分布、题目类型分布、受众能力等参数得到最优题目组合方案
 

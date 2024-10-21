@@ -1,6 +1,6 @@
 # 前端初始化 Ant Design Pro 笔记
 
-> 作者：[D](https://www.codefather.cn/user/1725503305326653441/info)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29052
+> 作者：[D](https://www.codefather.cn/user/1725503305326653441/info)，[编程导航](https://www.codefather.cn) 编号 29052
 
 1. npm i @ant-design/pro-cli -g
 2. npx pro create myapp

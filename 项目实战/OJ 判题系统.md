@@ -212,7 +212,7 @@
 
 ### 视频教程
 
-项目完整视频教程：[https://bcdh.yuque.com/staff-wpxfif/resource/ghtqs44k9dq1shin](https://bcdh.yuque.com/staff-wpxfif/resource/ghtqs44k9dq1shin)
+项目完整视频教程：[https://www.codefather.cn/course/1790980707917017089/section/1791374029275856898?contentType=video&tabKey=videoList&type=](https://www.codefather.cn/course/1790980707917017089/section/1791374029275856898?contentType=video&tabKey=videoList&type=)
 
 ### 项目笔记
 

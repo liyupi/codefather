@@ -1,6 +1,6 @@
 # 定义API并生成代码（ Go 微服务框架 Kratos ）
 
-> 作者：[戊子仲秋](https://github.com/wuzizhongqiu/wuzi-study-note#%E6%88%8A%E5%AD%90%E4%BB%B2%E7%A7%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 20000
+> 作者：[戊子仲秋](https://github.com/wuzizhongqiu/wuzi-study-note#%E6%88%8A%E5%AD%90%E4%BB%B2%E7%A7%8B%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0%E5%88%86%E4%BA%AB)，[编程导航](https://www.codefather.cn) 编号 20000
 
 首先： kratos new study
 

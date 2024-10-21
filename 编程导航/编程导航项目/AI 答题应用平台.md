@@ -305,10 +305,7 @@
 
 以上资料均可在编程导航网站获取：https://www.codefather.cn/course/1790274408835506178
 
-点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后，可以按照帖子 https://t.zsxq.com/eJxjY 的引导认证并解锁项目资料的权限。如图：
-
-![](https://pic.yupi.icu/1/20240604145232643.png)
-
+点击 [加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 
 
 
 ## 更多项目

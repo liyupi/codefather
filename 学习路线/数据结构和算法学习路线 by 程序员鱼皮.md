@@ -35,8 +35,8 @@
 完全零基础的话，数据结构和算法不是面试前短短几周就能准备过来的（除非你很聪明）。鱼皮是从大二上开始跟着学校学习数据结构（虽然我没怎么听课，是靠后面自己看书补回来的），并且从大二暑假开始刷题，一年多的时间总共刷了 1000 多道算法题。因为自己准备得早，所以学得还算比较扎实，面试时遇到的算法题目基本都能答出来；也是因为准备得早，每天的压力没那么大。
 
 ## 大纲
-思维导图源文件：
-[数据结构和算法学习路线 by 程序员鱼皮.xmind](https://bcdh.yuque.com/attachments/yuque/0/2022/xmind/398476/1647767616242-2d26b3c0-0a6f-425f-a125-5ddc78e532e0.xmind)
+思维导图文件：
+[数据结构和算法学习路线 by 程序员鱼皮](https://www.codefather.cn/course/1789189862986850306/section/1789191067892948993?type=)
 ![](https://qiniuyun.code-nav.cn/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%20by%20%E7%A8%8B%E5%BA%8F%E5%91%98%E9%B1%BC%E7%9A%AE.png#id=zLsxq&originHeight=1828&originWidth=1782&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ## 知识

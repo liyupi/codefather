@@ -91,6 +91,6 @@
 
 感谢大家的阅读，原创不易，如果本文有收获，也请给鱼皮一个 **点赞 + 在看** 支持，谢谢大家。
 
-最后,欢迎加入 [鱼皮的编程知识编程导航](http://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247508640&idx=1&sn=b02fff3533f18b5d0bfbf714b127c140&chksm=e9c24557deb5cc41b1f2ecefdd23eb1370e261a47c23ad89b1d1428537fd1e8fe39762e707e1&scene=21#wechat_redirect)（点击了解详情），和 8300 多名小伙伴们一起交流学习，向鱼皮和大厂同学 1 对 1 提问、帮你制定学习计划不迷茫、跟着鱼皮直播做项目（往期项目可无限回看）、领取鱼皮原创编程学习/求职资料等。
+最后,欢迎加入 [鱼皮的编程导航](http://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247508640&idx=1&sn=b02fff3533f18b5d0bfbf714b127c140&chksm=e9c24557deb5cc41b1f2ecefdd23eb1370e261a47c23ad89b1d1428537fd1e8fe39762e707e1&scene=21#wechat_redirect)（点击了解详情），和 8300 多名小伙伴们一起交流学习，向鱼皮和大厂同学 1 对 1 提问、帮你制定学习计划不迷茫、跟着鱼皮直播做项目（往期项目可无限回看）、领取鱼皮原创编程学习/求职资料等。
 
 ![](https://pic.yupi.icu/5563/202311091230440.jpeg)

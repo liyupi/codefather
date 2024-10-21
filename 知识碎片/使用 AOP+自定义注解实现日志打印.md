@@ -1,6 +1,6 @@
 # 使用 AOP + 自定义注解实现日志打印
 
-> 作者：[骑猪少年](https://wx.zsxq.com/dweb2/index/footprint/212555242214811)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 23765
+> 作者：骑猪少年，[编程导航](https://www.codefather.cn) 编号 23765
 
 通过日志系统来引出自定义注解的创建方法
 

@@ -1,6 +1,6 @@
 # WebSokcet 前后端联调使用
 
-> 作者：[为](https://blog.csdn.net/Go_ahead_forever)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 14255
+> 作者：[为](https://blog.csdn.net/Go_ahead_forever)，[编程导航](https://www.codefather.cn) 编号 14255
 
 WebSocket 在 JS 以及 SpringBoot 中的使用
 

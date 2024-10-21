@@ -1,6 +1,6 @@
 # 阿里云对象存储 OSS
 
-> 作者：[agency](https://wx.zsxq.com/dweb2/index/footprint/418552142185588)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 17494
+> 作者：agency，[编程导航](https://www.codefather.cn) 编号 17494
 
 ## 1 在官网注册账号
 

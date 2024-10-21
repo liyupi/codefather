@@ -1,6 +1,6 @@
 # Oracle 到 MySQL 函数替换方案汇总
 
-> 作者：[゛my my me](https://wx.zsxq.com/dweb2/index/footprint/585151241212124)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 30129
+> 作者：゛my my me，[编程导航](https://www.codefather.cn) 编号 30129
 
 在我最近的项目中，我们面临了一个具有挑战性的任务：将数据库从Oracle迁移到MySQL 5.7版本。这个过程中的主要难点是将Oracle数据库中的函数和语法转换为与MySQL兼容的格式。在此过程中，我们整理出了一份涵盖常用语法转换的指南，希望能对类似项目的迁移工作提供有价值的参考和帮助。
 

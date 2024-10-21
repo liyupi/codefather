@@ -1,6 +1,6 @@
 # 如何快速忽略 Git 文件提交？
 
-> 作者：[程序员鱼皮](https://space.bilibili.com/12890453/)，[编程导航编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 1
+> 作者：[程序员鱼皮](https://space.bilibili.com/12890453/)，[编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 1
 
 
 

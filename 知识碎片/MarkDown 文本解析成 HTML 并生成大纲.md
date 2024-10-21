@@ -1,6 +1,6 @@
 # MarkDown 文本解析成 HTML 并生成大纲
 
-> 作者：[过....](https://wx.zsxq.com/dweb2/index/footprint/212511211885411)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 30885
+> 作者：过....，[编程导航](https://www.codefather.cn) 编号 30885
 
 markdown转换成html参考：https://blog.csdn.net/weixin_45894305/article/details/106362783?spm=1001.2014.3001.5506
 

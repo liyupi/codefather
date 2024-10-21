@@ -1,6 +1,6 @@
 # 如何处理 CompletableFuture 中的两种异常(智能BI项目)
 
-> 作者：[momo](https://wx.zsxq.com/dweb2/index/footprint/88244812285412)，[编程导航编程导航](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 26376
+> 作者：momo，[编程导航](https://www.codefather.cn) 编号 26376
 
 **当前问题分析：**
 
