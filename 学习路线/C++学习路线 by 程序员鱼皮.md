@@ -205,7 +205,7 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 - I / O 操作 
    - 文件操作
 
-> by 程序员鱼皮 [知识编程导航](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
+> by 程序员鱼皮 [编程导航](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
 
 
 ## 二、C++ 进阶
@@ -318,7 +318,7 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 - [设计模式](https://www.codefather.cn/post/1640588392073150465)
 - [软件工程](https://www.codefather.cn/post/1640648711119892481)
 
-> by 程序员鱼皮 [知识编程导航](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
+> by 程序员鱼皮 [编程导航](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
 
 
 ## 五、后端开发通用

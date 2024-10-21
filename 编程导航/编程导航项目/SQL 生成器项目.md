@@ -1,6 +1,6 @@
 # SQL 生成器项目
 
-> by 程序员鱼皮 [知识编程导航](https://yupi.icu)
+> by 程序员鱼皮 [编程导航](https://yupi.icu)
 
 ## 项目介绍
 
