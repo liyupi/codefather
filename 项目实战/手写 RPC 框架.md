@@ -17,13 +17,13 @@
 
 本项目虽然是以 Java 语言为主，但所有的设计思路和知识点是通用的，Go 或 C++ 等其他后端语言的同学也可以学习。
 
-> 代码开源地址：https://github.com/liyupi/yu-rpc
+> 代码开源地址：[https://github.com/liyupi/yu-rpc](https://github.com/liyupi/yu-rpc)
 >
-> Gitee：https://gitee.com/liyupi/yu-rpc
+> Gitee：[https://gitee.com/liyupi/yu-rpc](https://gitee.com/liyupi/yu-rpc)
 
 ### 免费试学
 
-感兴趣的同学可以 **免费试看** 第一期项目文字教程：https://mp.weixin.qq.com/s/lOm7k032II3gDG9xnEmpUg
+感兴趣的同学可以 **免费试看** 第一期项目文字教程：[https://mp.weixin.qq.com/s/lOm7k032II3gDG9xnEmpUg](https://mp.weixin.qq.com/s/lOm7k032II3gDG9xnEmpUg)
 
 ### 项目特点
 

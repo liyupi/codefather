@@ -8,7 +8,7 @@
 
 先问大家一个问题：大家在实习的时候，都会被安排怎样的工作呢？是打杂的边缘工作？还是会被分配比较核心的业务？如果被分配打杂工作，又如何争取更好的工作内容呢？
 
-我昨天在 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247544329&idx=1&sn=8c268a0a40befcc2b470c75ced1cb1d6&chksm=e9c2c9fedeb540e848aa18c484a9674dc9dd28fc45bb510dc4be52b147dd4c1d8fd7fe6899df&token=1562751299&lang=zh_CN&scene=21#wechat_redirect) 回答了一个类似的问题，给大家一些参考：
+我昨天在 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 回答了一个类似的问题，给大家一些参考：
 
 ## 问题：
 
@@ -75,4 +75,4 @@ OK，如果你问了自己上述几个问题，也尝试过争取机会但是无
 ------
 
 
-欢迎学编程的朋友们加入鱼皮的 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247544329&idx=1&sn=8c268a0a40befcc2b470c75ced1cb1d6&chksm=e9c2c9fedeb540e848aa18c484a9674dc9dd28fc45bb510dc4be52b147dd4c1d8fd7fe6899df&token=1562751299&lang=zh_CN&scene=21#wechat_redirect) ，和 2 万多名编程学习者共享知识、交流进步，学习鱼皮全程直播开发的原创项目、上千篇优质编程学习求职经验分享、并获取 1 对 1 答疑指导服务。
+欢迎学编程的朋友们加入鱼皮的 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) ，和 2 万多名编程学习者共享知识、交流进步，学习鱼皮全程直播开发的原创项目、上千篇优质编程学习求职经验分享、并获取 1 对 1 答疑指导服务。

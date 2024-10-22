@@ -89,7 +89,7 @@
 ------
 
 
-我也给自己 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247505617&idx=1&sn=73c5e2b1ad9b22d93e8fd6153199ab22&scene=21#wechat_redirect) 内的小伙伴建设了一个 **免费高速灵活** 的图床（使用腾讯云 COS），帮助大家省去自己搭建的时间和金钱成本。
+我也给自己 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 内的小伙伴建设了一个 **免费高速灵活** 的图床（使用腾讯云 COS），帮助大家省去自己搭建的时间和金钱成本。
 
 ![](https://pic.yupi.icu/5563/202311091233366.png)
 

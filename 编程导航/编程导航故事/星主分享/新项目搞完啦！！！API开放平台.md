@@ -2,7 +2,7 @@
 
 大家好，我是鱼皮。
 
-又经过了 7 场直播，总时长近 20 小时，我在 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247524980&idx=2&sn=9ddcdb6c52aa096ed4c5ad0ced946a7d&chksm=e9c28583deb50c95f3c2665713a8bbc372c68332b3bfb846cf4b23af3f1cc07164832a291335&token=689599617&lang=zh_CN&scene=21#wechat_redirect) 内的第 3 个 **全程直播开发** 的项目 ——  API 开放平台，终于完结啦！
+又经过了 7 场直播，总时长近 20 小时，我在 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 内的第 3 个 **全程直播开发** 的项目 ——  API 开放平台，终于完结啦！
 
 ![](https://www.codefather.cn/img/image-20220419224055491.png)
 
@@ -165,7 +165,7 @@
 
 
 
-因为项目是在我的 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247524980&idx=2&sn=9ddcdb6c52aa096ed4c5ad0ced946a7d&chksm=e9c28583deb50c95f3c2665713a8bbc372c68332b3bfb846cf4b23af3f1cc07164832a291335&token=689599617&lang=zh_CN&scene=21#wechat_redirect) 内直播做的，所以自然不能给大家免费发放啦。大家如果对这个项目感兴趣，欢迎加入我的编程导航，加入后可以跟着后续的直播做新项目、**随时观看** 超清完整的 **全部直播回放** 、完整的项目笔记以及踩坑指南、最新的项目源码等。
+因为项目是在我的 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 内直播做的，所以自然不能给大家免费发放啦。大家如果对这个项目感兴趣，欢迎加入我的编程导航，加入后可以跟着后续的直播做新项目、**随时观看** 超清完整的 **全部直播回放** 、完整的项目笔记以及踩坑指南、最新的项目源码等。
 
 最关键的是：做项目的过程中，有任何问题，都可以和大家交流或者 **直接加微信向鱼皮提问** ！
 
@@ -179,7 +179,7 @@
 
 ![](https://www.codefather.cn/img/image-20230111121645038.png)
 
-关于 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247524980&idx=2&sn=9ddcdb6c52aa096ed4c5ad0ced946a7d&chksm=e9c28583deb50c95f3c2665713a8bbc372c68332b3bfb846cf4b23af3f1cc07164832a291335&token=689599617&lang=zh_CN&scene=21#wechat_redirect) ，我已经运营快一年了，就不过多地介绍了，感兴趣的同学可以访问 https://yupi.icu 了解详情。
+关于 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) ，我已经运营快一年了，就不过多地介绍了，感兴趣的同学可以访问 https://yupi.icu 了解详情。
 
 ## 加入编程导航
 

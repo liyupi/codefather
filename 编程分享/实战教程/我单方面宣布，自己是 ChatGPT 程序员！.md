@@ -187,4 +187,4 @@ VuePress 的用法非常简单，我们只需要跟着官方文档的流程，�
 最后推荐：
 
 - [ChatGPT 破局俱乐部](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247541427&idx=1&sn=3ef6d15bb40c3c9ca1a6a29473e51b3d&chksm=e9c2c544deb54c521ad9ae20127de1c96bfaa9abd6b96ed6bacc34abfb0e3ab4bd0099442a3f&token=887489106&lang=zh_CN&scene=21#wechat_redirect) ，一起来交流 ChatGPT、AI 绘画的玩法，内置手把手教程
-- [鱼皮的编程学习圈](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN&scene=21#wechat_redirect) ，鱼皮 1 对 1 答疑，和上万名学编程的同学共享知识、交流进步
+- [鱼皮的编程学习圈](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) ，鱼皮 1 对 1 答疑，和上万名学编程的同学共享知识、交流进步

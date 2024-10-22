@@ -6,7 +6,7 @@
 
 大家好，我是鱼皮。
 
-经过了 7 场直播，总时长近 20 小时，我在 [自己的编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN&scene=21#wechat_redirect) 的第 5 个 **全程直播开发** 的项目 ——  智能 BI 项目，完结啦！
+经过了 7 场直播，总时长近 20 小时，我在 [自己的编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 的第 5 个 **全程直播开发** 的项目 ——  智能 BI 项目，完结啦！
 
 ![](https://pic.yupi.icu/5563/202311081425753.png)
 
@@ -182,7 +182,7 @@
 ------
 
 
-因为项目是在我的 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN&scene=21#wechat_redirect) 内直播做的，所以自然不能给大家免费发放啦。（要不然又成为一个泛滥的项目了）
+因为项目是在我的 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 内直播做的，所以自然不能给大家免费发放啦。（要不然又成为一个泛滥的项目了）
 
 大家如果对这个项目感兴趣，欢迎加入编程导航，加入后可以跟着后续的直播做新项目、**随时观看** 超清完整的 **全部直播回放** 、完整的项目笔记以及踩坑指南、最新的项目源码等。
 
@@ -192,6 +192,6 @@
 
 ![](https://pic.yupi.icu/5563/202311081425281.png)
 
-关于 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN&scene=21#wechat_redirect) ，我已经运营很久了，就不过多地介绍了，感兴趣的同学可以自行扫下方二维码加入体验，三天内不满意可全额退款~
+关于 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) ，我已经运营很久了，就不过多地介绍了，感兴趣的同学可以自行扫下方二维码加入体验，三天内不满意可全额退款~
 
-![](https://pic.yupi.icu/5563/202311081425349.jpeg)
+![](../../../image/join_us.png)
