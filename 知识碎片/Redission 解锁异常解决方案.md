@@ -1,6 +1,6 @@
 # Redission 解锁异常解决方案
 
-> 作者：[想飞天的猪头](https://www.sweetmore.cn/)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 9414
+> 作者：[想飞天的猪头](https://www.sweetmore.cn/)，[编程导航](https://www.codefather.cn) 编号 9414
 
 > 记录 redission 解锁遇到异常 “attempt to unlock lock, not locked by current thread by node id ” 解决方法
 

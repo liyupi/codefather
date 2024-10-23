@@ -1,6 +1,6 @@
 # 十种 SQL 的写法
 
-> 作者：[聪ζ](https://wx.zsxq.com/dweb2/index/footprint/185558512888212)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 12852
+> 作者：聪ζ，[编程导航](https://www.codefather.cn) 编号 12852
 
 十种SQL的语法
 

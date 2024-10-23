@@ -63,9 +63,9 @@
 
 ### 编程教育
 
-[💎 学好编程 - 编程导航知识星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 
+[💎 学好编程 - 编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 
 
-编程导航网站：[https://www.code-nav.cn](https://www.code-nav.cn)（编程交流、面试题、简历修改平台）
+编程导航网站：[https://www.codefather.cn](https://www.codefather.cn)（编程交流、面试题、简历修改平台）
 
 [后端突击 - 狂飙后端训练营](https://yuyuanweb.feishu.cn/wiki/EShmwklfJifDv4k4fCEcdp0Qnrd) 
 

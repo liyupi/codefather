@@ -14,7 +14,7 @@
 
 ### 1、阅读官方文档
 
-以 [编程导航知识星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 的用户中心项目为例，项目使用的前端框架 Ant Design Pro 在持续更新，因此要以官方文档最新的初始化命令为主。
+以 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 的用户中心项目为例，项目使用的前端框架 Ant Design Pro 在持续更新，因此要以官方文档最新的初始化命令为主。
 
 官方文档：https://pro.ant.design/zh-CN/docs/getting-started
 

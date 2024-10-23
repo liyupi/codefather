@@ -1,6 +1,6 @@
 # 使用 Java 程序自动构建 jar 包
 
-> 作者：[程序员鱼皮](https://space.bilibili.com/12890453/)，[编程导航星球](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 1
+> 作者：[程序员鱼皮](https://space.bilibili.com/12890453/)，[编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 编号 1
 
 
 
@@ -150,6 +150,6 @@ public class MainGenerator {
 
 ### 实践
 
-编程导航星球的定制化代码生成项目中，使用了上述方式实现 jar 包的自动构建。
+编程导航的定制化代码生成项目中，使用了上述方式实现 jar 包的自动构建。
 
 👉🏻 编程导航原创项目教程系列：https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd

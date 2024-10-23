@@ -17,13 +17,13 @@
 
 本项目虽然是以 Java 语言为主，但所有的设计思路和知识点是通用的，Go 或 C++ 等其他后端语言的同学也可以学习。
 
-> 代码开源地址：https://github.com/liyupi/yu-rpc
+> 代码开源地址：[https://github.com/liyupi/yu-rpc](https://github.com/liyupi/yu-rpc)
 >
-> Gitee：https://gitee.com/liyupi/yu-rpc
+> Gitee：[https://gitee.com/liyupi/yu-rpc](https://gitee.com/liyupi/yu-rpc)
 
 ### 免费试学
 
-感兴趣的同学可以 **免费试看** 第一期项目文字教程：https://mp.weixin.qq.com/s/lOm7k032II3gDG9xnEmpUg
+感兴趣的同学可以 **免费试看** 第一期项目文字教程：[https://mp.weixin.qq.com/s/lOm7k032II3gDG9xnEmpUg](https://mp.weixin.qq.com/s/lOm7k032II3gDG9xnEmpUg)
 
 ### 项目特点
 
@@ -181,59 +181,39 @@
 
 ### 学习计划
 
-项目学习计划：https://bcdh.yuque.com/staff-wpxfif/resource/bhczlyo21xlg4l4y
-
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目学习计划：[https://www.codefather.cn/course/1768543954720022530/section/1797445761046593537?type=](https://www.codefather.cn/course/1768543954720022530/section/1797445761046593537?type=)
 
 ### 文字教程
 
 > 非常详细，建议搭配视频教程一同使用
 
-项目完整文字教程：https://bcdh.yuque.com/staff-wpxfif/resource/gowqna5casecypkr
-
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
-
-### 项目笔记（持续更新中）
-
-鱼皮直播笔记：https://bcdh.yuque.com/staff-wpxfif/resource/gowqna5casecypkr（完整文字教程）
-
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目完整文字教程：[https://www.codefather.cn/course/1768543954720022530/section/1768545847093518337?type=](https://www.codefather.cn/course/1768543954720022530/section/1768545847093518337?type=) （完整文字教程）
 
 ### 项目源码
 
-项目完整源码：https://bcdh.yuque.com/staff-wpxfif/resource/dk66sg0lpd3hkosp
-
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目完整源码：[https://www.codefather.cn/course/1768543954720022530/section/1797445800112340994?type=](https://www.codefather.cn/course/1768543954720022530/section/1797445800112340994?type=)
 
 ### 项目答疑
 
-项目问答专区（请在 PC 端访问星球链接）：https://wx.zsxq.com/dweb2/index/tags/%E6%89%8B%E5%86%99RPC%E6%A1%86%E6%9E%B6/28881422128511
+项目问答专区（请在 PC 端访问编程导航链接）：[https://www.codefather.cn/course/1768543954720022530?current=1&tabKey=qa](https://www.codefather.cn/course/1768543954720022530?current=1&tabKey=qa)
 
-可以在星球中更好地解决项目中遇到的问题：[利用编程导航解决问题](https://yuyuanweb.feishu.cn/wiki/FY7DwfanEikgzuk3yJlcXRWLnZc)
-
-项目问题答疑汇总：https://bcdh.yuque.com/staff-wpxfif/resource/suc9olh5pxvcvhx9
-
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+可以在编程导航中更好地解决项目中遇到的问题：[利用编程导航解决问题](https://yuyuanweb.feishu.cn/wiki/FY7DwfanEikgzuk3yJlcXRWLnZc)
 
 ### 项目交流群
 
-加群方式请见星球帖子：https://t.zsxq.com/11dtAMfs8（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+加群方式请见编程导航帖子：[https://www.codefather.cn/course/1768543954720022530?current=1&tabKey=qunCode](https://www.codefather.cn/course/1768543954720022530?current=1&tabKey=qunCode)（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
 
 ### 简历写法
 
-项目简历写法：https://bcdh.yuque.com/staff-wpxfif/resource/mnyr1qwvq56fexv9
-
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目简历写法：[https://www.codefather.cn/course/1768543954720022530/section/1769964903847714818?current=1&tabKey=qunCode&type=](https://www.codefather.cn/course/1768543954720022530/section/1769964903847714818?current=1&tabKey=qunCode&type=)
 
 ### 项目面试题
 
-项目面试题：https://bcdh.yuque.com/staff-wpxfif/resource/sak10cd1xd6wr925
-
-密码见星球语雀知识库：https://t.zsxq.com/12nb1snxh（[加入编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) 后可见）
+项目面试题：[https://www.codefather.cn/course/1768543954720022530/section/1771045558887211010?current=1&tabKey=qunCode&type=](https://www.codefather.cn/course/1768543954720022530/section/1771045558887211010?current=1&tabKey=qunCode&type=)
 
 ## 学员反馈
 
-> 展示部分学员的真实反馈，也欢迎星球鱼友私信星球管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
+> 展示部分学员的真实反馈，也欢迎编程导航鱼友私信编程导航管理或鱼皮反馈，认真完成项目会有小奖励哦 🧧！
 
 ### 项目总结（持续更新中）
 
@@ -243,15 +223,9 @@
 
 ### 学员评价（持续更新中）
 
-文章链接：https://t.zsxq.com/18yvUfERq
-
 ![](https://pic.yupi.icu/5563/202403171822607.png)
 
-文章链接：https://t.zsxq.com/16X5xh6V0
-
 ![](https://pic.yupi.icu/5563/202403171822490.png)
-
-文章链接：https://t.zsxq.com/16Rjoz0HP
 
 ![](https://pic.yupi.icu/5563/202403171822503.png)
 

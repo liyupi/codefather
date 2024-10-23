@@ -1,6 +1,6 @@
 # 使用 canal 实现增量订阅和消费
 
-> 作者：[想飞天的猪头](https://www.code-nav.cn/)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 9414
+> 作者：[想飞天的猪头](https://www.codefather.cn/)，[编程导航](https://www.codefather.cn) 编号 9414
 
 是不是还有为数据同步找不到合适的方案发愁？本文将介绍一款阿里开源的数据同步框架
 

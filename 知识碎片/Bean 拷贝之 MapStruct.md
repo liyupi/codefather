@@ -1,6 +1,6 @@
 # Bean 拷贝之 MapStruct
 
-> 作者：[顾恙ツ](https://juejin.cn/user/128017175944557)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824)  编号 2784
+> 作者：顾恙ツ，[编程导航](https://www.codefather.cn/)  编号 2784
 
 > 大家好，今天我给大家带来一个 Bean 拷贝的高效工具，MapSrtuct 。有人会问 MapSturct 是什么？简单来说，MapStruct 就是一个 Java Bean 的映射器，我们只需要在一个 XXXStructMapper 的接口中定义好方法，MapStruct 就会在编译的时候生成相应的实现类，这个实现类中包含了具体的映射代码，极大地提高了我们编码的效率，省去了大量的模板代码。
 
@@ -160,7 +160,7 @@ public interface ColumnStructMapper {
 
 对于 freeStartTime 和 freeEndTime，因为它们在 ColumnReq 中是 Long 类型的时间戳，而在ColumnInfoDO 中是 Date 类型，所以使用了 expression 属性进行转换。
 
-### [@Mapping](https://www.yuque.com/Mapping) 注解 
+### @Mapping 注解 
 
 这里重点说一下 @Mapping 注解，当两个对象中的字段名或者字段类型不一致的时候，就需要该注解来进行转换。
 
@@ -311,7 +311,7 @@ ColumnStructMapper INSTANCE = Mappers.getMapper( ColumnStructMapper.class);
 ```
 
 
-如果是在 Spring 环境下，还可以在 [@Mapper](https://www.yuque.com/Mapper) 注解中添加 componentModel = "spring" 参数来告诉 MapStruct 在生成映射实现类的时候，提供 Spring 依赖注入。
+如果是在 Spring 环境下，还可以在 @Mapper 注解中添加 componentModel = "spring" 参数来告诉 MapStruct 在生成映射实现类的时候，提供 Spring 依赖注入。
 
 ```java
 @Mapper(componentModel = "spring")
@@ -335,7 +335,7 @@ ColumnInfoDO columnInfoDO = columnStructMapper.toDo(req);
 
 ![](https://pic.yupi.icu/5563/202311081048480.png)
 
-安装完成后，可以直接在 [@Mapper](https://www.yuque.com/Mapper) 接口和它的实现类之间快速导航。 
+安装完成后，可以直接在 @Mapper 接口和它的实现类之间快速导航。 
 
 ![](https://pic.yupi.icu/5563/202311081048118.png)
 
@@ -407,11 +407,11 @@ public class SimpleSourceDestinationMapperImpl implements SimpleSourceDestinatio
 
 其实内容和我们直接去写 Converter 是一样的，通过 new 创建一个对象，然后通过 set 方法进行赋值。
 
-如果是 @Mapper(componentModel = "spring") 的话，在生成的时候，会带上 [@Component](https://www.yuque.com/Component) 注解。 <br />![](https://pic.yupi.icu/5563/202311081050327.png)
+如果是 @Mapper(componentModel = "spring") 的话，在生成的时候，会带上 @Component 注解。 <br />![](https://pic.yupi.icu/5563/202311081050327.png)
 
-> 使用 [**@Component**](https://www.yuque.com/Component) 注解的类将会在 Spring 的组件扫描期间被检测并注册到 ApplicationContext 中，从而使其成为一个 Spring Bean。
+> 使用 @Component 注解的类将会在 Spring 的组件扫描期间被检测并注册到 ApplicationContext 中，从而使其成为一个 Spring Bean。
 
 
-这也是为什么我们可以直接通过 [@Autowired](https://www.yuque.com/Autowired) 注解获得映射器对象的原因。 
+这也是为什么我们可以直接通过 @Autowired 注解获得映射器对象的原因。 
 
 由于 MapStruct 并不是在运行时使用 Java 反射来实现对象之间的映射，而是在编译时生成明确、简单、易于跟踪的普通 Java 代码。这意味着它的执行速度更快，因为没有运行时的反射开销，并且可以避免与反射相关的各种问题。

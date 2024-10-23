@@ -1,6 +1,6 @@
 # 实现主题换肤( CSS 变量 + 类名切换)
 
-> 作者：[112233](https://wx.zsxq.com/dweb2/index/footprint/418844184181828)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 280
+> 作者：112233，[编程导航](https://www.codefather.cn) 编号 280
 
 通过讲解项目中实现切换暗黑模式的方案、tailwind和unocss主题切换，了解前端主题切换方案中CSS变量 + 类名切换来实现主题切换的方法。
 

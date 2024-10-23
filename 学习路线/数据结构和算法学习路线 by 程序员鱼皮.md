@@ -35,8 +35,8 @@
 完全零基础的话，数据结构和算法不是面试前短短几周就能准备过来的（除非你很聪明）。鱼皮是从大二上开始跟着学校学习数据结构（虽然我没怎么听课，是靠后面自己看书补回来的），并且从大二暑假开始刷题，一年多的时间总共刷了 1000 多道算法题。因为自己准备得早，所以学得还算比较扎实，面试时遇到的算法题目基本都能答出来；也是因为准备得早，每天的压力没那么大。
 
 ## 大纲
-思维导图源文件：
-[数据结构和算法学习路线 by 程序员鱼皮.xmind](https://bcdh.yuque.com/attachments/yuque/0/2022/xmind/398476/1647767616242-2d26b3c0-0a6f-425f-a125-5ddc78e532e0.xmind)
+思维导图文件：
+[数据结构和算法学习路线 by 程序员鱼皮](https://www.codefather.cn/course/1789189862986850306/section/1789191067892948993?type=)
 ![](https://qiniuyun.code-nav.cn/%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E5%92%8C%E7%AE%97%E6%B3%95%20by%20%E7%A8%8B%E5%BA%8F%E5%91%98%E9%B1%BC%E7%9A%AE.png#id=zLsxq&originHeight=1828&originWidth=1782&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ## 知识
@@ -107,7 +107,7 @@
 
 ## 学习建议
 
-1. 数据结构和算法不可追求速成（学得快忘得快），而是应该每天坚持刷 2 道以上的题目保持手感。（可以在星球中打卡分享自己每天所刷的题目，也许会有小伙伴和你一起讨论哦）
+1. 数据结构和算法不可追求速成（学得快忘得快），而是应该每天坚持刷 2 道以上的题目保持手感。（可以在编程导航中打卡分享自己每天所刷的题目，也许会有小伙伴和你一起讨论哦）
 2. 自己在写算法题目时，要给代码多写一些注释，记录自己当时的思考，并且做过的每道算法题目的代码都要分类保存好，便于自己复习。
 3. 可以根据实际情况自己写一些题解，写题解的过程中，不仅能检验自己是否真的理解，还能再次巩固、帮助自己复习。
 4. 算法是一种思想，用任何你正在学习或者熟悉的编程语言来写代码均可，可以帮助你复习编程语言的语法和细节。
@@ -158,13 +158,13 @@
 - 尚硅谷 Java 数据结构与算法（视频）：[https://www.bilibili.com/video/BV1E4411H73v](https://www.bilibili.com/video/BV1E4411H73v) （难度和涉及的知识点比面试的要求大一些，**初次学习不建议看** ，适合时间充裕、希望更全面学习的朋友来查漏补缺）
 - 《算法图解》书籍：[https://www.aliyundrive.com/s/MFSC8TP7ANB](https://www.aliyundrive.com/s/MFSC8TP7ANB) 提取码: 73dl
 - 《大话数据结构》书籍：[https://www.aliyundrive.com/s/MFSC8TP7ANB](https://www.aliyundrive.com/s/MFSC8TP7ANB) 提取码: 73dl
-- 还有一些不同语言的数据结构与算法教程，可以在 [知识库 - 资源汇总](https://bcdh.yuque.com/staff-wpxfif/resource/all) 里搜索和获取。
+- 还有一些不同语言的数据结构与算法教程，可以在 [知识库 - 资源汇总](https://www.codefather.cn/course/1789189862986850306) 里搜索和获取。
 
 #### 辅助学习的工具
 
 - VisuAlgo 数据结构和算法动态可视化：[https://visualgo.net/zh](https://visualgo.net/zh)
 - 数据结构可视化：[https://www.cs.usfca.edu/~galles/visualization/Algorithms.html](https://www.cs.usfca.edu/~galles/visualization/Algorithms.html)
-- RegExr：[https://www.code-nav.cn/rd/?rid=79550af2601114e9012110711798772b](https://www.code-nav.cn/rd/?rid=79550af2601114e9012110711798772b) （学习、创建和测试正则表达式的在线可视化工具）
+- RegExr：[https://www.codefather.cn/rd/?rid=79550af2601114e9012110711798772b](https://www.codefather.cn/rd/?rid=79550af2601114e9012110711798772b) （学习、创建和测试正则表达式的在线可视化工具）
 
 ### 依次练习
 

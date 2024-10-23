@@ -1,6 +1,6 @@
 # 通过 Windows 脚本执行打包操作
 
-> 作者：[To be a better man](https://wx.zsxq.com/dweb2/index/footprint/414152211212828)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 2908
+> 作者：To be a better man，[编程导航](https://www.codefather.cn) 编号 2908
 
 之前我们打包都是这么操作的：
 

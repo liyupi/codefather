@@ -1,6 +1,6 @@
 # Redis 实现文章点赞功能(附带前后端代码、数据库)
 
-> 作者：[南侠](https://gitee.com/crzzx)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
+> 作者：[南侠](https://gitee.com/crzzx)，[编程导航](https://www.codefather.cn) 编号 29240
 
 使用redis与mysql定期同步的方案实现点赞功能的相关逻辑设计和代码编写
 

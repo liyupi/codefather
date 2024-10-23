@@ -1,6 +1,6 @@
 # MyBatis 整合多数据源
 
-> 作者：[想飞天的猪头](https://wx.zsxq.com/dweb2/index/footprint/818812488588112)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 9414
+> 作者：想飞天的猪头，[编程导航](https://www.codefather.cn) 编号 9414
 
 有时候我们需要查询来自多个库表的数据内容，但是又不想起多个服务，可以业务需要这些数据那该怎么办呢？那么其实Mybatis 是支持整合多数据源，并随时进行切换。
 

@@ -1,6 +1,6 @@
 # MySQL 的 Char 并不一定是定长
 
-> 作者：山山水水，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 17561
+> 作者：山山水水，[编程导航](https://www.codefather.cn) 编号 17561
 
 MySQL的CHAR和VARCHAR有什么区别？可以把 CHAR 全部用 VARCHAR 替换吗？
 

@@ -160,7 +160,7 @@ System.out.println(response.getData());
 
 ## 欢迎免费试用
 
-鱼聪明 AI 网站：https://yucongming.com （做您强大的 AI 助手）
+鱼聪明 AI 网站：[https://yucongming.com](https://yucongming.com) （做您强大的 AI 助手）
 
 会员可以在个人主页加入专属群聊哦：
 

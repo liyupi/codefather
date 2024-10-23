@@ -525,6 +525,6 @@ ${myList?size}
 
 ## 实践
 
-编程导航星球的定制化代码生成项目会演示如何使用 FreeMarker 模板引擎来生成代码。
+编程导航的定制化代码生成项目会演示如何使用 FreeMarker 模板引擎来生成代码。
 
 👉🏻 编程导航原创项目教程系列：https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd

@@ -1,6 +1,6 @@
 # Maven 中央仓库发包流程
 
-> 作者：[心比天高，](https://blog.csdn.net/weixin_52258854)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 452
+> 作者：[心比天高，](https://blog.csdn.net/weixin_52258854)，[编程导航](https://www.codefather.cn) 编号 452
 
 > 官方文档：[https://central.sonatype.org/publish/publish-maven/#a-complete-example-pom](https://central.sonatype.org/publish/publish-maven/#a-complete-example-pom)
 

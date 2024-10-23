@@ -5,6 +5,7 @@ export default [
     collapsable: false,
     children: [
       "鱼皮项目学习建议（必读）.md",
+      "面试刷题项目.md",
       "AI 答题应用平台.md",
       "代码生成器共享平台.md",
       "手写 RPC 框架.md",

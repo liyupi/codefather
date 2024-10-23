@@ -1,10 +1,10 @@
 # 设计模式实践（OJ判题和聚合搜索)
 
-> 作者：[南侠](https://gitee.com/crzzx)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
+> 作者：[南侠](https://gitee.com/crzzx)，[编程导航](https://www.codefather.cn) 编号 29240
 
-介绍星球OJ和聚合搜索项目中使用的常用设计模式
+介绍编程导航OJ和聚合搜索项目中使用的常用设计模式
 
-在近期的开发中，笔者主要参与了星球OJ（[OJ 判题系统（亮点多） - 飞书云文档 (feishu.cn)](https://yuyuanweb.feishu.cn/wiki/LhjxwgFjwiovTVk9w2vcJoj4nid)）和聚合搜索（[聚合搜索平台（中台设计） - 飞书云文档 (feishu.cn)](https://yuyuanweb.feishu.cn/wiki/RigVw1gAdiXIfLkj6ktclEDQn7e)）两个项目。在这两个项目中，均使用了设计模式来使代码变得“优雅”。直观来说，让代码的简洁度、可读性和拓展性都得到了一定程度的提升。
+在近期的开发中，笔者主要参与了编程导航OJ（[OJ 判题系统（亮点多） - 飞书云文档 (feishu.cn)](https://yuyuanweb.feishu.cn/wiki/LhjxwgFjwiovTVk9w2vcJoj4nid)）和聚合搜索（[聚合搜索平台（中台设计） - 飞书云文档 (feishu.cn)](https://yuyuanweb.feishu.cn/wiki/RigVw1gAdiXIfLkj6ktclEDQn7e)）两个项目。在这两个项目中，均使用了设计模式来使代码变得“优雅”。直观来说，让代码的简洁度、可读性和拓展性都得到了一定程度的提升。
 
 正所谓“学以致用”，那么就跟着笔者的节奏，来从以上两个项目的实际场景中来学习和体会设计模式吧~
 

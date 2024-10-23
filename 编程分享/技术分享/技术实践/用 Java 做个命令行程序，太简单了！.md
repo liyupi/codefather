@@ -652,9 +652,9 @@ public class SubCommandExample implements Runnable {
 
 ## 实践
 
-编程导航星球的定制化代码生成项目就是使用了 Picocli 来开发命令行应用。
+编程导航的定制化代码生成项目就是使用了 Picocli 来开发命令行应用。
 
-👉🏻 编程导航原创项目教程系列：https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd
+👉🏻 编程导航原创项目教程系列：[https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd](https://yuyuanweb.feishu.cn/wiki/SePYwTc9tipQiCktw7Uc7kujnCd)
 
 
 

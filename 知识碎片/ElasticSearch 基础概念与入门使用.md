@@ -1,6 +1,6 @@
 # ElasticSearch 基础概念与入门使用
 
-> 作者：[为](https://blog.csdn.net/Go_ahead_forever)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 14255
+> 作者：[为](https://blog.csdn.net/Go_ahead_forever)，[编程导航](https://www.codefather.cn) 编号 14255
 
 elasticsearch 是一款非常强大的开源搜索引擎，具备非常多强大的功能，可以帮助我们从海量的数据中快速找到需要的内容。在电商网站搜索商品在 Google 搜索答案……elasticsearch结合kibana、Logstash、Beats，也就是elastic stack（ELK）。被广泛应用在日志数据分析、实时监控等领域。
 
@@ -241,8 +241,8 @@ mapping是对索引库中文档的约束，常见的mapping属性包括：
 
 格式：
 
-```json
 PUT /索引库名称
+```json
 {
   "mappings": {
     "properties": {
@@ -269,8 +269,8 @@ PUT /索引库名称
 
 ##### 示例（以上面的数据为例，我们所有的操作都在 Kibana 的中 dev tools 中完成）
 
-```json
 PUT /xwhking
+```json
 {
   "mappings": {
     "properties": {
@@ -430,8 +430,8 @@ DELETE /xwhking
 
 格式：
 
-```json
 POST /索引库名/_doc/文档id
+```json
 {
     "字段1": "值1",
     "字段2": "值2",
@@ -542,8 +542,8 @@ DELETE /xwhking/_doc/1
 
 格式：
 
-```json
 PUT /{索引库名}/_doc/文档id
+```json
 {
     "字段1": "值1",
     "字段2": "值2",
@@ -555,8 +555,8 @@ PUT /{索引库名}/_doc/文档id
 
 我们改变一下上面文档的邮箱
 
-```json
 PUT /xwhking/_doc/1
+```json
 {
     "age": 21,
     "weight": 52.1,
@@ -587,8 +587,8 @@ PUT /xwhking/_doc/1
 
 基本格式：
 
-```json
 POST /{索引库名}/_update/文档id
+```json
 {
     "doc": {
          "字段名": "新的值",
@@ -703,8 +703,8 @@ Elasticsearch提供了基于JSON的DSL（[Domain Specific Language](https://www.
 
 基本格式：
 
-```json
 GET /indexName/_search
+```json
 {
   "query": {
     "查询类型": {
@@ -716,8 +716,8 @@ GET /indexName/_search
 
 示例查询所有：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "match_all": {
@@ -759,8 +759,8 @@ GET /hotel/_search
 
 **match 查询格式**
 
-```json
 GET /索引库名/_search
+```json
 {
   "query": {
     "match": {
@@ -772,8 +772,8 @@ GET /索引库名/_search
 
 **multi_match** 查询格式:
 
-```json
 GET /indexName/_search
+```json
 {
   "query": {
     "multi_match": {
@@ -788,8 +788,8 @@ GET /indexName/_search
 
 match 示例：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "match": {
@@ -805,8 +805,8 @@ result :
 
 multi_match 示例：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "multi_match": {
@@ -848,9 +848,9 @@ result:
 
 基本格式：
 
-```json
 // term查询
 GET /indexName/_search
+```json
 {
   "query": {
     "term": {
@@ -864,8 +864,8 @@ GET /indexName/_search
 
 示例：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "term": {
@@ -899,9 +899,9 @@ result:
 
 基本格式:
 
-```json
 // range查询
 GET /indexName/_search
+```json
 {
   "query": {
     "range": {
@@ -916,8 +916,8 @@ GET /indexName/_search
 
 示例:
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "range": {
@@ -960,9 +960,9 @@ result:
 
 查询时，需要指定矩形的**左上**、**右下**两个点的坐标，然后画出一个矩形，落在该矩形内的都是符合条件的点。
 
-```json
 // geo_bounding_box查询
 GET /indexName/_search
+```json
 {
   "query": {
     "geo_bounding_box": {
@@ -997,9 +997,9 @@ GET /indexName/_search
 
 格式：
 
-```json
 // geo_distance 查询
 GET /indexName/_search
+```json
 {
   "query": {
     "geo_distance": {
@@ -1012,8 +1012,8 @@ GET /indexName/_search
 
 示例：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "geo_distance": {
@@ -1043,19 +1043,19 @@ result:
   {
     "_score" : 17.850193,
     "_source" : {
-      "name" : "虹桥如家酒店真不错",
+      "name" : "虹桥如家酒店真不错"
     }
   },
   {
     "_score" : 12.259849,
     "_source" : {
-      "name" : "外滩如家酒店真不错",
+      "name" : "外滩如家酒店真不错"
     }
   },
   {
     "_score" : 11.91091,
     "_source" : {
-      "name" : "迪士尼如家酒店真不错",
+      "name" : "迪士尼如家酒店真不错"
     }
   }
 ]
@@ -1138,8 +1138,8 @@ function score的运行流程如下：
 
 因此最终的DSL语句如下：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "function_score": {
@@ -1194,8 +1194,8 @@ function score query定义的三要素是什么？
 
 ###### 基本语法
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "bool": {
@@ -1239,8 +1239,8 @@ result：
 
 **语法说明**：
 
-```json
 GET /indexName/_search
+```json
 {
   "query": {
     "match_all": {}
@@ -1274,8 +1274,8 @@ elasticsearch 默认情况下只返回top10的数据。而如果要查询更多�
 
 分页的基本语法如下：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "match_all": {}
@@ -1290,8 +1290,8 @@ GET /hotel/_search
 
 现在，我要查询990~1000的数据，查询逻辑要这么写：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "match_all": {}
@@ -1334,8 +1334,8 @@ GET /hotel/_search
 
 **高亮的语法**：
 
-```json
 GET /hotel/_search
+```json
 {
   "query": {
     "match": {

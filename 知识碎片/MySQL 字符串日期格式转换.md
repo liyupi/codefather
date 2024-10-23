@@ -1,6 +1,6 @@
 # MySQL 字符串日期格式转换
 
-> 作者：[卍不忘☆初心](https://wx.zsxq.com/dweb2/index/footprint/812552151115422)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 18875
+> 作者：卍不忘☆初心，[编程导航](https://www.codefather.cn) 编号 18875
 
 关于MySQL字符串转日期格式的那些事
 

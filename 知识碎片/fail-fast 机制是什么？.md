@@ -1,6 +1,6 @@
 # fail-fast 机制是什么？
 
-> 作者：[ONE PIECE](https://blog.csdn.net/weixin_51675464?type=blog)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 2020
+> 作者：[ONE PIECE](https://blog.csdn.net/weixin_51675464?type=blog)，[编程导航](https://www.codefather.cn) 编号 2020
 
 Java中有个fail-fast错误检测机制，一旦检测到可能发生错误，就会立马抛出异常，程序不能继续执行下去。
 

@@ -1,6 +1,6 @@
 # EasyExcel 导出文件
 
-> 作者：[玄德ь](https://xuande-hk.gitee.io/)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 3107
+> 作者：[玄德ь](https://xuande-hk.gitee.io/)，[编程导航](https://www.codefather.cn) 编号 3107
 
 ## EasyExcel导出文件，并解决格式报错
 

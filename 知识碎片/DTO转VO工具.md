@@ -1,6 +1,6 @@
 # DTO转VO工具
 
-> 作者：[一瓶牛奶](https://blog.csdn.net/Dear_SunJunchen?type=blog)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 13461
+> 作者：[一瓶牛奶](https://blog.csdn.net/Dear_SunJunchen?type=blog)，[编程导航](https://www.codefather.cn) 编号 13461
 
 data工具，实现了对象拷贝 DTO -> VO 只需要实现一个类即可
 

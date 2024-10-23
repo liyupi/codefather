@@ -1,6 +1,6 @@
 # 用@Validated注解实现非空校验
 
-> 作者：[平安](https://github.com/lizhe-0423)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 15592
+> 作者：[平安](https://github.com/lizhe-0423)，[编程导航](https://www.codefather.cn) 编号 15592
 
 ## 文章背景
 

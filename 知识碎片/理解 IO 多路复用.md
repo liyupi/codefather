@@ -1,6 +1,6 @@
 # 理解 IO 多路复用
 
-> 作者：[戊子仲秋](https://github.com/wuzizhongqiu)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 20000
+> 作者：[戊子仲秋](https://github.com/wuzizhongqiu)，[编程导航](https://www.codefather.cn) 编号 20000
 
 ## I/O 多路复用是什么？
 

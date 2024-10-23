@@ -70,7 +70,7 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 
 此外，因为 Java 和 C++ 都可以作为后端开发语言，所以无论把哪门语言作为主语言，都要重点学好后台开发通用知识，比如数据库、缓存、消息队列、Socket 通讯、Linux、Git、计算机基础知识等。但选择 C++ 的同学要对操作系统、网络和 Linux **更熟悉一些** 。
 
-鱼皮专门针对这个问题写了一篇文章，欢迎阅读：[https://www.code-nav.cn/post/1640611259688742914](https://www.code-nav.cn/post/1640611259688742914)
+鱼皮专门针对这个问题写了一篇文章，欢迎阅读：[https://www.codefather.cn/post/1640611259688742914](https://www.codefather.cn/post/1640611259688742914)
 
 ## 学习建议
 
@@ -205,7 +205,7 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 - I / O 操作 
    - 文件操作
 
-> by 程序员鱼皮 [知识星球](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
+> by 程序员鱼皮 [编程导航](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
 
 
 ## 二、C++ 进阶
@@ -292,10 +292,10 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 > 点击可跳转到该知识点的详细学习路线
 
 
-- [计算机导论（计算机基本概念）](https://www.code-nav.cn/post/1641035880439271426)
-- [数据结构和算法](https://www.code-nav.cn/post/1640586867363954689)
-- [操作系统](https://www.code-nav.cn/post/1640587909942099969)
-- [计算机网络](https://www.code-nav.cn/post/1640588119619551233)
+- [计算机导论（计算机基本概念）](https://www.codefather.cn/post/1641035880439271426)
+- [数据结构和算法](https://www.codefather.cn/post/1640586867363954689)
+- [操作系统](https://www.codefather.cn/post/1640587909942099969)
+- [计算机网络](https://www.codefather.cn/post/1640588119619551233)
 
 ## 四、软件开发通用
 
@@ -312,13 +312,13 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 > 点击可跳转到该知识点的详细学习路线
 
 
-- [企业项目研发流程](https://www.code-nav.cn/post/1640631858620329986)
-- [Git & GitHub](https://www.code-nav.cn/post/1640588753362108417)
-- [Linux 系统](https://www.code-nav.cn/post/1640586295529324545)
-- [设计模式](https://www.code-nav.cn/post/1640588392073150465)
-- [软件工程](https://www.code-nav.cn/post/1640648711119892481)
+- [企业项目研发流程](https://www.codefather.cn/post/1640631858620329986)
+- [Git & GitHub](https://www.codefather.cn/post/1640588753362108417)
+- [Linux 系统](https://www.codefather.cn/post/1640586295529324545)
+- [设计模式](https://www.codefather.cn/post/1640588392073150465)
+- [软件工程](https://www.codefather.cn/post/1640648711119892481)
 
-> by 程序员鱼皮 [知识星球](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
+> by 程序员鱼皮 [编程导航](https://docs.qq.com/doc/DUG93dVNHbVZjZXpo/)
 
 
 ## 五、后端开发通用
@@ -341,7 +341,7 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 - 容器
 - 架构设计
 
-由于这部分内容的大多数知识点都和 [鱼皮的 Java 学习路线](https://www.code-nav.cn/post/1640584449888772098) 一致，此处不再赘述，下面只列举 C++ 学习和 Java 学习中有差异的地方。
+由于这部分内容的大多数知识点都和 [鱼皮的 Java 学习路线](https://www.codefather.cn/post/1640584449888772098) 一致，此处不再赘述，下面只列举 C++ 学习和 Java 学习中有差异的地方。
 
 ### 数据库
 
@@ -360,7 +360,7 @@ C++ 也适用于开发各种 SDK（软件开发工具包）。SDK 开发工程�
 3. 数据库设计和编程：学习如何根据实际业务场景来设计数据库表、并且学习如何使用 C++ 来操作数据库，这是企业开发中最重要的能力。
 4. 数据库高级：初学数据库时这部分可以跳过。主要是学习数据库的高级特性、底层原理、数据库的分析、运维、性能优化等，可以帮助你更好地运用数据库来解决问题。
 
-详细学习路线请参考：[https://www.code-nav.cn/post/1641797333479903234](https://www.code-nav.cn/post/1641797333479903234)
+详细学习路线请参考：[https://www.codefather.cn/post/1641797333479903234](https://www.codefather.cn/post/1641797333479903234)
 
 ### 开发框架
 
@@ -378,15 +378,15 @@ RPC 框架，作用是远程调用其他的服务，可用于实现分布式、�
 
 ### Redis
 
-详细学习路线请参考：[https://www.code-nav.cn/post/1640589994284695553](https://www.code-nav.cn/post/1640589994284695553)
+详细学习路线请参考：[https://www.codefather.cn/post/1640589994284695553](https://www.codefather.cn/post/1640589994284695553)
 
 ### 消息队列
 
-参考：[https://www.code-nav.cn/post/1640584449888772098#heading-93](https://www.code-nav.cn/post/1640584449888772098#heading-93)
+参考：[https://www.codefather.cn/post/1640584449888772098#heading-93](https://www.codefather.cn/post/1640584449888772098#heading-93)
 
 ### Nginx
 
-参考：[https://www.code-nav.cn/post/1640584449888772098#heading-98](https://www.code-nav.cn/post/1640584449888772098#heading-98)
+参考：[https://www.codefather.cn/post/1640584449888772098#heading-98](https://www.codefather.cn/post/1640584449888772098#heading-98)
 
 ### 微服务
 
@@ -394,15 +394,15 @@ RPC 框架，作用是远程调用其他的服务，可用于实现分布式、�
 
 ### 容器
 
-参考：[https://www.code-nav.cn/post/1640584449888772098#heading-116](https://www.code-nav.cn/post/1640584449888772098#heading-116)
+参考：[https://www.codefather.cn/post/1640584449888772098#heading-116](https://www.codefather.cn/post/1640584449888772098#heading-116)
 
 ### 架构设计
 
-参考：[https://www.code-nav.cn/post/1640584449888772098#heading-169](https://www.code-nav.cn/post/1640584449888772098#heading-169)
+参考：[https://www.codefather.cn/post/1640584449888772098#heading-169](https://www.codefather.cn/post/1640584449888772098#heading-169)
 
 ## 六、C++ 项目实战
 
-初学 C++ 语法时，最好的项目就是刷算法题目，因为每道题目本质上就是在解决一个小问题。参考鱼皮的 [数据结构和算法学习路线](https://www.code-nav.cn/post/1640586867363954689) 。
+初学 C++ 语法时，最好的项目就是刷算法题目，因为每道题目本质上就是在解决一个小问题。参考鱼皮的 [数据结构和算法学习路线](https://www.codefather.cn/post/1640586867363954689) 。
 
 由于 C++ 是个相对底层、注重基础的编程语言，很多 C++ 的练手项目都是 “手写轮子” 相关的，比如下面这些：
 

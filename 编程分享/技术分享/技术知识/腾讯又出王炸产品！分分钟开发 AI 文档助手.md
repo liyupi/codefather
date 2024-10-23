@@ -660,4 +660,4 @@ public static void main(String[] args) throws Exception {
 
 点击下面的链接，或者文章下方的阅读原文，即可免费领取腾讯云向量数据库 + 百川大模型 400 万 tokens 调用额度。推荐大家用它来快速制作自己的学习笔记助手、八股文背诵助手等，提高学习工作效率~
 
-> 领取地址：https://cloud.tencent.com/act/pro/agi
+> 领取地址：[https://cloud.tencent.com/act/pro/agi](https://cloud.tencent.com/act/pro/agi)

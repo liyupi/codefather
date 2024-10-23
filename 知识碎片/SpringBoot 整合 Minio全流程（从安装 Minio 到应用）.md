@@ -1,6 +1,6 @@
 # SpringBoot 整合 Minio全流程（从安装 Minio 到应用）
 
-> 作者：[南侠](https://gitee.com/crzzx)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 29240
+> 作者：[南侠](https://gitee.com/crzzx)，[编程导航](https://www.codefather.cn) 编号 29240
 
 详细介绍了如何在centos7系统安装docker，然后在docker上安装minio，最后在spring boot集成minio并应用的全过程
 

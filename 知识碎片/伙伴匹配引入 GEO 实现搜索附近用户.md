@@ -30,7 +30,7 @@ create table hjj.user
     updateTime   datetime default CURRENT_TIMESTAMP null on update CURRENT_TIMESTAMP comment '更新时间',
     isDelete     tinyint  default 0                 not null comment '是否删除',
     userRole     int      default 0                 not null comment '用户角色 0 - 普通用户 1 - 管理员',
-    planetCode   varchar(512)                       null comment '星球编号',
+    planetCode   varchar(512)                       null comment '编程导航编号',
     tags         varchar(1024)                      null comment '标签列表(json)',
     longitude    decimal(10, 6)                     null comment '经度',
     dimension    decimal(10, 6)                     null comment '纬度'
@@ -106,7 +106,7 @@ public class UserVO {
     private Integer userRole;
 
     /**
-     * 星球编号
+     * 编程导航编号
      */
     private String planetCode;
     /**

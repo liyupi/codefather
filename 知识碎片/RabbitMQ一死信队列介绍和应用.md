@@ -1,6 +1,6 @@
 # RabbitMQ一死信队列介绍和应用
 
-> 作者：[吃遍全国汉堡](https://wx.zsxq.com/dweb2/index/footprint/585222581154244)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 24506
+> 作者：吃遍全国汉堡，[编程导航](https://www.codefather.cn) 编号 24506
 
 介绍RabbitMQ死信队列的基本概念和其在项目中的应用
 

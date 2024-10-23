@@ -86,7 +86,7 @@
 
 大家可以感受一下，如果下面这两个项目经历撞车了，你会 pick 哪一个呢？
 
-> 在线访问：https://laoyujianli.com/share/yupi2
+> 在线访问：[https://laoyujianli.com/share/yupi2](https://laoyujianli.com/share/yupi2)
 
 ![](https://pic.yupi.icu/1/image-20240228175605766.png)
 

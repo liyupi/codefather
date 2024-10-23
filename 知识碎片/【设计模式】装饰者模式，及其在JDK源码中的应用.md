@@ -1,6 +1,6 @@
 # 【设计模式】装饰者模式，及其在JDK源码中的应用
 
-> 作者: [B.B](https://wx.zsxq.com/dweb2/index/group/51122858222824)，[编程导航星球](https://wx.zsxq.com/dweb2/index/group/51122858222824) 编号 24725
+> 作者: [B.B](https://www.codefather.cn)，[编程导航](https://www.codefather.cn) 编号 24725
 
 ## 一、**什么是**装饰者模式
 
