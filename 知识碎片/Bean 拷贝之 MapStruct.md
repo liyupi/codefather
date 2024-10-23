@@ -160,7 +160,7 @@ public interface ColumnStructMapper {
 
 对于 freeStartTime 和 freeEndTime，因为它们在 ColumnReq 中是 Long 类型的时间戳，而在ColumnInfoDO 中是 Date 类型，所以使用了 expression 属性进行转换。
 
-### [@Mapping](https://www.yuque.com/Mapping) 注解 
+### @Mapping 注解 
 
 这里重点说一下 @Mapping 注解，当两个对象中的字段名或者字段类型不一致的时候，就需要该注解来进行转换。
 
@@ -335,7 +335,7 @@ ColumnInfoDO columnInfoDO = columnStructMapper.toDo(req);
 
 ![](https://pic.yupi.icu/5563/202311081048480.png)
 
-安装完成后，可以直接在 [@Mapper](https://www.yuque.com/Mapper) 接口和它的实现类之间快速导航。 
+安装完成后，可以直接在 @Mapper 接口和它的实现类之间快速导航。 
 
 ![](https://pic.yupi.icu/5563/202311081048118.png)
 

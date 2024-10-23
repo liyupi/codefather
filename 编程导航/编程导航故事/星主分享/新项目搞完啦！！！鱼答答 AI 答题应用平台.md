@@ -2,7 +2,7 @@
 
 大家好，我是程序员鱼皮。
 
-经过了一个多月的爆肝，我在 [自己的编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247561558&idx=3&sn=e7d79a65666e967a7bc874c6bf3d9b53&chksm=e9c316a1deb49fb72800a872439614b913b79b88f0f8b0735ddaa3f547c96bb5428ab9ffbc4e&token=2064528348&lang=zh_CN#rd) 的第 9 个有 **保姆级教程** 的大项目 ——  鱼答答 AI 答题应用平台，完结啦！
+经过了一个多月的爆肝，我在 [自己的编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 的第 9 个有 **保姆级教程** 的大项目 ——  鱼答答 AI 答题应用平台，完结啦！
 
 ![](https://pic.yupi.icu/1/20240604145229177.png)
 
@@ -126,11 +126,11 @@
 
 🧧 目前有编程导航 618 限时特惠，扫码即可领券加入，**名额有限、本周截止** ，绝对是今年最值得入手的时间！
 
-![](https://pic.yupi.icu/1/618%E5%85%AC%E4%BC%97%E5%8F%B7%E6%98%9F%E7%90%83%E4%BC%98%E6%83%A0%E5%88%B8.png)
+![](../../../image/join_us.png)
 
 
 
-加入编程导航后，可以按照置顶帖的引导认证并解锁所有项目资料的权限，如图：
+加入编程导航后，可以解锁所有项目资料的权限，如图：
 
 ![](https://pic.yupi.icu/1/image-20240615145234772.png)
 
@@ -284,7 +284,7 @@
 
 ## 加入学习
 
-最后，欢迎加入 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247561558&idx=3&sn=e7d79a65666e967a7bc874c6bf3d9b53&chksm=e9c316a1deb49fb72800a872439614b913b79b88f0f8b0735ddaa3f547c96bb5428ab9ffbc4e&token=2064528348&lang=zh_CN#rd) ，不仅能学习往期 **所有** 原创项目（10+ 套），还能享受更多的原创资料、学习和求职指导，开启你的编程起飞之旅~
+最后，欢迎加入 [编程导航](https://yuyuanweb.feishu.cn/wiki/SDtMwjR1DituVpkz5MLc3fZLnzb) ，不仅能学习往期 **所有** 原创项目（10+ 套），还能享受更多的原创资料、学习和求职指导，开启你的编程起飞之旅~
 
 🧧 目前有编程导航 618 限时特惠，扫码即可领券加入，**名额有限、本周截止** ，绝对是今年最值得入手的时间！
 

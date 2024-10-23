@@ -2,7 +2,7 @@
 
 大家好，我是鱼皮。
 
-经过了 7 场直播，总时长近 20 小时，我在 [自己的编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN#rd) 的第 5 个 **全程直播开发** 的项目 ——  智能 BI 项目，完结啦！
+经过了 7 场直播，总时长近 20 小时，我在 [自己的编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) 的第 5 个 **全程直播开发** 的项目 ——  智能 BI 项目，完结啦！
 
 ![](https://www.codefather.cn/img/image-20220419224055491.png)
 
@@ -184,7 +184,7 @@
 
 ![](https://pic.yupi.icu/1/image-20230627182431190.png)
 
-关于 [编程导航](https://mp.weixin.qq.com/s?__biz=MzI1NDczNTAwMA==&mid=2247539132&idx=2&sn=45af016dee0c03491750f76ba8fdbd25&chksm=e9c2be4bdeb5375d3253155b4053263109a631620b7cb9074e2fe1b4a5b1604ef92c522b606e&token=145986907&lang=zh_CN#rd) ，我已经运营很久了，就不过多地介绍了，感兴趣的同学可以自行扫下方二维码加入体验，三天内不满意可全额退款~
+关于 [编程导航](https://yuyuanweb.feishu.cn/wiki/VC1qwmX9diCBK3kidyec74vFnde) ，我已经运营很久了，就不过多地介绍了，感兴趣的同学可以自行扫下方二维码加入体验，三天内不满意可全额退款~
 
 ![](../../../image/join_us.png)
 

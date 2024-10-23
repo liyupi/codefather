@@ -158,7 +158,7 @@
 - 尚硅谷 Java 数据结构与算法（视频）：[https://www.bilibili.com/video/BV1E4411H73v](https://www.bilibili.com/video/BV1E4411H73v) （难度和涉及的知识点比面试的要求大一些，**初次学习不建议看** ，适合时间充裕、希望更全面学习的朋友来查漏补缺）
 - 《算法图解》书籍：[https://www.aliyundrive.com/s/MFSC8TP7ANB](https://www.aliyundrive.com/s/MFSC8TP7ANB) 提取码: 73dl
 - 《大话数据结构》书籍：[https://www.aliyundrive.com/s/MFSC8TP7ANB](https://www.aliyundrive.com/s/MFSC8TP7ANB) 提取码: 73dl
-- 还有一些不同语言的数据结构与算法教程，可以在 [知识库 - 资源汇总](https://bcdh.yuque.com/staff-wpxfif/resource/all) 里搜索和获取。
+- 还有一些不同语言的数据结构与算法教程，可以在 [知识库 - 资源汇总](https://www.codefather.cn/course/1789189862986850306) 里搜索和获取。
 
 #### 辅助学习的工具
 
