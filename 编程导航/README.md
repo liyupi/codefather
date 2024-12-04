@@ -26,17 +26,17 @@
 
 
 
-## 🧧 双 11 特惠（全年最低价）
+## 🧧 新项目限时特惠（全年最低）
 
 编程导航原价 360 元一年（老用户续费半价），限时优惠 50 元！
 
-微信扫描下方二维码领券加入：
+24 年 12 月最新项目 [🌟 智能协同云图库（最新进行中）](https://yuyuanweb.feishu.cn/wiki/PzJIwXOnIiFl7IkRaVIcevhqnzd)，现在加入还可获得 10+ 套成品项目教程，包括视频教程、简历写法、面试题解！
+
 
 > 微信扫描下方二维码领券加入，如遇支付问题可联系小助手微信 Stars_wq：
 
 
-![](../image/11_11.png)
-
+<img src="../image/super_coupon.png" alt="Super Coupon" width="400px">
 
 
 ## 加入会员
