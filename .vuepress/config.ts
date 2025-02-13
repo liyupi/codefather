@@ -5,7 +5,7 @@ import footer from "./footer";
 import extraSideBar from "./extraSideBar";
 
 const author = "程序员鱼皮";
-const domain = "https://codefather.cn";
+const domain = "https://code.yupi.icu";
 const tags = ["程序员", "编程", "计算机"];
 
 export default defineConfig({
@@ -19,8 +19,7 @@ export default defineConfig({
       "meta",
       {
         name: "keywords",
-        content:
-          "程序员鱼皮, 编程学习路线, 编程知识百科, Java, 编程导航, 前端, 开发, 编程分享, 项目, IT, 求职, 面经",
+        content: "程序员鱼皮, 编程学习路线, 编程知识百科, Java, 编程导航, 前端, 开发, 编程分享, 项目, IT, 求职, 面经",
       },
     ],
     // 百度统计
@@ -65,20 +64,15 @@ export default defineConfig({
       {
         siteTitle: (_, $site) => $site.title,
         title: ($page) => $page.title,
-        description: ($page) =>
-          $page.frontmatter.description || $page.description,
+        description: ($page) => $page.frontmatter.description || $page.description,
         author: (_, $site) => $site.themeConfig.author || author,
         tags: ($page) => $page.frontmatter.tags || tags,
         type: ($page) => "article",
-        url: (_, $site, path) =>
-          ($site.themeConfig.domain || domain || "") + path,
+        url: (_, $site, path) => ($site.themeConfig.domain || domain || "") + path,
         image: ($page, $site) =>
           $page.frontmatter.image &&
-          (($site.themeConfig.domain &&
-            !$page.frontmatter.image.startsWith("http")) ||
-            "") + $page.frontmatter.image,
-        publishedAt: ($page) =>
-          $page.frontmatter.date && new Date($page.frontmatter.date),
+          (($site.themeConfig.domain && !$page.frontmatter.image.startsWith("http")) || "") + $page.frontmatter.image,
+        publishedAt: ($page) => $page.frontmatter.date && new Date($page.frontmatter.date),
         modifiedAt: ($page) => $page.lastUpdated && new Date($page.lastUpdated),
       },
     ],
@@ -112,38 +106,41 @@ export default defineConfig({
     ],
     // https://github.com/tolking/vuepress-plugin-img-lazy
     ["img-lazy"],
-    ['vuepress-plugin-readmore-popular', {
-      // 已申请的博客 ID
-      blogId: '56209-2002664463317-162',
-      // 已申请的微信公众号名称
-      name: '程序员鱼皮',
-      // 已申请的微信公众号回复关键词
-      keyword: '编程宝典',
-      // 已申请的微信公众号二维码图片
-      qrcode: 'https://pic.code-nav.cn/common/qrcode-mpcoder_yupi.jpg',
-      // 文章内容的 JS 选择器，若使用的不是官方默认主题，则需要根据第三方的主题来设置
-      selector: 'div.theme-default-content',
-      // 自定义的 JS 资源链接，可用于 CDN 加速
-      libUrl: 'https://qiniu.techgrow.cn/readmore/dist/readmore.js',
-      // 自定义的 CSS 资源链接，可用于适配不同风格的博客
-      cssUrl: 'https://qiniu.techgrow.cn/readmore/dist/vuepress.css',
-      // 文章排除添加引流工具的 URL 规则，支持使用路径、通配符、正则表达式的匹配规则
-      excludes: { strExp: [], regExp: [] },
-      // 是否反转 URL 排除规则的配置，即只有符合排除规则的文章才会添加引流工具
-      reverse: false,
-      // 文章内容的预览高度(例如 300)，设置值为 auto 则表示预览高度自适应
-      height: 'auto',
-      // 是否添加微信公众号引流工具到移动端页面
-      allowMobile: false,
-      // 文章解锁后凭证的有效天数
-      expires: 365,
-      // 定时校验凭证有效性的时间间隔（秒）
-      interval: 60,
-      // 等待 DOM 节点加载完成的时间（毫秒），如果部分页面的引流功能无法生效，可适当增大此参数的值
-      waitDomMills: 1000,
-      // 每篇文章随机添加引流工具的概率，范围在 0.1 ~ 1.0 之间，代表 10% ~ 100%，其中 1.0 表示所有文章默认都添加引流工具
-      random: 1.0
-    }]
+    [
+      "vuepress-plugin-readmore-popular",
+      {
+        // 已申请的博客 ID
+        blogId: "56209-2002664463317-162",
+        // 已申请的微信公众号名称
+        name: "程序员鱼皮",
+        // 已申请的微信公众号回复关键词
+        keyword: "编程宝典",
+        // 已申请的微信公众号二维码图片
+        qrcode: "https://pic.code-nav.cn/common/qrcode-mpcoder_yupi.jpg",
+        // 文章内容的 JS 选择器，若使用的不是官方默认主题，则需要根据第三方的主题来设置
+        selector: "div.theme-default-content",
+        // 自定义的 JS 资源链接，可用于 CDN 加速
+        libUrl: "https://qiniu.techgrow.cn/readmore/dist/readmore.js",
+        // 自定义的 CSS 资源链接，可用于适配不同风格的博客
+        cssUrl: "https://qiniu.techgrow.cn/readmore/dist/vuepress.css",
+        // 文章排除添加引流工具的 URL 规则，支持使用路径、通配符、正则表达式的匹配规则
+        excludes: { strExp: [], regExp: [] },
+        // 是否反转 URL 排除规则的配置，即只有符合排除规则的文章才会添加引流工具
+        reverse: false,
+        // 文章内容的预览高度(例如 300)，设置值为 auto 则表示预览高度自适应
+        height: "auto",
+        // 是否添加微信公众号引流工具到移动端页面
+        allowMobile: false,
+        // 文章解锁后凭证的有效天数
+        expires: 365,
+        // 定时校验凭证有效性的时间间隔（秒）
+        interval: 60,
+        // 等待 DOM 节点加载完成的时间（毫秒），如果部分页面的引流功能无法生效，可适当增大此参数的值
+        waitDomMills: 1000,
+        // 每篇文章随机添加引流工具的概率，范围在 0.1 ~ 1.0 之间，代表 10% ~ 100%，其中 1.0 表示所有文章默认都添加引流工具
+        random: 1.0,
+      },
+    ],
   ],
   // 主题配置
   themeConfig: {
