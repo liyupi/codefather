@@ -1,8 +1,8 @@
 import { defineConfig } from "vuepress/config";
+import extraSideBar from "./extraSideBar";
+import footer from "./footer";
 import navbar from "./navbar";
 import sidebar from "./sidebar";
-import footer from "./footer";
-import extraSideBar from "./extraSideBar";
 
 const author = "程序员鱼皮";
 const domain = "https://code.yupi.icu";
@@ -57,7 +57,17 @@ export default defineConfig({
         ga: "GTM-WVS9HM6W", // 补充自己的谷歌分析 ID，比如 UA-00000000-0
       },
     ],
-    ["@vuepress/medium-zoom"],
+    [
+      "vuepress-plugin-zooming",
+      {
+        selector: ".custom-content img",
+        delay: 1000,
+        options: {
+          bgColor: "black",
+          zIndex: 10000,
+        },
+      },
+    ],
     // https://github.com/lorisleiva/vuepress-plugin-seo
     [
       "seo",
