@@ -9,14 +9,14 @@
   "devDependencies": {
     "@vuepress/plugin-back-to-top": "^1.9.10",
     "@vuepress/plugin-google-analytics": "^1.9.10",
-    "@vuepress/plugin-medium-zoom": "^1.9.10",
     "vuepress": "^1.9.10",
     "vuepress-plugin-baidu-autopush": "^1.0.1",
     "vuepress-plugin-feed": "^0.1.9",
     "vuepress-plugin-readmore-popular": "^0.0.17",
     "vuepress-plugin-seo": "^0.1.4",
     "vuepress-plugin-sitemap": "^2.3.1",
-    "vuepress-plugin-tags": "^1.0.2"
+    "vuepress-plugin-tags": "^1.0.2",
+    "vuepress-plugin-zooming": "^1.1.8"
   },
   "dependencies": {
     "vuepress-plugin-code-copy": "^1.0.6",

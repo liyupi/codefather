@@ -1,4 +1,5 @@
 ## 如何使用 Webpack 解决开发环境中的跨域问题？
+
 > 八股文一网打尽，更多面试题请看[程序员面试刷题神器 - 面试鸭](https://www.mianshiya.com/)
 
 ## 回答重点
@@ -9,7 +10,7 @@
 
 确保已经安装了 Webpack 和 Webpack Dev Server：
 
-```
+```bash
 npm install --save-dev webpack webpack-cli webpack-dev-server
 ```
 
@@ -18,22 +19,22 @@ npm install --save-dev webpack webpack-cli webpack-dev-server
 在 Webpack 配置文件（`webpack.config.js`）中，添加 devServer 选项，设置代理：
 
 ```javascript
-const path = require('path');
+const path = require("path");
 
 module.exports = {
-    // 其他配置...
-    devServer: {
-        contentBase: path.join(__dirname, 'dist'), // 静态文件目录
-        compress: true,
-        port: 9000,
-        proxy: {
-            '/api': {
-                target: 'http://your-api-server.com', // 目标 API 服务器
-                changeOrigin: true,
-                pathRewrite: { '^/api': '' }, // 可选：重写路径
-            },
-        },
+  // 其他配置...
+  devServer: {
+    contentBase: path.join(__dirname, "dist"), // 静态文件目录
+    compress: true,
+    port: 9000,
+    proxy: {
+      "/api": {
+        target: "http://your-api-server.com", // 目标 API 服务器
+        changeOrigin: true,
+        pathRewrite: { "^/api": "" }, // 可选：重写路径
+      },
     },
+  },
 };
 ```
 
@@ -41,7 +42,7 @@ module.exports = {
 
 在命令行中使用以下命令启动 Webpack Dev Server：
 
-```
+```bash
 npx webpack serve
 ```
 
@@ -50,18 +51,18 @@ npx webpack serve
 在代码中，通过代理路径访问 API，例如：
 
 ```javascript
-fetch('/api/endpoint')
-    .then((response) => response.json())
-    .then((data) => console.log(data));
+fetch("/api/endpoint")
+  .then((response) => response.json())
+  .then((data) => console.log(data));
 ```
 
 ## 扩展知识
 
 ### 代理配置参数说明
 
--   target：指定要代理的目标服务器的 URL。
--   changeOrigin：是否更改请求的 Origin 头部，通常设置为 true，以避免 CORS 问题。
--   pathRewrite：可选，用于重写请求路径。
+- target：指定要代理的目标服务器的 URL。
+- changeOrigin：是否更改请求的 Origin 头部，通常设置为 true，以避免 CORS 问题。
+- pathRewrite：可选，用于重写请求路径。
 
 ### CORS 和代理的区别
 
@@ -73,13 +74,12 @@ CORS（跨域资源共享）是浏览器的安全特性，限制不同源之间�
 
 1）CORS（跨域资源共享）：这是后端解决跨域问题的一种常用方式，通过设置 HTTP 头部的字段 Access-Control-Allow-Origin。然而，这种方式需要后端进行配置，某些场景下可能无法修改后端代码。
 
-2）JSONP：一种通过动态创建 <script> 标签来实现的跨域请求方法，不过它只适用于 GET 请求。
+2）JSONP：一种通过动态创建 `<script>` 标签来实现的跨域请求方法，不过它只适用于 GET 请求。
 
 3）
+
 ```
 Access-Control-Allow-Origin: *
 ```
-
-
 
 > 八股文一网打尽，更多面试题请看[程序员面试刷题神器 - 面试鸭](https://www.mianshiya.com/)
