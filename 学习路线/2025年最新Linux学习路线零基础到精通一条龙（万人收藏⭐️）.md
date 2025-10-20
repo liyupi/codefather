@@ -393,7 +393,5 @@
    - 宝塔 Linux 面板：[https://www.bt.cn/](https://www.bt.cn/)
    - 在线 Shell 脚本检查：[https://www.shellcheck.net](https://www.shellcheck.net)
 -  面试题 
-   - Linux 常见面试题整理：[https://zhuanlan.zhihu.com/p/376749877](https://zhuanlan.zhihu.com/p/376749877)
-   - Linux 常见面试题整理：[https://github.com/0voice/linux_kernel_wiki#-面试题](https://github.com/0voice/linux_kernel_wiki#-%E9%9D%A2%E8%AF%95%E9%A2%98)
-# [
-](https://github.com/0voice/linux_kernel_wiki#-%E9%9D%A2%E8%AF%95%E9%A2%98)
+   - 高频企业面试题：[https://www.mianshiya.com/](https://www.mianshiya.com/)
+   - 企业真实面经汇总：[https://www.codefather.cn/tag/%E9%9D%A2%E7%BB%8F](https://www.codefather.cn/tag/%E9%9D%A2%E7%BB%8F)
