@@ -412,6 +412,9 @@ Git 的分支概念还是很重要的，大家可以使用 [Learning Git Branchi
 
 #### 理论
 
+- 高频企业面试题：[https://www.mianshiya.com/](https://www.mianshiya.com/)
+- 企业真实面经汇总：[https://www.codefather.cn/tag/%E9%9D%A2%E7%BB%8F](https://www.codefather.cn/tag/%E9%9D%A2%E7%BB%8F)
+
 1. 简述 Git 的原理和工作流程
 2. 什么是版本控制系统？为什么需要版本控制系统？
 3. git fetch 和 git pull 命令的区别？
