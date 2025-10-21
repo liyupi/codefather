@@ -1,5 +1,9 @@
-> by 程序员鱼皮
-> 
+# 2025年最新Redis学习路线零基础到精通一条龙（万人收藏⭐️）
+
+> 本文作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
+>
+> 本站地址：[https://codefather.cn](https://codefather.cn)
+>
 > Redsi 求职高频面试题：[开始刷题](https://www.mianshiya.com/bank/1791375592078610434)
 
   
