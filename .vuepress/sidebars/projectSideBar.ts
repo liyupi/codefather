@@ -5,6 +5,9 @@ export default [
     collapsable: false,
     children: [
       "鱼皮项目学习建议（必读）.md",
+      "AI 零代码应用生成平台（25 年最新）.md",
+      "AI 超级智能体（25 年必学）.md",
+      "智能协同云图库项目（25 年最新）.md",
       "面试刷题项目.md",
       "AI 答题应用平台.md",
       "代码生成器共享平台.md",
