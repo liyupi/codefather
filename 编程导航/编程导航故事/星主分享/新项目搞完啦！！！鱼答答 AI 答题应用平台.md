@@ -32,7 +32,7 @@
 
 用户可以基于 AI 快速制作并发布多种答题应用，支持检索和分享应用、在线答题并基于评分算法或 AI 得到回答总结；管理员可以审核应用、集中管理整站内容，并进行统计分析。
 
-> 在线体验：https://yudada.code-nav.cn
+> 在线体验：https://www.codefather.cn
 >
 > 视频介绍：https://www.bilibili.com/video/BV1Xm421N7Xj/
 

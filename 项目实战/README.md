@@ -113,7 +113,7 @@
 
 教程由浅入深，带你学习实战 React + Next.js 服务端渲染网站开发，后端 Redis 多级缓存、Elasticsearch 搜索、Redisson 高级数据结构、Druid 并发、HotKey 探测、Sa-Token 权限控制、Nacos 动态配置、Sentinel 流控、反爬虫设计等，提升技术运用能力。
 
-> 开始学习或了解详情：https://www.code-nav.cn/course/1826803928691945473
+> 开始学习或了解详情：https://www.codefather.cn/course/1826803928691945473
 > 
 > 开源地址：https://github.com/liyupi/mianshiya-next
 
@@ -123,11 +123,11 @@
 
 教程由浅入深，可以学习实战 React 跨端小程序开发、Vue3 AI 应用网站开发，后端分库分表、分布式锁、缓存、幂等设计、设计模式、RxJava 响应式编程、SSE 实时推送、线程池隔离等，大幅提升开发经验和架构设计能力，助你成为项目负责人。
 
-> 开始学习或了解详情：[🔥 AI 答题应用平台（最新完结）](https://www.code-nav.cn/course/1790274408835506178)
+> 开始学习或了解详情：[🔥 AI 答题应用平台（最新完结）](https://www.codefather.cn/course/1790274408835506178)
 >
 > 开源地址：https://github.com/liyupi/yudada
 >
-> 教程试看一集：[点击试看](https://www.code-nav.cn/course/1790274408835506178/section/1790274461633404930?contentType=video&type=#)
+> 教程试看一集：[点击试看](https://www.codefather.cn/course/1790274408835506178/section/1790274461633404930?contentType=video&type=#)
 
 ### 手写 RPC 框架
 
@@ -138,7 +138,7 @@
 - 基础版只需学几个小时，就能写在简历上的小项目~
 - 扩展版将是充满亮点的技术类项目，搭配一个业务项目，让简历更有竞争力。
 
-> 开始学习或了解详情：[手写 RPC 框架（24 年完结）](https://www.code-nav.cn/course/1768543954720022530)
+> 开始学习或了解详情：[手写 RPC 框架（24 年完结）](https://www.codefather.cn/course/1768543954720022530)
 >
 > 开源地址：https://github.com/liyupi/yu-rpc
 >
@@ -148,65 +148,65 @@
 
 基于 React + Spring Boot + Picocli + 对象存储的 **代码生成器共享平台**，又分为 3 个循序渐进的子项目：基于命令行的本地代码生成器 + 代码生成器制作工具 + 在线代码生成器平台。实践 Java 命令行应用开发、FreeMarker 模板引擎、多种设计模式、对象存储、十几种优化方法、复杂业务的拆解和系统设计、分布式任务调度系统、Vert.x 响应式编程等。
 
-> 开始学习或了解详情：[代码生成器共享平台（24 年最新完结） ](https://www.code-nav.cn/course/1790980795074654209) 
+> 开始学习或了解详情：[代码生成器共享平台（24 年最新完结） ](https://www.codefather.cn/course/1790980795074654209) 
 >
 > 在线体验：[http://yuzi.code-nav.cn](http://yuzi.code-nav.cn/)
 >
 > 视频演示：https://www.bilibili.com/video/BV1EA4m1L7tm/
 >
-> 教程试看一集：[点击试看](https://www.code-nav.cn/course/1790980795074654209/section/1791410704848105473?contentType=video&type=#)
+> 教程试看一集：[点击试看](https://www.codefather.cn/course/1790980795074654209/section/1791410704848105473?contentType=video&type=#)
 
 ### OJ 判题系统
 
 基于 Vue 3 + Spring Boot + Spring Cloud 微服务 + Docker 的编程题目在线评测系统。系统学习并实践前后端模板开发 + 多种设计模式 + 单体项目微服务改造 + Linux 虚拟机远程开发 + Docker 代码沙箱 + Java 安全控制。
 
-> 开始学习或了解详情：[OJ 判题系统（最新完结）](https://www.code-nav.cn/course/1790980707917017089) 
+> 开始学习或了解详情：[OJ 判题系统（最新完结）](https://www.codefather.cn/course/1790980707917017089) 
 >
-> 试看一集：[点击试看](https://www.code-nav.cn/course/1790980707917017089/section/1791374029275856898?contentType=video&type=#)
+> 试看一集：[点击试看](https://www.codefather.cn/course/1790980707917017089/section/1791374029275856898?contentType=video&type=#)
 
 ### 智能 BI 项目
 
 基于 React + Spring Boot + AIGC 的智能数据分析平台。系统学习并实践异步化 + 线程池 + RabbitMQ 消息队列 + AI 应用开发 + AIGC Prompt 优化。
 
-> 开始学习或了解详情：[智能 BI 平台](https://www.code-nav.cn/course/1790980531403927553) 
+> 开始学习或了解详情：[智能 BI 平台](https://www.codefather.cn/course/1790980531403927553) 
 >
-> 试看一集：[点击试看](https://www.code-nav.cn/course/1790980531403927553/section/1791385461357924354?contentType=video&type=#)
+> 试看一集：[点击试看](https://www.codefather.cn/course/1790980531403927553/section/1791385461357924354?contentType=video&type=#)
 
 ### API 开放平台
 
 基于 React + Spring Boot + Dubbo 的分布式项目。系统学习并实践前后端模板开发 + 架构设计 + SDK 开发 + API 签名认证 + Dubbo RPC + Gateway 微服务网关。
 
-> 开始学习或了解详情：[API 开放平台](https://www.code-nav.cn/course/1790979723916521474) 
+> 开始学习或了解详情：[API 开放平台](https://www.codefather.cn/course/1790979723916521474) 
 >
-> 试看一集：[点击试看](https://www.code-nav.cn/course/1790979723916521474/section/1791087226742419457?contentType=video&type=#)
+> 试看一集：[点击试看](https://www.codefather.cn/course/1790979723916521474/section/1791087226742419457?contentType=video&type=#)
 
 ### 聚合搜索平台
 
 基于 Vue 3 + Spring Boot + ES 的搜索中台项目。系统学习并实践爬虫 + Elastic Stack + 设计模式 + 数据同步 + JMeter 压力测试。
 
-> 开始学习或了解详情：[聚合搜索平台](https://www.code-nav.cn/course/1790979621621641217) 
+> 开始学习或了解详情：[聚合搜索平台](https://www.codefather.cn/course/1790979621621641217) 
 >
-> 试看一集：[点击试看](https://www.code-nav.cn/course/1790979621621641217/section/1791092010266439681?contentType=video&type=#)
+> 试看一集：[点击试看](https://www.codefather.cn/course/1790979621621641217/section/1791092010266439681?contentType=video&type=#)
 
 ### 用户中心系统
 
 基于 React + Spring Boot 的 PC 网站。适合学完框架的新手入门，系统学习完整的项目开发流程和上线方法。
 
-> 开始学习或了解详情：[用户中心项目](https://www.code-nav.cn/course/1790943469757837313) 
+> 开始学习或了解详情：[用户中心项目](https://www.codefather.cn/course/1790943469757837313) 
 >
-> 试看一集：[点击试看](https://www.code-nav.cn/course/1790943469757837313/section/1791011127295520770?contentType=video&type=#)
+> 试看一集：[点击试看](https://www.codefather.cn/course/1790943469757837313/section/1791011127295520770?contentType=video&type=#)
 
 ### 伙伴匹配系统
 
 基于 Vue 3 + Spring Boot + Redis 的移动端 APP。帮助巩固开发流程，学习 Redis、事务、并发编程、大数据推荐思想等后端知识。
 
-> 开始学习或了解详情：[伙伴匹配系统](https://www.code-nav.cn/course/1790950013153095682) 
+> 开始学习或了解详情：[伙伴匹配系统](https://www.codefather.cn/course/1790950013153095682) 
 >
-> 试看一集：[点击试看](https://www.code-nav.cn/course/1790950013153095682/section/1791396210872537089?contentType=video&type=#)
+> 试看一集：[点击试看](https://www.codefather.cn/course/1790950013153095682/section/1791396210872537089?contentType=video&type=#)
 
 ## 🔧 万用项目模板
 
-> ⭐️ 加入项目系列学习：[成为编程导航会员](https://www.code-nav.cn/vip)
+> ⭐️ 加入项目系列学习：[成为编程导航会员](https://www.codefather.cn/vip)
 
 ### Java 后端万用项目模板
 
@@ -214,7 +214,7 @@
 
 只需 **1 分钟** 即可完成内容网站的后端！！！大家还可以在此基础上快速开发自己的项目。
 
-详情请见：[Java 后端万用项目模板](https://www.code-nav.cn/course/1789200994552225793/section/1789201346202673154?type=#) 
+详情请见：[Java 后端万用项目模板](https://www.codefather.cn/course/1789200994552225793/section/1789201346202673154?type=#) 
 
 ### 前端万用项目模板
 
@@ -222,11 +222,11 @@
 
 只需 **1 分钟** 即可完成网站的基础前端！！！大家还可以在此基础上快速开发自己的项目。
 
-详情请见：[前端万用项目模板](https://www.code-nav.cn/course/1789200994552225793/section/1789201831080992770?type=#) 
+详情请见：[前端万用项目模板](https://www.codefather.cn/course/1789200994552225793/section/1789201831080992770?type=#) 
 
 ## ⛺️ 项目训练营
 
-[项目训练营（寻爱网项目）](https://www.code-nav.cn/course/1806250609774997505/section/1806260285074825217?type=)：学习从立项到上线的完整做项目流程 + 优化思路
+[项目训练营（寻爱网项目）](https://www.codefather.cn/course/1806250609774997505/section/1806260285074825217?type=)：学习从立项到上线的完整做项目流程 + 优化思路
 
 > 免费试看：[点击在线观看](https://www.aliyundrive.com/s/rcFczasMKVK)，提取码: cu89
 
@@ -246,7 +246,7 @@
 
 基于 Spring Boot + MySQL + React + Ant Design 组件库 + SweetAlert 的动态公告系统，包括后台公告管理和前端 SDK 开发，只需一行代码即可给项目增加灵活的公告弹窗展示能力，高效通知触达用户。
 
-> 开始学习或了解详情：https://www.code-nav.cn/course/1789199181551738882
+> 开始学习或了解详情：https://www.codefather.cn/course/1789199181551738882
 
 ### 埋点 SDK 项目实战（C++）
 
@@ -262,32 +262,32 @@
 
 > 主打小而精的企业真实业务实战教程，快速给简历增加亮点
 
-1. [简历中英文翻译实战教程](https://www.code-nav.cn/course/1789200352035184641/section/1789200491340603393?type=)
-2. [单设备登录限制实战教程](https://www.code-nav.cn/course/1789200352035184641/section/1789200584584175618?type=)
-3. [短信群发实战教程](https://www.code-nav.cn/course/1789200352035184641/section/1789200454422339586?type=)
+1. [简历中英文翻译实战教程](https://www.codefather.cn/course/1789200352035184641/section/1789200491340603393?type=)
+2. [单设备登录限制实战教程](https://www.codefather.cn/course/1789200352035184641/section/1789200584584175618?type=)
+3. [短信群发实战教程](https://www.codefather.cn/course/1789200352035184641/section/1789200454422339586?type=)
 
 持续更新中。。。
 
 ## 📺 独家项目经验分享
 
-> ⭐️ 加入项目系列学习：[成为编程导航会员](https://www.code-nav.cn/vip)
+> ⭐️ 加入项目系列学习：[成为编程导航会员](https://www.codefather.cn/vip)
 
 ### 鱼皮原创开源项目经验分享
 
-1. [Web 终端项目经验分享](https://www.code-nav.cn/essay/1808581806845460481)：前后端技术选型 + 系统设计 + 源码解读 + 简历亮点全面分享
-2. [面试刷题网站项目经验分享](https://www.code-nav.cn/essay/1808582645974695938)：从 0 到 1 分享数万用户网站的创作过程和经验分享
-3. [编程导航兑奖系统开发](https://www.code-nav.cn/essay/1808580701965123586)：编程导航网站真实开发过程大揭秘
-4. [SQL 代码数据生成项目分享](https://www.code-nav.cn/essay/1808580826217185282)：系统设计 + 源码解读 + 简历亮点全面分享
-5. [SQL 闯关式自学网站项目](https://www.code-nav.cn/essay/1808578829770424322)：纯前端 Vue3 + 代码编辑器项目，适合参与开源贡献
-6. [分布式邮件调度平台](https://www.code-nav.cn/course/1782335162700775426/section/1782342587189280770?type=&v=%E9%82%AE%E4%BB%B6)：Vue + Spring Boot + Redis + InfluxDB 的分布式项目，含设计说明书、竞赛展示 PPT
+1. [Web 终端项目经验分享](https://www.codefather.cn/essay/1808581806845460481)：前后端技术选型 + 系统设计 + 源码解读 + 简历亮点全面分享
+2. [面试刷题网站项目经验分享](https://www.codefather.cn/essay/1808582645974695938)：从 0 到 1 分享数万用户网站的创作过程和经验分享
+3. [编程导航兑奖系统开发](https://www.codefather.cn/essay/1808580701965123586)：编程导航网站真实开发过程大揭秘
+4. [SQL 代码数据生成项目分享](https://www.codefather.cn/essay/1808580826217185282)：系统设计 + 源码解读 + 简历亮点全面分享
+5. [SQL 闯关式自学网站项目](https://www.codefather.cn/essay/1808578829770424322)：纯前端 Vue3 + 代码编辑器项目，适合参与开源贡献
+6. [分布式邮件调度平台](https://www.codefather.cn/course/1782335162700775426/section/1782342587189280770?type=&v=%E9%82%AE%E4%BB%B6)：Vue + Spring Boot + Redis + InfluxDB 的分布式项目，含设计说明书、竞赛展示 PPT
 
 ### 项目导学
 
-1. [苍穹外卖 - 外卖点餐小程序](https://www.code-nav.cn/course/1782335162700775426/section/1782342617828671489?type=)：Java Spring Boot 入门级项目，业务流程完整、功能丰富、技术多样、适合刚学完框架的同学（相比于下面的瑞吉外卖，知识更多）
-2. [瑞吉外卖 - 外卖点餐系统](https://www.code-nav.cn/course/1782335162700775426/section/1782342621377052673?type=)：Java Spring Boot 入门级项目，适合刚学完框架的同学
-3. [尚医通 - 在线预约挂号平台](https://www.code-nav.cn/course/1782335162700775426/section/1782342632831696897?type=)：业务功能完整的 Java Spring Cloud 微服务项目，适合刚学完微服务的同学
-4. [硅谷课堂 - 在线学习平台](https://www.code-nav.cn/course/1782335162700775426/section/1782342652955967489?type=)：业务功能完整的 Java Spring Cloud 微服务项目，适合想学习第三方服务对接的同学
-5. [黑马点评 - 类似大众点评的移动 APP](https://www.code-nav.cn/course/1782335162700775426/section/1782342673558388737?type=)：专门为学习 Redis 定制的单体项目，适合刚学完 Spring Boot、想系统学习 Redis 的同学
+1. [苍穹外卖 - 外卖点餐小程序](https://www.codefather.cn/course/1782335162700775426/section/1782342617828671489?type=)：Java Spring Boot 入门级项目，业务流程完整、功能丰富、技术多样、适合刚学完框架的同学（相比于下面的瑞吉外卖，知识更多）
+2. [瑞吉外卖 - 外卖点餐系统](https://www.codefather.cn/course/1782335162700775426/section/1782342621377052673?type=)：Java Spring Boot 入门级项目，适合刚学完框架的同学
+3. [尚医通 - 在线预约挂号平台](https://www.codefather.cn/course/1782335162700775426/section/1782342632831696897?type=)：业务功能完整的 Java Spring Cloud 微服务项目，适合刚学完微服务的同学
+4. [硅谷课堂 - 在线学习平台](https://www.codefather.cn/course/1782335162700775426/section/1782342652955967489?type=)：业务功能完整的 Java Spring Cloud 微服务项目，适合想学习第三方服务对接的同学
+5. [黑马点评 - 类似大众点评的移动 APP](https://www.codefather.cn/course/1782335162700775426/section/1782342673558388737?type=)：专门为学习 Redis 定制的单体项目，适合刚学完 Spring Boot、想系统学习 Redis 的同学
 
 ## 鱼皮免费开源项目
 
@@ -321,8 +321,8 @@ Ikun 测试器（Vue）：https://github.com/liyupi/ikun-test
 
 ## 更多项目推荐
 
-更多项目推荐可以在 [原创编程学习路线](https://www.code-nav.cn/course/1789189862986850306) 和 [编程导航原创学习知识库](https://www.code-nav.cn/course) 中查看。
+更多项目推荐可以在 [原创编程学习路线](https://www.codefather.cn/course/1789189862986850306) 和 [编程导航原创学习知识库](https://www.codefather.cn/course) 中查看。
 
 ## 加入学习
 
-点击 [成为编程导航会员](https://www.code-nav.cn/vip) ，鱼皮原创项目均可学习。
+点击 [成为编程导航会员](https://www.codefather.cn/vip) ，鱼皮原创项目均可学习。

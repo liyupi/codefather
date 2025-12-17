@@ -145,7 +145,7 @@
 
   ### 2、项目实战
 
-  Redis 项目推荐及笔记：[https://www.code-nav.cn/post/1617711652306694146](https://www.code-nav.cn/post/1617711652306694146)
+  Redis 项目推荐及笔记：[https://www.codefather.cn/post/1617711652306694146](https://www.codefather.cn/post/1617711652306694146)
 
 
   ### 3、可视化工具

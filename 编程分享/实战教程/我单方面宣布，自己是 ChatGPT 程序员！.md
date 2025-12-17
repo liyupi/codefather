@@ -8,7 +8,7 @@
 
 前几天刚刚给大家分享了我自己做的编程词典网站，这个网站收集了 30 个主流编程领域、900 多篇编程相关的术语文章：
 
-> 指路：http://dict.code-nav.cn
+> 指路：https://www.codefather.cn/dict
 
 ![](https://pic.yupi.icu/5563/202311080953557.png)
 
