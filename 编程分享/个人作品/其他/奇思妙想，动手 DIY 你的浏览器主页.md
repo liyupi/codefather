@@ -6,7 +6,7 @@
 
 大家好我是鱼皮，前段时间上线了一个程序员必备的浏览器主页，得到了很多同学的好评。
 
-地址：https://home.code-nav.cn/
+地址：https://www.codefather.cn/
 
 ![](https://pic.yupi.icu/5563/202311090821282.png)
 

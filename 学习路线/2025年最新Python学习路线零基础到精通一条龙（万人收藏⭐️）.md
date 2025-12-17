@@ -27,7 +27,7 @@
 
 于是乎，Python 被推向了神坛，甚至在 2021 年 10 月的编程语言排行榜中，Python 登上了第一位！
 
-![](https://qiniuyun.code-nav.cn/image-20211009115608685.png#id=RyD8M&originHeight=1076&originWidth=1908&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](https://www.codefather.cn/image-20211009115608685.png#id=RyD8M&originHeight=1076&originWidth=1908&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 但就是这样一门 “永远的神” 的编程语言，却在网上被口口相传说：学了 Python 找不到工作！
 
@@ -69,7 +69,7 @@
 
 折叠了一部分，还是老长，**思维导图获取见文末** ：
 
-![](https://qiniuyun.code-nav.cn/img/%E9%B1%BC%E7%9A%AE%20-%20Python%20%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.png#id=ZnuEV&originHeight=8214&originWidth=1960&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
+![](https://www.codefather.cn/img/%E9%B1%BC%E7%9A%AE%20-%20Python%20%E5%AD%A6%E4%B9%A0%E8%B7%AF%E7%BA%BF.png#id=ZnuEV&originHeight=8214&originWidth=1960&originalType=binary&ratio=1&rotation=0&showTitle=false&status=done&style=none&title=)
 
 ## 学习路线
 
