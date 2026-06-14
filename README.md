@@ -4,6 +4,8 @@ permalink: /
 
 # 鱼皮的编程宝典
 
+[![Listed on TakoAPI](https://img.shields.io/badge/Listed%20on-TakoAPI-7c3aed)](https://takoapi.com/agents/liyupi-codefather)
+
 > 贴心的编程学习路线，全面的编程知识百科
 >
 > 作者：[程序员鱼皮](https://yuyuanweb.feishu.cn/wiki/Abldw5WkjidySxkKxU2cQdAtnah)
