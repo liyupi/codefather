@@ -10,6 +10,13 @@ permalink: /
 >
 > 本站地址：[https://codefather.cn](https://codefather.cn)
 
+## 🌐 Translations
+
+[English](./translations/en/README.md)
+
+---
+
+
 ## 本站内容
 
 - [编程学习路线](/学习路线)
